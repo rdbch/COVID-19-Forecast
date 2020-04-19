@@ -43,7 +43,7 @@ class BasicRecurrentPredictor(nn.Module, Configurable):
             'mlpLayerCfg' : [64,64],    # layer hidden dims
             'mlpActiv'    : 'Tanh',     # inner activation of the mlp
             'dropRate'    : None,       # dropout rate for each layer of mlp
-            'normType' : ' BatchNorm1d',
+            'normType'    : ' BatchNorm1d',
 
             'mlpActivLast' : None,       # note that every timestamp in the sequence will be activated too
             'returnFullSeq': False
@@ -101,9 +101,10 @@ class BasicRecurrentPredictor(nn.Module, Configurable):
                 inp = inTensor[:,moment,:] if i == 0 else hidState[i-1]
                 hidState[i], cellState[i] = r(inp, (hidState[i], cellState[i]))
 
-                output   = self.mlpModel(hidState[-i])
+            output   = self.mlpModel(hidState[-i])
             if self.returnFullSeq:
                 outputs += [output]
+
 
         # make feature predictions
         for moment in range(future):
