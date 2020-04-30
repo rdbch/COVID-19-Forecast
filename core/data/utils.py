@@ -1,18 +1,19 @@
 import torch
 import numpy as np
 import pandas as pd
-# =============================================== PREPROCESS TRAIN =====================================================
 from sklearn.preprocessing import StandardScaler
 
 
+# =============================================== PREPROCESS TRAIN =====================================================
 def preprocess_data(df):
     '''
-    Preprocess the input dataframe from the Kaggles's COVID-19 spread prediction.
+    Preprocess the input df from kaggle convid-19 spread competition format.
 
     Fill empty states with their country names (easier future handling).
     :param df: raw dataframe
     :return: dataframe
     '''
+
     # fill the state field with name of the country (if it is null)
     renameState     = df['Province_State'].fillna(0).values
     renameCountries = df['Country_Region'].values
@@ -43,28 +44,50 @@ def get_target_data(allData, errorData, errorThresh, country, target):
 
     return data
 
+# =============================================== GET SCALER ===========================================================
 def get_scaler(allData, target):
+    '''
+    Fit a standard scaler to target data.
+    :param allData: dataframe containing target data
+    :param target: fatalities or confirmed
+    :return: scaler
+    '''
     colName = 'Fatalities' if target == 'fatalities' else 'ConfirmedCases'
 
     # scale all data
-    scaler = StandardScaler()
+    scaler    = StandardScaler()
     dataScale = allData[colName].values
     dataScale = dataScale.reshape(-1, 1)
+
     scaler.fit(dataScale)
 
     return scaler
 
 # ================================================= GET TRAIN DATA =====================================================
 def get_train_data(allData, target, trainLimit, winSize, step, scaler = None, shuffle = True):
+    '''
+
+    :param allData:
+    :param target:      confirmed or fatalities
+    :param trainLimit:  only parse data till this date
+    :param winSize:     total window size(observation time + prediction)
+    :param step:        step between considering 2 consecutive batches
+    :param scaler:      scaler used for normalizing data
+    :param shuffle:     shuffle batches
+    :return:
+    '''
     colName = 'Fatalities' if target == 'fatalities' else 'ConfirmedCases'
 
     data = allData[allData['Date'] <= trainLimit]
 
+    # get training batches (sliding window)
     batches = []
     for c in data['Province_State'].unique():
         cVals = data[data['Province_State'] == c][colName].values
+
         for i in range(0, cVals.shape[0] - winSize, step):
             batch = cVals[i:i + winSize].reshape(-1, 1)
+            # scale
             if scaler is not None:
                 batch = scaler.transform(batch)
             batches.append(batch)
@@ -82,46 +105,31 @@ def get_train_data(allData, target, trainLimit, winSize, step, scaler = None, sh
 
 # =============================================== GET VAL DATA =========================================================
 def get_val_data(allData, target, country, startFrom, obsSize, scaler = None):
+    '''
+    :param allData:     df containing the desired target
+    :param target:      can be fatalities or confirmed
+    :param country:     target country
+    :param startFrom:   the first prediction will start from this data
+    :param obsSize:     last days until startFrom to be returned for prediction
+    :param scaler:      scaler for normalizing the prediction data
+
+    :return: validation data to be fed to the model and all data from strartFrom point
+    '''
+
     colName = 'Fatalities' if target == 'fatalities' else 'ConfirmedCases'
 
-    # prepera data for prediction
-    d     = allData[allData['Province_State'] == country]
-    dPred = scaler.transform(d['ConfirmedCases'].values.reshape(-1, 1))
+    # select data
+    data = allData[allData['Province_State'] == country]
+
+    data = data[data['Date'] >= startFrom - np.timedelta64(obsSize, 'D')][colName].values
+
+    dPred  = data[:obsSize].reshape(-1, 1)
+    dLabel = data[obsSize:].reshape(-1, 1)
 
     if scaler is not None:
-        dPred = scaler.transform(dPred)
+        dPred  = scaler.transform(dPred)
 
-    dPred = torch.Tensor(dPred).unsqueeze(0)
+    dPred  = torch.Tensor(dPred).unsqueeze(0)
+    dLabel = torch.Tensor(dLabel.astype(np.float32))
 
-    return dPred
-
- model.eval()
-
-# get figure
-fig, ax = plt.subplots(1, 1, figsize=(9, 4))
-fig.suptitle(countryName + ' prediction')
-
-# prepera data for prediction
-d = confirmedTrain[confirmedTrain['Province_State'] == countryName]
-dPred = confScaler.transform(d['ConfirmedCases'].values.reshape(-1, 1))
-dPred = torch.Tensor(dPred).unsqueeze(0).to(DEVICE)
-
-# make prediction
-pred = model(dPred[:, -OBS_SIZE:], future=50).cpu().detach().numpy()
-pred = confScaler.inverse_transform(pred[0])
-
-# plot prediction
-predDate = pd.date_range(start=d['Date'].values[-OBS_SIZE], periods=pred.shape[0])
-sns.lineplot(y=pred, x=predDate, ax=ax)
-
-# plot train data
-dPred = confScaler.inverse_transform(dPred[0].cpu())
-sns.lineplot(y=dPred[:, 0], x=d['Date'], ax=ax)
-
-# plot validation
-valData = confirmedVal[confirmedVal['Province_State'] == COUNTRY]['ConfirmedCases']
-valDate = confirmedVal[confirmedVal['Province_State'] == COUNTRY]['Date']
-sns.lineplot(y=valData, x=valDate, ax=ax);
-
-ax.legend(['Train', 'Pred', 'Validation'])
-ax.grid(True)
+    return dPred, dLabel

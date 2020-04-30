@@ -37,12 +37,12 @@ class BasicRecurrentPredictor(nn.Module):
         ''' This method sets up the hyperparameters. Default values are provided.'''
 
         # used during training to apply randomly replace prediction with label
-        self.teacherProb = kwargs.get('teacherProb', 0.5)
+        self.teacherProb   = kwargs.get('teacherProb', 0.5)
         self.returnFullSeq = kwargs.get('returnFullSeq', False)
 
         # RNN config
-        self.rnnCell     = kwargs.get('rnnCell',   'GRUCell')
-        self.rnnNoCells  = kwargs.get('rnnNoCells', 2)
+        self.rnnCell       = kwargs.get('rnnCell',   'LSTMCell')
+        self.rnnNoCells    = kwargs.get('rnnNoCells', 2)
 
         # MLP config
         self.mlpLayerCfg   = kwargs.get('mlpLayerCfg',  [64,64])
