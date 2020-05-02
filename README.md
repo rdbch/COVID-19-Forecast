@@ -1,13 +1,9 @@
 # COVID-19-Playground
----
 
-# Introduction
----
+## Introduction
 
+## Table of contents
 
-
-# Table of contents
----
 1. [Introduction](#introduction)
 2. [Table of contents](#table-of-contents)
 3. [Setup](#setup)
@@ -17,14 +13,13 @@
 5. [Results](#results)
 6. [Disclaimer](#disclaimer)
 
-# Setup
+## Setup
 
-# Approach
-## Country nearest neighbour
-## Reccurent predictor
-# Results
-
-# Disclaimer
+## Approach
+### Country nearest neighbour
+### Reccurent predictor
+## Results
+## Disclaimer
 
 
 
