@@ -6,11 +6,11 @@ Table of contents
 
 ## 1. Introduction
 
-## 2. Table of contents <a name="table_contest"></a>
+## 2. Table of contents <a name="table_con"></a>
 1. ![Introduction](#introd)
     1. ![Overview](#introd_overview)
     2. ![Installing the project](#introd_install)
-2. ![Table of contents](#table_contest)
+2. ![Table of contents](#table_con)
 3. ![Approach](#approach)
     1. ![Country nearest neighbour](#approach_nn)  
     2. ![Reccurent predictor](#approach_rnn)
