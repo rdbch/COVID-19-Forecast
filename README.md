@@ -1,17 +1,13 @@
 # COVID-19-Playground
 
-## Introduction
-
 ## Table of contents
-
-1. [Introduction](#introduction)
-2. [Table of contents](#table-of-contents)
-3. [Setup](#setup)
-4. [Approach](#approach)
+1. [Table of contents](#table-of-contents)
+2. [Setup](#setup)
+3. [Approach](#approach)
     1. [Country nearest neighbour](#country-nearest-neighbour)  
     2. [Reccurent predictor](#reccurent-predictor)
-5. [Results](#results)
-6. [Disclaimer](#disclaimer)
+4. [Results](#results)
+5. [Disclaimer](#disclaimer)
 
 ## Setup
 
