@@ -4,24 +4,24 @@
 Table of contents
 ---
 
-## 1. Introduction
+## 1. Introduction <a name="Introduction"></a>
 
 ## 2. Table of contents <a name="table_con"></a>
-1. ![Introduction](#introd)
-    1. ![Overview](#introd_overview)
-    2. ![Installing the project](#introd_install)
-2. ![Table of contents](#table_con)
-3. ![Approach](#approach)
+1. ![Introduction](#Introduction)
+2  ![Setup](#Setup)
+3. ![Table of contents](#table_con)
+4. ![Approach](#approach)
     1. ![Country nearest neighbour](#approach_nn)  
     2. ![Reccurent predictor](#approach_rnn)
-4. ![Results](#results)
-5. ![Disclaimer](#disclaimer)
+5. ![Results](#results)
+6. ![Disclaimer](#disclaimer)
 
 ## 3. Approach
+![RNN_Flow](assets/images/rnn.gif)
 
 ## 4. Results
 
 ## 5. Disclaimer
 
 
-![RNN_Flow](assets/images/rnn.gif)
+
