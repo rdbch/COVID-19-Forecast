@@ -23,17 +23,10 @@ $ cd COVID-19-Forecast
 ```
 
 Install PyTorch and 1.0+ and other dependencies (pandas, numpy, seaborn, jupyter, etc).
-- pip
-```
-$ pip install -r requirements.txt 
-```
-
-- conda
+- pip ``` $ pip install -r requirements.txt ```
+- conda ```  $ conda create --name COVID-19-Forecast --file req.txt ```
 
 **Note:** development was done using GPU accelerated version of Pytorch, so they have CUDA dependencies included.  
-``` 
-$ conda create --name COVID-19-Forecast --file req.txt 
-```
 
 ## Approach
 ### Country nearest neighbour
