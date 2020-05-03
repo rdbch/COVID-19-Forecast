@@ -43,7 +43,7 @@ class WeightInitializer:
     def _init_module(self, module):
         '''
         Internal function which is applied to every module in a network
-        :param module: model to be applied to
+        :param module: model on which the function is applied
         '''
 
         className = module.__class__.__name__
