@@ -27,12 +27,12 @@ def rmsle_error(source, candidate):
 class GradientSmoothLoss(nn.Module):
     def __init__(self, refGrad, future, decayFunc = None):
         '''
-        Function that minimize the rate of change of a time series prediction
+        Function that minimizes the rate of change of a time series prediction,
         as the times evolves. It tries to give a desired "shape".
 
         :param refGrad:   the maximum gradient that is used for scaling
         :param future:    number of future predictions in the timeseries
-        :param decayFunc: decay function for weights (the weights decreases as time increases, such that the last
+        :param decayFunc: decay function for weights (the weights decrease as time increases, such that the last
                             timestamps will have a smoother rate of change)
         '''
 
