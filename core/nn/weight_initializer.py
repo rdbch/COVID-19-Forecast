@@ -39,7 +39,7 @@ class WeightInitializer:
 
         model.apply(self._init_module)
 
-    # =============================================== INIT MODULES ====================================================
+    # =============================================== INIT MODULES =================================
     def _init_module(self, module):
         '''
         Internal function which is applied to every module in a network
