@@ -30,7 +30,9 @@ Install PyTorch and 1.0+ and other dependencies (pandas, numpy, seaborn, jupyter
 
 ### Fetching the latest data
 To have access to the latest data, please run
-```$ python scripts/fetch_new_data.py ```
+```
+$ python scripts/fetch_new_data.py 
+```
 This will download the new global data from [Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19) github repo and convert it to a more convenient format (the used in [Kaggles COVID-19 spread](https://www.kaggle.com/c/covid19-global-forecasting-week-4)). They update the data on daily basis.
 
 ### Running the notebooks
