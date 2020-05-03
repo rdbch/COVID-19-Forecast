@@ -17,7 +17,7 @@ This repository implements a Recurrent Neural Network, which predicts the spread
 ##Getting Started
 
 ### Installation
-Clone this repo:
+Clone this repo runnning the following command:
 ```
 $ git clone https://github.com/rdbch/COVID-19-Forecast/
 $ cd COVID-19-Forecast 
@@ -35,7 +35,6 @@ $ pip install -r requirements.txt
 ``` 
 $ conda create --name COVID-19-Forecast --file req.txt 
 ```
-
 
 ## Approach
 ### Country nearest neighbour
