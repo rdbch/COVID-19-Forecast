@@ -10,14 +10,14 @@ class BasicRecurrentPredictor(nn.Module):
         '''
         A  reccurent predictor composed from a Recurrent Cell and a MLP.
 
-        :param chNo          : no input features features
-        :param hidChNo       : no hidden embedding size of rnn cell. Same hidden size is considered for all cells
-        :param future        : no future moments to predict
+        :param chNo          : number of input features
+        :param hidChNo       : number of hidden embedding size of rnn cell. Same hidden size is considered for all cells
+        :param future        : number of future moments to predict
 
         :param kwargs        :
-        :param teacherProb   : during training randomly replace predicriton with label
+        :param teacherProb   : during training randomly replace prediction with label
         :param rnnCell       : type of RNN cell [LSTMCell, GRUCell]
-        :param rnnNoCells    : number RNN cells
+        :param rnnNoCells    : number of RNN cells
         :param mlpLayerCfg   : list layer config
         :param dropRate      : dropout rate applied on each layer of the MLP
         :param normType      : normalization type for MLP
@@ -36,7 +36,7 @@ class BasicRecurrentPredictor(nn.Module):
     def __hyper_parameters(self, **kwargs):
         ''' This method sets up the hyperparameters. Default values are provided.'''
 
-        # used during training to apply randomly replace prediction with label
+        # used during training to randomly replace prediction with label
         self.teacherProb   = kwargs.get('teacherProb', 0.5)
         self.returnFullSeq = kwargs.get('returnFullSeq', False)
 
@@ -89,7 +89,7 @@ class BasicRecurrentPredictor(nn.Module):
         '''
 
         :param inTensor:    input tensor [batch, moments, features]
-        :param future:      no of future moments to predict
+        :param future:      number of future moments to predict
         :param target:      used during training, randomly replace future prediction with label
         :param teacherProb: used during training for applying teacher method (replacing intermediate
                             predictions with labels)
@@ -124,7 +124,7 @@ class BasicRecurrentPredictor(nn.Module):
                 outputs += [output]
 
 
-        # make feature predictions
+        # make future predictions
         for moment in range(future):
             # teacher enforce
             if target is not None and np.random.random() < teacherProb:
