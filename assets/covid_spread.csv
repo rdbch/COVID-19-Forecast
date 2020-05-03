@@ -97,6 +97,10 @@ Province_State,Country_Region,Date,ConfirmedCases,Fatalities
 ,Afghanistan,2020-04-26,1531.0,50.0
 ,Afghanistan,2020-04-27,1703.0,57.0
 ,Afghanistan,2020-04-28,1828.0,58.0
+,Afghanistan,2020-04-29,1939.0,60.0
+,Afghanistan,2020-04-30,2171.0,64.0
+,Afghanistan,2020-05-01,2335.0,68.0
+,Afghanistan,2020-05-02,2469.0,72.0
 ,Albania,2020-01-22,0.0,0.0
 ,Albania,2020-01-23,0.0,0.0
 ,Albania,2020-01-24,0.0,0.0
@@ -195,6 +199,10 @@ Province_State,Country_Region,Date,ConfirmedCases,Fatalities
 ,Albania,2020-04-26,726.0,28.0
 ,Albania,2020-04-27,736.0,28.0
 ,Albania,2020-04-28,750.0,30.0
+,Albania,2020-04-29,766.0,30.0
+,Albania,2020-04-30,773.0,31.0
+,Albania,2020-05-01,782.0,31.0
+,Albania,2020-05-02,789.0,31.0
 ,Algeria,2020-01-22,0.0,0.0
 ,Algeria,2020-01-23,0.0,0.0
 ,Algeria,2020-01-24,0.0,0.0
@@ -293,6 +301,10 @@ Province_State,Country_Region,Date,ConfirmedCases,Fatalities
 ,Algeria,2020-04-26,3382.0,425.0
 ,Algeria,2020-04-27,3517.0,432.0
 ,Algeria,2020-04-28,3649.0,437.0
+,Algeria,2020-04-29,3848.0,444.0
+,Algeria,2020-04-30,4006.0,450.0
+,Algeria,2020-05-01,4154.0,453.0
+,Algeria,2020-05-02,4295.0,459.0
 ,Andorra,2020-01-22,0.0,0.0
 ,Andorra,2020-01-23,0.0,0.0
 ,Andorra,2020-01-24,0.0,0.0
@@ -391,6 +403,10 @@ Province_State,Country_Region,Date,ConfirmedCases,Fatalities
 ,Andorra,2020-04-26,738.0,40.0
 ,Andorra,2020-04-27,743.0,40.0
 ,Andorra,2020-04-28,743.0,41.0
+,Andorra,2020-04-29,743.0,42.0
+,Andorra,2020-04-30,745.0,42.0
+,Andorra,2020-05-01,745.0,43.0
+,Andorra,2020-05-02,747.0,44.0
 ,Angola,2020-01-22,0.0,0.0
 ,Angola,2020-01-23,0.0,0.0
 ,Angola,2020-01-24,0.0,0.0
@@ -489,6 +505,10 @@ Province_State,Country_Region,Date,ConfirmedCases,Fatalities
 ,Angola,2020-04-26,26.0,2.0
 ,Angola,2020-04-27,27.0,2.0
 ,Angola,2020-04-28,27.0,2.0
+,Angola,2020-04-29,27.0,2.0
+,Angola,2020-04-30,27.0,2.0
+,Angola,2020-05-01,30.0,2.0
+,Angola,2020-05-02,35.0,2.0
 ,Antigua and Barbuda,2020-01-22,0.0,0.0
 ,Antigua and Barbuda,2020-01-23,0.0,0.0
 ,Antigua and Barbuda,2020-01-24,0.0,0.0
@@ -587,6 +607,10 @@ Province_State,Country_Region,Date,ConfirmedCases,Fatalities
 ,Antigua and Barbuda,2020-04-26,24.0,3.0
 ,Antigua and Barbuda,2020-04-27,24.0,3.0
 ,Antigua and Barbuda,2020-04-28,24.0,3.0
+,Antigua and Barbuda,2020-04-29,24.0,3.0
+,Antigua and Barbuda,2020-04-30,24.0,3.0
+,Antigua and Barbuda,2020-05-01,25.0,3.0
+,Antigua and Barbuda,2020-05-02,25.0,3.0
 ,Argentina,2020-01-22,0.0,0.0
 ,Argentina,2020-01-23,0.0,0.0
 ,Argentina,2020-01-24,0.0,0.0
@@ -685,6 +709,10 @@ Province_State,Country_Region,Date,ConfirmedCases,Fatalities
 ,Argentina,2020-04-26,3892.0,192.0
 ,Argentina,2020-04-27,4003.0,197.0
 ,Argentina,2020-04-28,4127.0,207.0
+,Argentina,2020-04-29,4285.0,214.0
+,Argentina,2020-04-30,4428.0,218.0
+,Argentina,2020-05-01,4532.0,225.0
+,Argentina,2020-05-02,4681.0,237.0
 ,Armenia,2020-01-22,0.0,0.0
 ,Armenia,2020-01-23,0.0,0.0
 ,Armenia,2020-01-24,0.0,0.0
@@ -783,6 +811,10 @@ Province_State,Country_Region,Date,ConfirmedCases,Fatalities
 ,Armenia,2020-04-26,1746.0,28.0
 ,Armenia,2020-04-27,1808.0,29.0
 ,Armenia,2020-04-28,1867.0,30.0
+,Armenia,2020-04-29,1932.0,30.0
+,Armenia,2020-04-30,2066.0,32.0
+,Armenia,2020-05-01,2148.0,33.0
+,Armenia,2020-05-02,2273.0,33.0
 Australian Capital Territory,Australia,2020-01-22,0.0,0.0
 Australian Capital Territory,Australia,2020-01-23,0.0,0.0
 Australian Capital Territory,Australia,2020-01-24,0.0,0.0
@@ -881,6 +913,10 @@ Australian Capital Territory,Australia,2020-04-25,106.0,3.0
 Australian Capital Territory,Australia,2020-04-26,106.0,3.0
 Australian Capital Territory,Australia,2020-04-27,106.0,3.0
 Australian Capital Territory,Australia,2020-04-28,106.0,3.0
+Australian Capital Territory,Australia,2020-04-29,106.0,3.0
+Australian Capital Territory,Australia,2020-04-30,106.0,3.0
+Australian Capital Territory,Australia,2020-05-01,106.0,3.0
+Australian Capital Territory,Australia,2020-05-02,106.0,3.0
 New South Wales,Australia,2020-01-22,0.0,0.0
 New South Wales,Australia,2020-01-23,0.0,0.0
 New South Wales,Australia,2020-01-24,0.0,0.0
@@ -979,6 +1015,10 @@ New South Wales,Australia,2020-04-25,2994.0,33.0
 New South Wales,Australia,2020-04-26,3002.0,34.0
 New South Wales,Australia,2020-04-27,3004.0,34.0
 New South Wales,Australia,2020-04-28,3016.0,39.0
+New South Wales,Australia,2020-04-29,3016.0,40.0
+New South Wales,Australia,2020-04-30,3025.0,41.0
+New South Wales,Australia,2020-05-01,3030.0,41.0
+New South Wales,Australia,2020-05-02,3035.0,42.0
 Northern Territory,Australia,2020-01-22,0.0,0.0
 Northern Territory,Australia,2020-01-23,0.0,0.0
 Northern Territory,Australia,2020-01-24,0.0,0.0
@@ -1077,6 +1117,10 @@ Northern Territory,Australia,2020-04-25,28.0,0.0
 Northern Territory,Australia,2020-04-26,28.0,0.0
 Northern Territory,Australia,2020-04-27,28.0,0.0
 Northern Territory,Australia,2020-04-28,28.0,0.0
+Northern Territory,Australia,2020-04-29,28.0,0.0
+Northern Territory,Australia,2020-04-30,28.0,0.0
+Northern Territory,Australia,2020-05-01,27.0,0.0
+Northern Territory,Australia,2020-05-02,29.0,0.0
 Queensland,Australia,2020-01-22,0.0,0.0
 Queensland,Australia,2020-01-23,0.0,0.0
 Queensland,Australia,2020-01-24,0.0,0.0
@@ -1175,6 +1219,10 @@ Queensland,Australia,2020-04-25,1026.0,6.0
 Queensland,Australia,2020-04-26,1030.0,6.0
 Queensland,Australia,2020-04-27,1033.0,6.0
 Queensland,Australia,2020-04-28,1034.0,6.0
+Queensland,Australia,2020-04-29,1033.0,6.0
+Queensland,Australia,2020-04-30,1033.0,6.0
+Queensland,Australia,2020-05-01,1034.0,6.0
+Queensland,Australia,2020-05-02,1035.0,6.0
 South Australia,Australia,2020-01-22,0.0,0.0
 South Australia,Australia,2020-01-23,0.0,0.0
 South Australia,Australia,2020-01-24,0.0,0.0
@@ -1273,6 +1321,10 @@ South Australia,Australia,2020-04-25,438.0,4.0
 South Australia,Australia,2020-04-26,438.0,4.0
 South Australia,Australia,2020-04-27,438.0,4.0
 South Australia,Australia,2020-04-28,438.0,4.0
+South Australia,Australia,2020-04-29,438.0,4.0
+South Australia,Australia,2020-04-30,438.0,4.0
+South Australia,Australia,2020-05-01,438.0,4.0
+South Australia,Australia,2020-05-02,438.0,4.0
 Tasmania,Australia,2020-01-22,0.0,0.0
 Tasmania,Australia,2020-01-23,0.0,0.0
 Tasmania,Australia,2020-01-24,0.0,0.0
@@ -1371,6 +1423,10 @@ Tasmania,Australia,2020-04-25,207.0,10.0
 Tasmania,Australia,2020-04-26,212.0,11.0
 Tasmania,Australia,2020-04-27,214.0,11.0
 Tasmania,Australia,2020-04-28,218.0,11.0
+Tasmania,Australia,2020-04-29,219.0,12.0
+Tasmania,Australia,2020-04-30,221.0,13.0
+Tasmania,Australia,2020-05-01,221.0,13.0
+Tasmania,Australia,2020-05-02,221.0,13.0
 Victoria,Australia,2020-01-22,0.0,0.0
 Victoria,Australia,2020-01-23,0.0,0.0
 Victoria,Australia,2020-01-24,0.0,0.0
@@ -1469,6 +1525,10 @@ Victoria,Australia,2020-04-25,1346.0,16.0
 Victoria,Australia,2020-04-26,1349.0,17.0
 Victoria,Australia,2020-04-27,1349.0,17.0
 Victoria,Australia,2020-04-28,1354.0,18.0
+Victoria,Australia,2020-04-29,1361.0,18.0
+Victoria,Australia,2020-04-30,1364.0,18.0
+Victoria,Australia,2020-05-01,1371.0,18.0
+Victoria,Australia,2020-05-02,1384.0,18.0
 Western Australia,Australia,2020-01-22,0.0,0.0
 Western Australia,Australia,2020-01-23,0.0,0.0
 Western Australia,Australia,2020-01-24,0.0,0.0
@@ -1567,6 +1627,10 @@ Western Australia,Australia,2020-04-25,549.0,8.0
 Western Australia,Australia,2020-04-26,549.0,8.0
 Western Australia,Australia,2020-04-27,549.0,8.0
 Western Australia,Australia,2020-04-28,550.0,8.0
+Western Australia,Australia,2020-04-29,551.0,8.0
+Western Australia,Australia,2020-04-30,551.0,8.0
+Western Australia,Australia,2020-05-01,551.0,8.0
+Western Australia,Australia,2020-05-02,551.0,8.0
 ,Austria,2020-01-22,0.0,0.0
 ,Austria,2020-01-23,0.0,0.0
 ,Austria,2020-01-24,0.0,0.0
@@ -1665,6 +1729,10 @@ Western Australia,Australia,2020-04-28,550.0,8.0
 ,Austria,2020-04-26,15225.0,542.0
 ,Austria,2020-04-27,15274.0,549.0
 ,Austria,2020-04-28,15357.0,569.0
+,Austria,2020-04-29,15402.0,580.0
+,Austria,2020-04-30,15452.0,584.0
+,Austria,2020-05-01,15531.0,589.0
+,Austria,2020-05-02,15558.0,596.0
 ,Azerbaijan,2020-01-22,0.0,0.0
 ,Azerbaijan,2020-01-23,0.0,0.0
 ,Azerbaijan,2020-01-24,0.0,0.0
@@ -1763,6 +1831,10 @@ Western Australia,Australia,2020-04-28,550.0,8.0
 ,Azerbaijan,2020-04-26,1645.0,21.0
 ,Azerbaijan,2020-04-27,1678.0,22.0
 ,Azerbaijan,2020-04-28,1717.0,22.0
+,Azerbaijan,2020-04-29,1766.0,23.0
+,Azerbaijan,2020-04-30,1804.0,24.0
+,Azerbaijan,2020-05-01,1854.0,25.0
+,Azerbaijan,2020-05-02,1894.0,25.0
 ,Bahamas,2020-01-22,0.0,0.0
 ,Bahamas,2020-01-23,0.0,0.0
 ,Bahamas,2020-01-24,0.0,0.0
@@ -1861,6 +1933,10 @@ Western Australia,Australia,2020-04-28,550.0,8.0
 ,Bahamas,2020-04-26,80.0,11.0
 ,Bahamas,2020-04-27,80.0,11.0
 ,Bahamas,2020-04-28,80.0,11.0
+,Bahamas,2020-04-29,80.0,11.0
+,Bahamas,2020-04-30,81.0,11.0
+,Bahamas,2020-05-01,81.0,11.0
+,Bahamas,2020-05-02,83.0,11.0
 ,Bahrain,2020-01-22,0.0,0.0
 ,Bahrain,2020-01-23,0.0,0.0
 ,Bahrain,2020-01-24,0.0,0.0
@@ -1959,6 +2035,10 @@ Western Australia,Australia,2020-04-28,550.0,8.0
 ,Bahrain,2020-04-26,2647.0,8.0
 ,Bahrain,2020-04-27,2723.0,8.0
 ,Bahrain,2020-04-28,2811.0,8.0
+,Bahrain,2020-04-29,2921.0,8.0
+,Bahrain,2020-04-30,3040.0,8.0
+,Bahrain,2020-05-01,3170.0,8.0
+,Bahrain,2020-05-02,3284.0,8.0
 ,Bangladesh,2020-01-22,0.0,0.0
 ,Bangladesh,2020-01-23,0.0,0.0
 ,Bangladesh,2020-01-24,0.0,0.0
@@ -2057,6 +2137,10 @@ Western Australia,Australia,2020-04-28,550.0,8.0
 ,Bangladesh,2020-04-26,5416.0,145.0
 ,Bangladesh,2020-04-27,5913.0,152.0
 ,Bangladesh,2020-04-28,6462.0,155.0
+,Bangladesh,2020-04-29,7103.0,163.0
+,Bangladesh,2020-04-30,7667.0,168.0
+,Bangladesh,2020-05-01,8238.0,170.0
+,Bangladesh,2020-05-02,8790.0,175.0
 ,Barbados,2020-01-22,0.0,0.0
 ,Barbados,2020-01-23,0.0,0.0
 ,Barbados,2020-01-24,0.0,0.0
@@ -2155,6 +2239,10 @@ Western Australia,Australia,2020-04-28,550.0,8.0
 ,Barbados,2020-04-26,79.0,6.0
 ,Barbados,2020-04-27,80.0,6.0
 ,Barbados,2020-04-28,80.0,6.0
+,Barbados,2020-04-29,80.0,7.0
+,Barbados,2020-04-30,81.0,7.0
+,Barbados,2020-05-01,81.0,7.0
+,Barbados,2020-05-02,81.0,7.0
 ,Belarus,2020-01-22,0.0,0.0
 ,Belarus,2020-01-23,0.0,0.0
 ,Belarus,2020-01-24,0.0,0.0
@@ -2253,6 +2341,10 @@ Western Australia,Australia,2020-04-28,550.0,8.0
 ,Belarus,2020-04-26,10463.0,72.0
 ,Belarus,2020-04-27,11289.0,75.0
 ,Belarus,2020-04-28,12208.0,79.0
+,Belarus,2020-04-29,13181.0,84.0
+,Belarus,2020-04-30,14027.0,89.0
+,Belarus,2020-05-01,14917.0,93.0
+,Belarus,2020-05-02,15828.0,97.0
 ,Belgium,2020-01-22,0.0,0.0
 ,Belgium,2020-01-23,0.0,0.0
 ,Belgium,2020-01-24,0.0,0.0
@@ -2351,6 +2443,10 @@ Western Australia,Australia,2020-04-28,550.0,8.0
 ,Belgium,2020-04-26,46134.0,7094.0
 ,Belgium,2020-04-27,46687.0,7207.0
 ,Belgium,2020-04-28,47334.0,7331.0
+,Belgium,2020-04-29,47859.0,7501.0
+,Belgium,2020-04-30,48519.0,7594.0
+,Belgium,2020-05-01,49032.0,7703.0
+,Belgium,2020-05-02,49517.0,7765.0
 ,Belize,2020-01-22,0.0,0.0
 ,Belize,2020-01-23,0.0,0.0
 ,Belize,2020-01-24,0.0,0.0
@@ -2449,6 +2545,10 @@ Western Australia,Australia,2020-04-28,550.0,8.0
 ,Belize,2020-04-26,18.0,2.0
 ,Belize,2020-04-27,18.0,2.0
 ,Belize,2020-04-28,18.0,2.0
+,Belize,2020-04-29,18.0,2.0
+,Belize,2020-04-30,18.0,2.0
+,Belize,2020-05-01,18.0,2.0
+,Belize,2020-05-02,18.0,2.0
 ,Benin,2020-01-22,0.0,0.0
 ,Benin,2020-01-23,0.0,0.0
 ,Benin,2020-01-24,0.0,0.0
@@ -2547,6 +2647,10 @@ Western Australia,Australia,2020-04-28,550.0,8.0
 ,Benin,2020-04-26,64.0,1.0
 ,Benin,2020-04-27,64.0,1.0
 ,Benin,2020-04-28,64.0,1.0
+,Benin,2020-04-29,64.0,1.0
+,Benin,2020-04-30,64.0,1.0
+,Benin,2020-05-01,90.0,2.0
+,Benin,2020-05-02,90.0,2.0
 ,Bhutan,2020-01-22,0.0,0.0
 ,Bhutan,2020-01-23,0.0,0.0
 ,Bhutan,2020-01-24,0.0,0.0
@@ -2645,6 +2749,10 @@ Western Australia,Australia,2020-04-28,550.0,8.0
 ,Bhutan,2020-04-26,7.0,0.0
 ,Bhutan,2020-04-27,7.0,0.0
 ,Bhutan,2020-04-28,7.0,0.0
+,Bhutan,2020-04-29,7.0,0.0
+,Bhutan,2020-04-30,7.0,0.0
+,Bhutan,2020-05-01,7.0,0.0
+,Bhutan,2020-05-02,7.0,0.0
 ,Bolivia,2020-01-22,0.0,0.0
 ,Bolivia,2020-01-23,0.0,0.0
 ,Bolivia,2020-01-24,0.0,0.0
@@ -2743,6 +2851,10 @@ Western Australia,Australia,2020-04-28,550.0,8.0
 ,Bolivia,2020-04-26,950.0,50.0
 ,Bolivia,2020-04-27,1014.0,53.0
 ,Bolivia,2020-04-28,1014.0,53.0
+,Bolivia,2020-04-29,1110.0,59.0
+,Bolivia,2020-04-30,1110.0,59.0
+,Bolivia,2020-05-01,1229.0,66.0
+,Bolivia,2020-05-02,1229.0,66.0
 ,Bosnia and Herzegovina,2020-01-22,0.0,0.0
 ,Bosnia and Herzegovina,2020-01-23,0.0,0.0
 ,Bosnia and Herzegovina,2020-01-24,0.0,0.0
@@ -2841,6 +2953,10 @@ Western Australia,Australia,2020-04-28,550.0,8.0
 ,Bosnia and Herzegovina,2020-04-26,1516.0,59.0
 ,Bosnia and Herzegovina,2020-04-27,1565.0,60.0
 ,Bosnia and Herzegovina,2020-04-28,1585.0,63.0
+,Bosnia and Herzegovina,2020-04-29,1677.0,65.0
+,Bosnia and Herzegovina,2020-04-30,1757.0,69.0
+,Bosnia and Herzegovina,2020-05-01,1781.0,70.0
+,Bosnia and Herzegovina,2020-05-02,1839.0,72.0
 ,Botswana,2020-01-22,0.0,0.0
 ,Botswana,2020-01-23,0.0,0.0
 ,Botswana,2020-01-24,0.0,0.0
@@ -2939,6 +3055,10 @@ Western Australia,Australia,2020-04-28,550.0,8.0
 ,Botswana,2020-04-26,22.0,1.0
 ,Botswana,2020-04-27,22.0,1.0
 ,Botswana,2020-04-28,23.0,1.0
+,Botswana,2020-04-29,23.0,1.0
+,Botswana,2020-04-30,23.0,1.0
+,Botswana,2020-05-01,23.0,1.0
+,Botswana,2020-05-02,23.0,1.0
 ,Brazil,2020-01-22,0.0,0.0
 ,Brazil,2020-01-23,0.0,0.0
 ,Brazil,2020-01-24,0.0,0.0
@@ -3037,6 +3157,10 @@ Western Australia,Australia,2020-04-28,550.0,8.0
 ,Brazil,2020-04-26,63100.0,4286.0
 ,Brazil,2020-04-27,67446.0,4603.0
 ,Brazil,2020-04-28,73235.0,5083.0
+,Brazil,2020-04-29,79685.0,5513.0
+,Brazil,2020-04-30,87187.0,6006.0
+,Brazil,2020-05-01,92202.0,6412.0
+,Brazil,2020-05-02,97100.0,6761.0
 ,Brunei,2020-01-22,0.0,0.0
 ,Brunei,2020-01-23,0.0,0.0
 ,Brunei,2020-01-24,0.0,0.0
@@ -3135,6 +3259,10 @@ Western Australia,Australia,2020-04-28,550.0,8.0
 ,Brunei,2020-04-26,138.0,1.0
 ,Brunei,2020-04-27,138.0,1.0
 ,Brunei,2020-04-28,138.0,1.0
+,Brunei,2020-04-29,138.0,1.0
+,Brunei,2020-04-30,138.0,1.0
+,Brunei,2020-05-01,138.0,1.0
+,Brunei,2020-05-02,138.0,1.0
 ,Bulgaria,2020-01-22,0.0,0.0
 ,Bulgaria,2020-01-23,0.0,0.0
 ,Bulgaria,2020-01-24,0.0,0.0
@@ -3233,6 +3361,10 @@ Western Australia,Australia,2020-04-28,550.0,8.0
 ,Bulgaria,2020-04-26,1300.0,56.0
 ,Bulgaria,2020-04-27,1363.0,58.0
 ,Bulgaria,2020-04-28,1399.0,58.0
+,Bulgaria,2020-04-29,1447.0,64.0
+,Bulgaria,2020-04-30,1506.0,66.0
+,Bulgaria,2020-05-01,1555.0,68.0
+,Bulgaria,2020-05-02,1594.0,72.0
 ,Burkina Faso,2020-01-22,0.0,0.0
 ,Burkina Faso,2020-01-23,0.0,0.0
 ,Burkina Faso,2020-01-24,0.0,0.0
@@ -3331,6 +3463,10 @@ Western Australia,Australia,2020-04-28,550.0,8.0
 ,Burkina Faso,2020-04-26,632.0,42.0
 ,Burkina Faso,2020-04-27,635.0,42.0
 ,Burkina Faso,2020-04-28,638.0,42.0
+,Burkina Faso,2020-04-29,641.0,43.0
+,Burkina Faso,2020-04-30,645.0,43.0
+,Burkina Faso,2020-05-01,649.0,44.0
+,Burkina Faso,2020-05-02,652.0,44.0
 ,Burma,2020-01-22,0.0,0.0
 ,Burma,2020-01-23,0.0,0.0
 ,Burma,2020-01-24,0.0,0.0
@@ -3429,6 +3565,10 @@ Western Australia,Australia,2020-04-28,550.0,8.0
 ,Burma,2020-04-26,146.0,5.0
 ,Burma,2020-04-27,146.0,5.0
 ,Burma,2020-04-28,150.0,5.0
+,Burma,2020-04-29,150.0,6.0
+,Burma,2020-04-30,151.0,6.0
+,Burma,2020-05-01,151.0,6.0
+,Burma,2020-05-02,151.0,6.0
 ,Burundi,2020-01-22,0.0,0.0
 ,Burundi,2020-01-23,0.0,0.0
 ,Burundi,2020-01-24,0.0,0.0
@@ -3527,6 +3667,10 @@ Western Australia,Australia,2020-04-28,550.0,8.0
 ,Burundi,2020-04-26,11.0,1.0
 ,Burundi,2020-04-27,11.0,1.0
 ,Burundi,2020-04-28,11.0,1.0
+,Burundi,2020-04-29,11.0,1.0
+,Burundi,2020-04-30,11.0,1.0
+,Burundi,2020-05-01,11.0,1.0
+,Burundi,2020-05-02,15.0,1.0
 ,Cabo Verde,2020-01-22,0.0,0.0
 ,Cabo Verde,2020-01-23,0.0,0.0
 ,Cabo Verde,2020-01-24,0.0,0.0
@@ -3625,6 +3769,10 @@ Western Australia,Australia,2020-04-28,550.0,8.0
 ,Cabo Verde,2020-04-26,106.0,1.0
 ,Cabo Verde,2020-04-27,109.0,1.0
 ,Cabo Verde,2020-04-28,114.0,1.0
+,Cabo Verde,2020-04-29,114.0,1.0
+,Cabo Verde,2020-04-30,121.0,1.0
+,Cabo Verde,2020-05-01,122.0,1.0
+,Cabo Verde,2020-05-02,152.0,2.0
 ,Cambodia,2020-01-22,0.0,0.0
 ,Cambodia,2020-01-23,0.0,0.0
 ,Cambodia,2020-01-24,0.0,0.0
@@ -3723,6 +3871,10 @@ Western Australia,Australia,2020-04-28,550.0,8.0
 ,Cambodia,2020-04-26,122.0,0.0
 ,Cambodia,2020-04-27,122.0,0.0
 ,Cambodia,2020-04-28,122.0,0.0
+,Cambodia,2020-04-29,122.0,0.0
+,Cambodia,2020-04-30,122.0,0.0
+,Cambodia,2020-05-01,122.0,0.0
+,Cambodia,2020-05-02,122.0,0.0
 ,Cameroon,2020-01-22,0.0,0.0
 ,Cameroon,2020-01-23,0.0,0.0
 ,Cameroon,2020-01-24,0.0,0.0
@@ -3821,6 +3973,10 @@ Western Australia,Australia,2020-04-28,550.0,8.0
 ,Cameroon,2020-04-26,1621.0,56.0
 ,Cameroon,2020-04-27,1705.0,58.0
 ,Cameroon,2020-04-28,1705.0,58.0
+,Cameroon,2020-04-29,1832.0,61.0
+,Cameroon,2020-04-30,1832.0,61.0
+,Cameroon,2020-05-01,1832.0,61.0
+,Cameroon,2020-05-02,2077.0,64.0
 Alberta,Canada,2020-01-22,0.0,0.0
 Alberta,Canada,2020-01-23,0.0,0.0
 Alberta,Canada,2020-01-24,0.0,0.0
@@ -3919,6 +4075,10 @@ Alberta,Canada,2020-04-25,4233.0,73.0
 Alberta,Canada,2020-04-26,4480.0,73.0
 Alberta,Canada,2020-04-27,4696.0,75.0
 Alberta,Canada,2020-04-28,4850.0,80.0
+Alberta,Canada,2020-04-29,5165.0,87.0
+Alberta,Canada,2020-04-30,5355.0,90.0
+Alberta,Canada,2020-05-01,5573.0,92.0
+Alberta,Canada,2020-05-02,5670.0,94.0
 British Columbia,Canada,2020-01-22,0.0,0.0
 British Columbia,Canada,2020-01-23,0.0,0.0
 British Columbia,Canada,2020-01-24,0.0,0.0
@@ -4017,6 +4177,10 @@ British Columbia,Canada,2020-04-25,1948.0,100.0
 British Columbia,Canada,2020-04-26,1948.0,100.0
 British Columbia,Canada,2020-04-27,1998.0,104.0
 British Columbia,Canada,2020-04-28,2053.0,106.0
+British Columbia,Canada,2020-04-29,2087.0,109.0
+British Columbia,Canada,2020-04-30,2112.0,111.0
+British Columbia,Canada,2020-05-01,2145.0,112.0
+British Columbia,Canada,2020-05-02,2171.0,114.0
 Diamond Princess,Canada,2020-01-22,0.0,0.0
 Diamond Princess,Canada,2020-01-23,0.0,0.0
 Diamond Princess,Canada,2020-01-24,0.0,0.0
@@ -4115,6 +4279,10 @@ Diamond Princess,Canada,2020-04-25,0.0,1.0
 Diamond Princess,Canada,2020-04-26,0.0,1.0
 Diamond Princess,Canada,2020-04-27,0.0,1.0
 Diamond Princess,Canada,2020-04-28,0.0,1.0
+Diamond Princess,Canada,2020-04-29,0.0,1.0
+Diamond Princess,Canada,2020-04-30,0.0,1.0
+Diamond Princess,Canada,2020-05-01,1.0,1.0
+Diamond Princess,Canada,2020-05-02,1.0,1.0
 Grand Princess,Canada,2020-01-22,0.0,0.0
 Grand Princess,Canada,2020-01-23,0.0,0.0
 Grand Princess,Canada,2020-01-24,0.0,0.0
@@ -4213,6 +4381,10 @@ Grand Princess,Canada,2020-04-25,13.0,0.0
 Grand Princess,Canada,2020-04-26,13.0,0.0
 Grand Princess,Canada,2020-04-27,13.0,0.0
 Grand Princess,Canada,2020-04-28,13.0,0.0
+Grand Princess,Canada,2020-04-29,13.0,0.0
+Grand Princess,Canada,2020-04-30,13.0,0.0
+Grand Princess,Canada,2020-05-01,13.0,0.0
+Grand Princess,Canada,2020-05-02,13.0,0.0
 Manitoba,Canada,2020-01-22,0.0,0.0
 Manitoba,Canada,2020-01-23,0.0,0.0
 Manitoba,Canada,2020-01-24,0.0,0.0
@@ -4311,6 +4483,10 @@ Manitoba,Canada,2020-04-25,267.0,6.0
 Manitoba,Canada,2020-04-26,271.0,6.0
 Manitoba,Canada,2020-04-27,273.0,6.0
 Manitoba,Canada,2020-04-28,273.0,6.0
+Manitoba,Canada,2020-04-29,275.0,6.0
+Manitoba,Canada,2020-04-30,277.0,6.0
+Manitoba,Canada,2020-05-01,281.0,6.0
+Manitoba,Canada,2020-05-02,282.0,6.0
 New Brunswick,Canada,2020-01-22,0.0,0.0
 New Brunswick,Canada,2020-01-23,0.0,0.0
 New Brunswick,Canada,2020-01-24,0.0,0.0
@@ -4409,6 +4585,10 @@ New Brunswick,Canada,2020-04-25,118.0,0.0
 New Brunswick,Canada,2020-04-26,118.0,0.0
 New Brunswick,Canada,2020-04-27,118.0,0.0
 New Brunswick,Canada,2020-04-28,118.0,0.0
+New Brunswick,Canada,2020-04-29,118.0,0.0
+New Brunswick,Canada,2020-04-30,118.0,0.0
+New Brunswick,Canada,2020-05-01,118.0,0.0
+New Brunswick,Canada,2020-05-02,118.0,0.0
 Newfoundland and Labrador,Canada,2020-01-22,0.0,0.0
 Newfoundland and Labrador,Canada,2020-01-23,0.0,0.0
 Newfoundland and Labrador,Canada,2020-01-24,0.0,0.0
@@ -4507,6 +4687,10 @@ Newfoundland and Labrador,Canada,2020-04-25,257.0,3.0
 Newfoundland and Labrador,Canada,2020-04-26,258.0,3.0
 Newfoundland and Labrador,Canada,2020-04-27,258.0,3.0
 Newfoundland and Labrador,Canada,2020-04-28,258.0,3.0
+Newfoundland and Labrador,Canada,2020-04-29,258.0,3.0
+Newfoundland and Labrador,Canada,2020-04-30,258.0,3.0
+Newfoundland and Labrador,Canada,2020-05-01,259.0,3.0
+Newfoundland and Labrador,Canada,2020-05-02,259.0,3.0
 Northwest Territories,Canada,2020-01-22,0.0,0.0
 Northwest Territories,Canada,2020-01-23,0.0,0.0
 Northwest Territories,Canada,2020-01-24,0.0,0.0
@@ -4605,6 +4789,10 @@ Northwest Territories,Canada,2020-04-25,5.0,0.0
 Northwest Territories,Canada,2020-04-26,5.0,0.0
 Northwest Territories,Canada,2020-04-27,5.0,0.0
 Northwest Territories,Canada,2020-04-28,5.0,0.0
+Northwest Territories,Canada,2020-04-29,5.0,0.0
+Northwest Territories,Canada,2020-04-30,5.0,0.0
+Northwest Territories,Canada,2020-05-01,5.0,0.0
+Northwest Territories,Canada,2020-05-02,5.0,0.0
 Nova Scotia,Canada,2020-01-22,0.0,0.0
 Nova Scotia,Canada,2020-01-23,0.0,0.0
 Nova Scotia,Canada,2020-01-24,0.0,0.0
@@ -4703,6 +4891,10 @@ Nova Scotia,Canada,2020-04-25,865.0,22.0
 Nova Scotia,Canada,2020-04-26,873.0,24.0
 Nova Scotia,Canada,2020-04-27,900.0,24.0
 Nova Scotia,Canada,2020-04-28,915.0,27.0
+Nova Scotia,Canada,2020-04-29,935.0,28.0
+Nova Scotia,Canada,2020-04-30,947.0,28.0
+Nova Scotia,Canada,2020-05-01,959.0,29.0
+Nova Scotia,Canada,2020-05-02,963.0,31.0
 Ontario,Canada,2020-01-22,0.0,0.0
 Ontario,Canada,2020-01-23,0.0,0.0
 Ontario,Canada,2020-01-24,0.0,0.0
@@ -4801,6 +4993,10 @@ Ontario,Canada,2020-04-25,15012.0,916.0
 Ontario,Canada,2020-04-26,15568.0,960.0
 Ontario,Canada,2020-04-27,15970.0,1023.0
 Ontario,Canada,2020-04-28,16500.0,1072.0
+Ontario,Canada,2020-04-29,16978.0,1153.0
+Ontario,Canada,2020-04-30,17395.0,1205.0
+Ontario,Canada,2020-05-01,17880.0,1265.0
+Ontario,Canada,2020-05-02,18321.0,1292.0
 Prince Edward Island,Canada,2020-01-22,0.0,0.0
 Prince Edward Island,Canada,2020-01-23,0.0,0.0
 Prince Edward Island,Canada,2020-01-24,0.0,0.0
@@ -4899,6 +5095,10 @@ Prince Edward Island,Canada,2020-04-25,26.0,0.0
 Prince Edward Island,Canada,2020-04-26,26.0,0.0
 Prince Edward Island,Canada,2020-04-27,26.0,0.0
 Prince Edward Island,Canada,2020-04-28,27.0,0.0
+Prince Edward Island,Canada,2020-04-29,27.0,0.0
+Prince Edward Island,Canada,2020-04-30,27.0,0.0
+Prince Edward Island,Canada,2020-05-01,27.0,0.0
+Prince Edward Island,Canada,2020-05-02,27.0,0.0
 Quebec,Canada,2020-01-22,0.0,0.0
 Quebec,Canada,2020-01-23,0.0,0.0
 Quebec,Canada,2020-01-24,0.0,0.0
@@ -4997,6 +5197,10 @@ Quebec,Canada,2020-04-25,23267.0,1446.0
 Quebec,Canada,2020-04-26,24109.0,1516.0
 Quebec,Canada,2020-04-27,24983.0,1600.0
 Quebec,Canada,2020-04-28,25761.0,1683.0
+Quebec,Canada,2020-04-29,26610.0,1762.0
+Quebec,Canada,2020-04-30,27550.0,1859.0
+Quebec,Canada,2020-05-01,28656.0,2022.0
+Quebec,Canada,2020-05-02,29664.0,2136.0
 Recovered,Canada,2020-01-22,0.0,0.0
 Recovered,Canada,2020-01-23,0.0,0.0
 Recovered,Canada,2020-01-24,0.0,0.0
@@ -5095,6 +5299,10 @@ Recovered,Canada,2020-04-25,0.0,0.0
 Recovered,Canada,2020-04-26,0.0,0.0
 Recovered,Canada,2020-04-27,0.0,0.0
 Recovered,Canada,2020-04-28,0.0,0.0
+Recovered,Canada,2020-04-29,0.0,0.0
+Recovered,Canada,2020-04-30,0.0,0.0
+Recovered,Canada,2020-05-01,0.0,0.0
+Recovered,Canada,2020-05-02,0.0,0.0
 Saskatchewan,Canada,2020-01-22,0.0,0.0
 Saskatchewan,Canada,2020-01-23,0.0,0.0
 Saskatchewan,Canada,2020-01-24,0.0,0.0
@@ -5193,6 +5401,10 @@ Saskatchewan,Canada,2020-04-25,349.0,4.0
 Saskatchewan,Canada,2020-04-26,353.0,4.0
 Saskatchewan,Canada,2020-04-27,365.0,5.0
 Saskatchewan,Canada,2020-04-28,366.0,5.0
+Saskatchewan,Canada,2020-04-29,383.0,6.0
+Saskatchewan,Canada,2020-04-30,389.0,7.0
+Saskatchewan,Canada,2020-05-01,415.0,7.0
+Saskatchewan,Canada,2020-05-02,421.0,7.0
 Yukon,Canada,2020-01-22,0.0,0.0
 Yukon,Canada,2020-01-23,0.0,0.0
 Yukon,Canada,2020-01-24,0.0,0.0
@@ -5291,6 +5503,10 @@ Yukon,Canada,2020-04-25,11.0,0.0
 Yukon,Canada,2020-04-26,11.0,0.0
 Yukon,Canada,2020-04-27,11.0,0.0
 Yukon,Canada,2020-04-28,11.0,0.0
+Yukon,Canada,2020-04-29,11.0,0.0
+Yukon,Canada,2020-04-30,11.0,0.0
+Yukon,Canada,2020-05-01,11.0,0.0
+Yukon,Canada,2020-05-02,11.0,0.0
 ,Central African Republic,2020-01-22,0.0,0.0
 ,Central African Republic,2020-01-23,0.0,0.0
 ,Central African Republic,2020-01-24,0.0,0.0
@@ -5389,6 +5605,10 @@ Yukon,Canada,2020-04-28,11.0,0.0
 ,Central African Republic,2020-04-26,19.0,0.0
 ,Central African Republic,2020-04-27,19.0,0.0
 ,Central African Republic,2020-04-28,50.0,0.0
+,Central African Republic,2020-04-29,50.0,0.0
+,Central African Republic,2020-04-30,50.0,0.0
+,Central African Republic,2020-05-01,72.0,0.0
+,Central African Republic,2020-05-02,72.0,0.0
 ,Chad,2020-01-22,0.0,0.0
 ,Chad,2020-01-23,0.0,0.0
 ,Chad,2020-01-24,0.0,0.0
@@ -5487,6 +5707,10 @@ Yukon,Canada,2020-04-28,11.0,0.0
 ,Chad,2020-04-26,46.0,0.0
 ,Chad,2020-04-27,46.0,0.0
 ,Chad,2020-04-28,52.0,2.0
+,Chad,2020-04-29,52.0,2.0
+,Chad,2020-04-30,73.0,5.0
+,Chad,2020-05-01,73.0,5.0
+,Chad,2020-05-02,117.0,10.0
 ,Chile,2020-01-22,0.0,0.0
 ,Chile,2020-01-23,0.0,0.0
 ,Chile,2020-01-24,0.0,0.0
@@ -5585,6 +5809,10 @@ Yukon,Canada,2020-04-28,11.0,0.0
 ,Chile,2020-04-26,13331.0,189.0
 ,Chile,2020-04-27,13813.0,198.0
 ,Chile,2020-04-28,14365.0,207.0
+,Chile,2020-04-29,14885.0,216.0
+,Chile,2020-04-30,16023.0,227.0
+,Chile,2020-05-01,17008.0,234.0
+,Chile,2020-05-02,18435.0,247.0
 Anhui,China,2020-01-22,1.0,0.0
 Anhui,China,2020-01-23,9.0,0.0
 Anhui,China,2020-01-24,15.0,0.0
@@ -5683,6 +5911,10 @@ Anhui,China,2020-04-25,991.0,6.0
 Anhui,China,2020-04-26,991.0,6.0
 Anhui,China,2020-04-27,991.0,6.0
 Anhui,China,2020-04-28,991.0,6.0
+Anhui,China,2020-04-29,991.0,6.0
+Anhui,China,2020-04-30,991.0,6.0
+Anhui,China,2020-05-01,991.0,6.0
+Anhui,China,2020-05-02,991.0,6.0
 Beijing,China,2020-01-22,14.0,0.0
 Beijing,China,2020-01-23,22.0,0.0
 Beijing,China,2020-01-24,36.0,0.0
@@ -5781,6 +6013,10 @@ Beijing,China,2020-04-25,593.0,8.0
 Beijing,China,2020-04-26,593.0,9.0
 Beijing,China,2020-04-27,593.0,9.0
 Beijing,China,2020-04-28,593.0,9.0
+Beijing,China,2020-04-29,593.0,9.0
+Beijing,China,2020-04-30,593.0,9.0
+Beijing,China,2020-05-01,593.0,9.0
+Beijing,China,2020-05-02,593.0,9.0
 Chongqing,China,2020-01-22,6.0,0.0
 Chongqing,China,2020-01-23,9.0,0.0
 Chongqing,China,2020-01-24,27.0,0.0
@@ -5879,6 +6115,10 @@ Chongqing,China,2020-04-25,579.0,6.0
 Chongqing,China,2020-04-26,579.0,6.0
 Chongqing,China,2020-04-27,579.0,6.0
 Chongqing,China,2020-04-28,579.0,6.0
+Chongqing,China,2020-04-29,579.0,6.0
+Chongqing,China,2020-04-30,579.0,6.0
+Chongqing,China,2020-05-01,579.0,6.0
+Chongqing,China,2020-05-02,579.0,6.0
 Fujian,China,2020-01-22,1.0,0.0
 Fujian,China,2020-01-23,5.0,0.0
 Fujian,China,2020-01-24,10.0,0.0
@@ -5977,6 +6217,10 @@ Fujian,China,2020-04-25,355.0,1.0
 Fujian,China,2020-04-26,355.0,1.0
 Fujian,China,2020-04-27,355.0,1.0
 Fujian,China,2020-04-28,355.0,1.0
+Fujian,China,2020-04-29,355.0,1.0
+Fujian,China,2020-04-30,356.0,1.0
+Fujian,China,2020-05-01,356.0,1.0
+Fujian,China,2020-05-02,356.0,1.0
 Gansu,China,2020-01-22,0.0,0.0
 Gansu,China,2020-01-23,2.0,0.0
 Gansu,China,2020-01-24,2.0,0.0
@@ -6075,6 +6319,10 @@ Gansu,China,2020-04-25,139.0,2.0
 Gansu,China,2020-04-26,139.0,2.0
 Gansu,China,2020-04-27,139.0,2.0
 Gansu,China,2020-04-28,139.0,2.0
+Gansu,China,2020-04-29,139.0,2.0
+Gansu,China,2020-04-30,139.0,2.0
+Gansu,China,2020-05-01,139.0,2.0
+Gansu,China,2020-05-02,139.0,2.0
 Guangdong,China,2020-01-22,26.0,0.0
 Guangdong,China,2020-01-23,32.0,0.0
 Guangdong,China,2020-01-24,53.0,0.0
@@ -6173,6 +6421,10 @@ Guangdong,China,2020-04-25,1586.0,8.0
 Guangdong,China,2020-04-26,1587.0,8.0
 Guangdong,China,2020-04-27,1587.0,8.0
 Guangdong,China,2020-04-28,1588.0,8.0
+Guangdong,China,2020-04-29,1588.0,8.0
+Guangdong,China,2020-04-30,1588.0,8.0
+Guangdong,China,2020-05-01,1588.0,8.0
+Guangdong,China,2020-05-02,1588.0,8.0
 Guangxi,China,2020-01-22,2.0,0.0
 Guangxi,China,2020-01-23,5.0,0.0
 Guangxi,China,2020-01-24,23.0,0.0
@@ -6271,6 +6523,10 @@ Guangxi,China,2020-04-25,254.0,2.0
 Guangxi,China,2020-04-26,254.0,2.0
 Guangxi,China,2020-04-27,254.0,2.0
 Guangxi,China,2020-04-28,254.0,2.0
+Guangxi,China,2020-04-29,254.0,2.0
+Guangxi,China,2020-04-30,254.0,2.0
+Guangxi,China,2020-05-01,254.0,2.0
+Guangxi,China,2020-05-02,254.0,2.0
 Guizhou,China,2020-01-22,1.0,0.0
 Guizhou,China,2020-01-23,3.0,0.0
 Guizhou,China,2020-01-24,3.0,0.0
@@ -6369,6 +6625,10 @@ Guizhou,China,2020-04-25,147.0,2.0
 Guizhou,China,2020-04-26,147.0,2.0
 Guizhou,China,2020-04-27,147.0,2.0
 Guizhou,China,2020-04-28,147.0,2.0
+Guizhou,China,2020-04-29,147.0,2.0
+Guizhou,China,2020-04-30,147.0,2.0
+Guizhou,China,2020-05-01,147.0,2.0
+Guizhou,China,2020-05-02,147.0,2.0
 Hainan,China,2020-01-22,4.0,0.0
 Hainan,China,2020-01-23,5.0,0.0
 Hainan,China,2020-01-24,8.0,0.0
@@ -6467,6 +6727,10 @@ Hainan,China,2020-04-25,168.0,6.0
 Hainan,China,2020-04-26,168.0,6.0
 Hainan,China,2020-04-27,168.0,6.0
 Hainan,China,2020-04-28,168.0,6.0
+Hainan,China,2020-04-29,168.0,6.0
+Hainan,China,2020-04-30,168.0,6.0
+Hainan,China,2020-05-01,168.0,6.0
+Hainan,China,2020-05-02,168.0,6.0
 Hebei,China,2020-01-22,1.0,0.0
 Hebei,China,2020-01-23,1.0,1.0
 Hebei,China,2020-01-24,2.0,1.0
@@ -6565,6 +6829,10 @@ Hebei,China,2020-04-25,328.0,6.0
 Hebei,China,2020-04-26,328.0,6.0
 Hebei,China,2020-04-27,328.0,6.0
 Hebei,China,2020-04-28,328.0,6.0
+Hebei,China,2020-04-29,328.0,6.0
+Hebei,China,2020-04-30,328.0,6.0
+Hebei,China,2020-05-01,328.0,6.0
+Hebei,China,2020-05-02,328.0,6.0
 Heilongjiang,China,2020-01-22,0.0,0.0
 Heilongjiang,China,2020-01-23,2.0,0.0
 Heilongjiang,China,2020-01-24,4.0,1.0
@@ -6663,6 +6931,10 @@ Heilongjiang,China,2020-04-25,935.0,13.0
 Heilongjiang,China,2020-04-26,936.0,13.0
 Heilongjiang,China,2020-04-27,939.0,13.0
 Heilongjiang,China,2020-04-28,939.0,13.0
+Heilongjiang,China,2020-04-29,939.0,13.0
+Heilongjiang,China,2020-04-30,944.0,13.0
+Heilongjiang,China,2020-05-01,944.0,13.0
+Heilongjiang,China,2020-05-02,944.0,13.0
 Henan,China,2020-01-22,5.0,0.0
 Henan,China,2020-01-23,5.0,0.0
 Henan,China,2020-01-24,9.0,0.0
@@ -6761,6 +7033,10 @@ Henan,China,2020-04-25,1276.0,22.0
 Henan,China,2020-04-26,1276.0,22.0
 Henan,China,2020-04-27,1276.0,22.0
 Henan,China,2020-04-28,1276.0,22.0
+Henan,China,2020-04-29,1276.0,22.0
+Henan,China,2020-04-30,1276.0,22.0
+Henan,China,2020-05-01,1276.0,22.0
+Henan,China,2020-05-02,1276.0,22.0
 Hong Kong,China,2020-01-22,0.0,0.0
 Hong Kong,China,2020-01-23,2.0,0.0
 Hong Kong,China,2020-01-24,2.0,0.0
@@ -6859,6 +7135,10 @@ Hong Kong,China,2020-04-25,1037.0,4.0
 Hong Kong,China,2020-04-26,1037.0,4.0
 Hong Kong,China,2020-04-27,1037.0,4.0
 Hong Kong,China,2020-04-28,1037.0,4.0
+Hong Kong,China,2020-04-29,1037.0,4.0
+Hong Kong,China,2020-04-30,1037.0,4.0
+Hong Kong,China,2020-05-01,1039.0,4.0
+Hong Kong,China,2020-05-02,1039.0,4.0
 Hubei,China,2020-01-22,444.0,17.0
 Hubei,China,2020-01-23,444.0,17.0
 Hubei,China,2020-01-24,549.0,24.0
@@ -6957,6 +7237,10 @@ Hubei,China,2020-04-25,68128.0,4512.0
 Hubei,China,2020-04-26,68128.0,4512.0
 Hubei,China,2020-04-27,68128.0,4512.0
 Hubei,China,2020-04-28,68128.0,4512.0
+Hubei,China,2020-04-29,68128.0,4512.0
+Hubei,China,2020-04-30,68128.0,4512.0
+Hubei,China,2020-05-01,68128.0,4512.0
+Hubei,China,2020-05-02,68128.0,4512.0
 Hunan,China,2020-01-22,4.0,0.0
 Hunan,China,2020-01-23,9.0,0.0
 Hunan,China,2020-01-24,24.0,0.0
@@ -7055,6 +7339,10 @@ Hunan,China,2020-04-25,1019.0,4.0
 Hunan,China,2020-04-26,1019.0,4.0
 Hunan,China,2020-04-27,1019.0,4.0
 Hunan,China,2020-04-28,1019.0,4.0
+Hunan,China,2020-04-29,1019.0,4.0
+Hunan,China,2020-04-30,1019.0,4.0
+Hunan,China,2020-05-01,1019.0,4.0
+Hunan,China,2020-05-02,1019.0,4.0
 Inner Mongolia,China,2020-01-22,0.0,0.0
 Inner Mongolia,China,2020-01-23,0.0,0.0
 Inner Mongolia,China,2020-01-24,1.0,0.0
@@ -7153,6 +7441,10 @@ Inner Mongolia,China,2020-04-25,198.0,1.0
 Inner Mongolia,China,2020-04-26,198.0,1.0
 Inner Mongolia,China,2020-04-27,199.0,1.0
 Inner Mongolia,China,2020-04-28,199.0,1.0
+Inner Mongolia,China,2020-04-29,200.0,1.0
+Inner Mongolia,China,2020-04-30,201.0,1.0
+Inner Mongolia,China,2020-05-01,201.0,1.0
+Inner Mongolia,China,2020-05-02,201.0,1.0
 Jiangsu,China,2020-01-22,1.0,0.0
 Jiangsu,China,2020-01-23,5.0,0.0
 Jiangsu,China,2020-01-24,9.0,0.0
@@ -7251,6 +7543,10 @@ Jiangsu,China,2020-04-25,653.0,0.0
 Jiangsu,China,2020-04-26,653.0,0.0
 Jiangsu,China,2020-04-27,653.0,0.0
 Jiangsu,China,2020-04-28,653.0,0.0
+Jiangsu,China,2020-04-29,653.0,0.0
+Jiangsu,China,2020-04-30,653.0,0.0
+Jiangsu,China,2020-05-01,653.0,0.0
+Jiangsu,China,2020-05-02,653.0,0.0
 Jiangxi,China,2020-01-22,2.0,0.0
 Jiangxi,China,2020-01-23,7.0,0.0
 Jiangxi,China,2020-01-24,18.0,0.0
@@ -7349,6 +7645,10 @@ Jiangxi,China,2020-04-25,937.0,1.0
 Jiangxi,China,2020-04-26,937.0,1.0
 Jiangxi,China,2020-04-27,937.0,1.0
 Jiangxi,China,2020-04-28,937.0,1.0
+Jiangxi,China,2020-04-29,937.0,1.0
+Jiangxi,China,2020-04-30,937.0,1.0
+Jiangxi,China,2020-05-01,937.0,1.0
+Jiangxi,China,2020-05-02,937.0,1.0
 Jilin,China,2020-01-22,0.0,0.0
 Jilin,China,2020-01-23,1.0,0.0
 Jilin,China,2020-01-24,3.0,0.0
@@ -7447,6 +7747,10 @@ Jilin,China,2020-04-25,109.0,1.0
 Jilin,China,2020-04-26,110.0,1.0
 Jilin,China,2020-04-27,110.0,1.0
 Jilin,China,2020-04-28,110.0,1.0
+Jilin,China,2020-04-29,111.0,1.0
+Jilin,China,2020-04-30,111.0,1.0
+Jilin,China,2020-05-01,112.0,1.0
+Jilin,China,2020-05-02,112.0,1.0
 Liaoning,China,2020-01-22,2.0,0.0
 Liaoning,China,2020-01-23,3.0,0.0
 Liaoning,China,2020-01-24,4.0,0.0
@@ -7545,6 +7849,10 @@ Liaoning,China,2020-04-25,146.0,2.0
 Liaoning,China,2020-04-26,146.0,2.0
 Liaoning,China,2020-04-27,146.0,2.0
 Liaoning,China,2020-04-28,146.0,2.0
+Liaoning,China,2020-04-29,146.0,2.0
+Liaoning,China,2020-04-30,146.0,2.0
+Liaoning,China,2020-05-01,146.0,2.0
+Liaoning,China,2020-05-02,146.0,2.0
 Macau,China,2020-01-22,1.0,0.0
 Macau,China,2020-01-23,2.0,0.0
 Macau,China,2020-01-24,2.0,0.0
@@ -7643,6 +7951,10 @@ Macau,China,2020-04-25,45.0,0.0
 Macau,China,2020-04-26,45.0,0.0
 Macau,China,2020-04-27,45.0,0.0
 Macau,China,2020-04-28,45.0,0.0
+Macau,China,2020-04-29,45.0,0.0
+Macau,China,2020-04-30,45.0,0.0
+Macau,China,2020-05-01,45.0,0.0
+Macau,China,2020-05-02,45.0,0.0
 Ningxia,China,2020-01-22,1.0,0.0
 Ningxia,China,2020-01-23,1.0,0.0
 Ningxia,China,2020-01-24,2.0,0.0
@@ -7741,6 +8053,10 @@ Ningxia,China,2020-04-25,75.0,0.0
 Ningxia,China,2020-04-26,75.0,0.0
 Ningxia,China,2020-04-27,75.0,0.0
 Ningxia,China,2020-04-28,75.0,0.0
+Ningxia,China,2020-04-29,75.0,0.0
+Ningxia,China,2020-04-30,75.0,0.0
+Ningxia,China,2020-05-01,75.0,0.0
+Ningxia,China,2020-05-02,75.0,0.0
 Qinghai,China,2020-01-22,0.0,0.0
 Qinghai,China,2020-01-23,0.0,0.0
 Qinghai,China,2020-01-24,0.0,0.0
@@ -7839,6 +8155,10 @@ Qinghai,China,2020-04-25,18.0,0.0
 Qinghai,China,2020-04-26,18.0,0.0
 Qinghai,China,2020-04-27,18.0,0.0
 Qinghai,China,2020-04-28,18.0,0.0
+Qinghai,China,2020-04-29,18.0,0.0
+Qinghai,China,2020-04-30,18.0,0.0
+Qinghai,China,2020-05-01,18.0,0.0
+Qinghai,China,2020-05-02,18.0,0.0
 Shaanxi,China,2020-01-22,0.0,0.0
 Shaanxi,China,2020-01-23,3.0,0.0
 Shaanxi,China,2020-01-24,5.0,0.0
@@ -7937,6 +8257,10 @@ Shaanxi,China,2020-04-25,286.0,3.0
 Shaanxi,China,2020-04-26,286.0,3.0
 Shaanxi,China,2020-04-27,286.0,3.0
 Shaanxi,China,2020-04-28,306.0,3.0
+Shaanxi,China,2020-04-29,306.0,3.0
+Shaanxi,China,2020-04-30,306.0,3.0
+Shaanxi,China,2020-05-01,306.0,3.0
+Shaanxi,China,2020-05-02,306.0,3.0
 Shandong,China,2020-01-22,2.0,0.0
 Shandong,China,2020-01-23,6.0,0.0
 Shandong,China,2020-01-24,15.0,0.0
@@ -8035,6 +8359,10 @@ Shandong,China,2020-04-25,787.0,7.0
 Shandong,China,2020-04-26,787.0,7.0
 Shandong,China,2020-04-27,787.0,7.0
 Shandong,China,2020-04-28,787.0,7.0
+Shandong,China,2020-04-29,787.0,7.0
+Shandong,China,2020-04-30,787.0,7.0
+Shandong,China,2020-05-01,787.0,7.0
+Shandong,China,2020-05-02,787.0,7.0
 Shanghai,China,2020-01-22,9.0,0.0
 Shanghai,China,2020-01-23,16.0,0.0
 Shanghai,China,2020-01-24,20.0,0.0
@@ -8133,6 +8461,10 @@ Shanghai,China,2020-04-25,642.0,7.0
 Shanghai,China,2020-04-26,642.0,7.0
 Shanghai,China,2020-04-27,644.0,7.0
 Shanghai,China,2020-04-28,645.0,7.0
+Shanghai,China,2020-04-29,647.0,7.0
+Shanghai,China,2020-04-30,652.0,7.0
+Shanghai,China,2020-05-01,652.0,7.0
+Shanghai,China,2020-05-02,652.0,7.0
 Shanxi,China,2020-01-22,1.0,0.0
 Shanxi,China,2020-01-23,1.0,0.0
 Shanxi,China,2020-01-24,1.0,0.0
@@ -8231,6 +8563,10 @@ Shanxi,China,2020-04-25,197.0,0.0
 Shanxi,China,2020-04-26,197.0,0.0
 Shanxi,China,2020-04-27,197.0,0.0
 Shanxi,China,2020-04-28,197.0,0.0
+Shanxi,China,2020-04-29,197.0,0.0
+Shanxi,China,2020-04-30,197.0,0.0
+Shanxi,China,2020-05-01,197.0,0.0
+Shanxi,China,2020-05-02,197.0,0.0
 Sichuan,China,2020-01-22,5.0,0.0
 Sichuan,China,2020-01-23,8.0,0.0
 Sichuan,China,2020-01-24,15.0,0.0
@@ -8329,6 +8665,10 @@ Sichuan,China,2020-04-25,561.0,3.0
 Sichuan,China,2020-04-26,561.0,3.0
 Sichuan,China,2020-04-27,561.0,3.0
 Sichuan,China,2020-04-28,561.0,3.0
+Sichuan,China,2020-04-29,561.0,3.0
+Sichuan,China,2020-04-30,561.0,3.0
+Sichuan,China,2020-05-01,561.0,3.0
+Sichuan,China,2020-05-02,561.0,3.0
 Tianjin,China,2020-01-22,4.0,0.0
 Tianjin,China,2020-01-23,4.0,0.0
 Tianjin,China,2020-01-24,8.0,0.0
@@ -8427,6 +8767,10 @@ Tianjin,China,2020-04-25,190.0,3.0
 Tianjin,China,2020-04-26,190.0,3.0
 Tianjin,China,2020-04-27,190.0,3.0
 Tianjin,China,2020-04-28,190.0,3.0
+Tianjin,China,2020-04-29,190.0,3.0
+Tianjin,China,2020-04-30,190.0,3.0
+Tianjin,China,2020-05-01,190.0,3.0
+Tianjin,China,2020-05-02,190.0,3.0
 Tibet,China,2020-01-22,0.0,0.0
 Tibet,China,2020-01-23,0.0,0.0
 Tibet,China,2020-01-24,0.0,0.0
@@ -8525,6 +8869,10 @@ Tibet,China,2020-04-25,1.0,0.0
 Tibet,China,2020-04-26,1.0,0.0
 Tibet,China,2020-04-27,1.0,0.0
 Tibet,China,2020-04-28,1.0,0.0
+Tibet,China,2020-04-29,1.0,0.0
+Tibet,China,2020-04-30,1.0,0.0
+Tibet,China,2020-05-01,1.0,0.0
+Tibet,China,2020-05-02,1.0,0.0
 Xinjiang,China,2020-01-22,0.0,0.0
 Xinjiang,China,2020-01-23,2.0,0.0
 Xinjiang,China,2020-01-24,2.0,0.0
@@ -8623,6 +8971,10 @@ Xinjiang,China,2020-04-25,76.0,3.0
 Xinjiang,China,2020-04-26,76.0,3.0
 Xinjiang,China,2020-04-27,76.0,3.0
 Xinjiang,China,2020-04-28,76.0,3.0
+Xinjiang,China,2020-04-29,76.0,3.0
+Xinjiang,China,2020-04-30,76.0,3.0
+Xinjiang,China,2020-05-01,76.0,3.0
+Xinjiang,China,2020-05-02,76.0,3.0
 Yunnan,China,2020-01-22,1.0,0.0
 Yunnan,China,2020-01-23,2.0,0.0
 Yunnan,China,2020-01-24,5.0,0.0
@@ -8721,6 +9073,10 @@ Yunnan,China,2020-04-25,185.0,2.0
 Yunnan,China,2020-04-26,185.0,2.0
 Yunnan,China,2020-04-27,185.0,2.0
 Yunnan,China,2020-04-28,185.0,2.0
+Yunnan,China,2020-04-29,185.0,2.0
+Yunnan,China,2020-04-30,185.0,2.0
+Yunnan,China,2020-05-01,185.0,2.0
+Yunnan,China,2020-05-02,185.0,2.0
 Zhejiang,China,2020-01-22,10.0,0.0
 Zhejiang,China,2020-01-23,27.0,0.0
 Zhejiang,China,2020-01-24,43.0,0.0
@@ -8819,6 +9175,10 @@ Zhejiang,China,2020-04-25,1268.0,1.0
 Zhejiang,China,2020-04-26,1268.0,1.0
 Zhejiang,China,2020-04-27,1268.0,1.0
 Zhejiang,China,2020-04-28,1268.0,1.0
+Zhejiang,China,2020-04-29,1268.0,1.0
+Zhejiang,China,2020-04-30,1268.0,1.0
+Zhejiang,China,2020-05-01,1268.0,1.0
+Zhejiang,China,2020-05-02,1268.0,1.0
 ,Colombia,2020-01-22,0.0,0.0
 ,Colombia,2020-01-23,0.0,0.0
 ,Colombia,2020-01-24,0.0,0.0
@@ -8917,6 +9277,112 @@ Zhejiang,China,2020-04-28,1268.0,1.0
 ,Colombia,2020-04-26,5379.0,244.0
 ,Colombia,2020-04-27,5597.0,253.0
 ,Colombia,2020-04-28,5949.0,269.0
+,Colombia,2020-04-29,6207.0,278.0
+,Colombia,2020-04-30,6507.0,293.0
+,Colombia,2020-05-01,7006.0,314.0
+,Colombia,2020-05-02,7285.0,324.0
+,Comoros,2020-01-22,0.0,0.0
+,Comoros,2020-01-23,0.0,0.0
+,Comoros,2020-01-24,0.0,0.0
+,Comoros,2020-01-25,0.0,0.0
+,Comoros,2020-01-26,0.0,0.0
+,Comoros,2020-01-27,0.0,0.0
+,Comoros,2020-01-28,0.0,0.0
+,Comoros,2020-01-29,0.0,0.0
+,Comoros,2020-01-30,0.0,0.0
+,Comoros,2020-01-31,0.0,0.0
+,Comoros,2020-02-01,0.0,0.0
+,Comoros,2020-02-02,0.0,0.0
+,Comoros,2020-02-03,0.0,0.0
+,Comoros,2020-02-04,0.0,0.0
+,Comoros,2020-02-05,0.0,0.0
+,Comoros,2020-02-06,0.0,0.0
+,Comoros,2020-02-07,0.0,0.0
+,Comoros,2020-02-08,0.0,0.0
+,Comoros,2020-02-09,0.0,0.0
+,Comoros,2020-02-10,0.0,0.0
+,Comoros,2020-02-11,0.0,0.0
+,Comoros,2020-02-12,0.0,0.0
+,Comoros,2020-02-13,0.0,0.0
+,Comoros,2020-02-14,0.0,0.0
+,Comoros,2020-02-15,0.0,0.0
+,Comoros,2020-02-16,0.0,0.0
+,Comoros,2020-02-17,0.0,0.0
+,Comoros,2020-02-18,0.0,0.0
+,Comoros,2020-02-19,0.0,0.0
+,Comoros,2020-02-20,0.0,0.0
+,Comoros,2020-02-21,0.0,0.0
+,Comoros,2020-02-22,0.0,0.0
+,Comoros,2020-02-23,0.0,0.0
+,Comoros,2020-02-24,0.0,0.0
+,Comoros,2020-02-25,0.0,0.0
+,Comoros,2020-02-26,0.0,0.0
+,Comoros,2020-02-27,0.0,0.0
+,Comoros,2020-02-28,0.0,0.0
+,Comoros,2020-02-29,0.0,0.0
+,Comoros,2020-03-01,0.0,0.0
+,Comoros,2020-03-02,0.0,0.0
+,Comoros,2020-03-03,0.0,0.0
+,Comoros,2020-03-04,0.0,0.0
+,Comoros,2020-03-05,0.0,0.0
+,Comoros,2020-03-06,0.0,0.0
+,Comoros,2020-03-07,0.0,0.0
+,Comoros,2020-03-08,0.0,0.0
+,Comoros,2020-03-09,0.0,0.0
+,Comoros,2020-03-10,0.0,0.0
+,Comoros,2020-03-11,0.0,0.0
+,Comoros,2020-03-12,0.0,0.0
+,Comoros,2020-03-13,0.0,0.0
+,Comoros,2020-03-14,0.0,0.0
+,Comoros,2020-03-15,0.0,0.0
+,Comoros,2020-03-16,0.0,0.0
+,Comoros,2020-03-17,0.0,0.0
+,Comoros,2020-03-18,0.0,0.0
+,Comoros,2020-03-19,0.0,0.0
+,Comoros,2020-03-20,0.0,0.0
+,Comoros,2020-03-21,0.0,0.0
+,Comoros,2020-03-22,0.0,0.0
+,Comoros,2020-03-23,0.0,0.0
+,Comoros,2020-03-24,0.0,0.0
+,Comoros,2020-03-25,0.0,0.0
+,Comoros,2020-03-26,0.0,0.0
+,Comoros,2020-03-27,0.0,0.0
+,Comoros,2020-03-28,0.0,0.0
+,Comoros,2020-03-29,0.0,0.0
+,Comoros,2020-03-30,0.0,0.0
+,Comoros,2020-03-31,0.0,0.0
+,Comoros,2020-04-01,0.0,0.0
+,Comoros,2020-04-02,0.0,0.0
+,Comoros,2020-04-03,0.0,0.0
+,Comoros,2020-04-04,0.0,0.0
+,Comoros,2020-04-05,0.0,0.0
+,Comoros,2020-04-06,0.0,0.0
+,Comoros,2020-04-07,0.0,0.0
+,Comoros,2020-04-08,0.0,0.0
+,Comoros,2020-04-09,0.0,0.0
+,Comoros,2020-04-10,0.0,0.0
+,Comoros,2020-04-11,0.0,0.0
+,Comoros,2020-04-12,0.0,0.0
+,Comoros,2020-04-13,0.0,0.0
+,Comoros,2020-04-14,0.0,0.0
+,Comoros,2020-04-15,0.0,0.0
+,Comoros,2020-04-16,0.0,0.0
+,Comoros,2020-04-17,0.0,0.0
+,Comoros,2020-04-18,0.0,0.0
+,Comoros,2020-04-19,0.0,0.0
+,Comoros,2020-04-20,0.0,0.0
+,Comoros,2020-04-21,0.0,0.0
+,Comoros,2020-04-22,0.0,0.0
+,Comoros,2020-04-23,0.0,0.0
+,Comoros,2020-04-24,0.0,0.0
+,Comoros,2020-04-25,0.0,0.0
+,Comoros,2020-04-26,0.0,0.0
+,Comoros,2020-04-27,0.0,0.0
+,Comoros,2020-04-28,0.0,0.0
+,Comoros,2020-04-29,0.0,0.0
+,Comoros,2020-04-30,1.0,0.0
+,Comoros,2020-05-01,1.0,0.0
+,Comoros,2020-05-02,3.0,0.0
 ,Congo (Brazzaville),2020-01-22,0.0,0.0
 ,Congo (Brazzaville),2020-01-23,0.0,0.0
 ,Congo (Brazzaville),2020-01-24,0.0,0.0
@@ -9015,6 +9481,10 @@ Zhejiang,China,2020-04-28,1268.0,1.0
 ,Congo (Brazzaville),2020-04-26,200.0,6.0
 ,Congo (Brazzaville),2020-04-27,200.0,6.0
 ,Congo (Brazzaville),2020-04-28,207.0,8.0
+,Congo (Brazzaville),2020-04-29,207.0,8.0
+,Congo (Brazzaville),2020-04-30,220.0,9.0
+,Congo (Brazzaville),2020-05-01,229.0,9.0
+,Congo (Brazzaville),2020-05-02,229.0,9.0
 ,Congo (Kinshasa),2020-01-22,0.0,0.0
 ,Congo (Kinshasa),2020-01-23,0.0,0.0
 ,Congo (Kinshasa),2020-01-24,0.0,0.0
@@ -9113,6 +9583,10 @@ Zhejiang,China,2020-04-28,1268.0,1.0
 ,Congo (Kinshasa),2020-04-26,442.0,28.0
 ,Congo (Kinshasa),2020-04-27,459.0,28.0
 ,Congo (Kinshasa),2020-04-28,471.0,30.0
+,Congo (Kinshasa),2020-04-29,491.0,30.0
+,Congo (Kinshasa),2020-04-30,572.0,31.0
+,Congo (Kinshasa),2020-05-01,604.0,32.0
+,Congo (Kinshasa),2020-05-02,674.0,33.0
 ,Costa Rica,2020-01-22,0.0,0.0
 ,Costa Rica,2020-01-23,0.0,0.0
 ,Costa Rica,2020-01-24,0.0,0.0
@@ -9211,6 +9685,10 @@ Zhejiang,China,2020-04-28,1268.0,1.0
 ,Costa Rica,2020-04-26,695.0,6.0
 ,Costa Rica,2020-04-27,697.0,6.0
 ,Costa Rica,2020-04-28,705.0,6.0
+,Costa Rica,2020-04-29,713.0,6.0
+,Costa Rica,2020-04-30,719.0,6.0
+,Costa Rica,2020-05-01,725.0,6.0
+,Costa Rica,2020-05-02,733.0,6.0
 ,Cote d'Ivoire,2020-01-22,0.0,0.0
 ,Cote d'Ivoire,2020-01-23,0.0,0.0
 ,Cote d'Ivoire,2020-01-24,0.0,0.0
@@ -9309,6 +9787,10 @@ Zhejiang,China,2020-04-28,1268.0,1.0
 ,Cote d'Ivoire,2020-04-26,1150.0,14.0
 ,Cote d'Ivoire,2020-04-27,1164.0,14.0
 ,Cote d'Ivoire,2020-04-28,1183.0,14.0
+,Cote d'Ivoire,2020-04-29,1238.0,14.0
+,Cote d'Ivoire,2020-04-30,1275.0,14.0
+,Cote d'Ivoire,2020-05-01,1333.0,15.0
+,Cote d'Ivoire,2020-05-02,1362.0,15.0
 ,Croatia,2020-01-22,0.0,0.0
 ,Croatia,2020-01-23,0.0,0.0
 ,Croatia,2020-01-24,0.0,0.0
@@ -9407,6 +9889,10 @@ Zhejiang,China,2020-04-28,1268.0,1.0
 ,Croatia,2020-04-26,2030.0,55.0
 ,Croatia,2020-04-27,2039.0,59.0
 ,Croatia,2020-04-28,2047.0,63.0
+,Croatia,2020-04-29,2062.0,67.0
+,Croatia,2020-04-30,2076.0,69.0
+,Croatia,2020-05-01,2085.0,75.0
+,Croatia,2020-05-02,2088.0,77.0
 ,Cuba,2020-01-22,0.0,0.0
 ,Cuba,2020-01-23,0.0,0.0
 ,Cuba,2020-01-24,0.0,0.0
@@ -9505,6 +9991,10 @@ Zhejiang,China,2020-04-28,1268.0,1.0
 ,Cuba,2020-04-26,1369.0,54.0
 ,Cuba,2020-04-27,1389.0,56.0
 ,Cuba,2020-04-28,1437.0,58.0
+,Cuba,2020-04-29,1467.0,58.0
+,Cuba,2020-04-30,1501.0,61.0
+,Cuba,2020-05-01,1537.0,64.0
+,Cuba,2020-05-02,1611.0,66.0
 ,Cyprus,2020-01-22,0.0,0.0
 ,Cyprus,2020-01-23,0.0,0.0
 ,Cyprus,2020-01-24,0.0,0.0
@@ -9603,6 +10093,10 @@ Zhejiang,China,2020-04-28,1268.0,1.0
 ,Cyprus,2020-04-26,817.0,14.0
 ,Cyprus,2020-04-27,822.0,15.0
 ,Cyprus,2020-04-28,837.0,15.0
+,Cyprus,2020-04-29,843.0,15.0
+,Cyprus,2020-04-30,850.0,15.0
+,Cyprus,2020-05-01,857.0,15.0
+,Cyprus,2020-05-02,864.0,15.0
 ,Czechia,2020-01-22,0.0,0.0
 ,Czechia,2020-01-23,0.0,0.0
 ,Czechia,2020-01-24,0.0,0.0
@@ -9701,6 +10195,10 @@ Zhejiang,China,2020-04-28,1268.0,1.0
 ,Czechia,2020-04-26,7404.0,220.0
 ,Czechia,2020-04-27,7445.0,223.0
 ,Czechia,2020-04-28,7504.0,227.0
+,Czechia,2020-04-29,7579.0,227.0
+,Czechia,2020-04-30,7682.0,236.0
+,Czechia,2020-05-01,7737.0,240.0
+,Czechia,2020-05-02,7755.0,245.0
 ,Denmark,2020-01-22,0.0,0.0
 ,Denmark,2020-01-23,0.0,0.0
 ,Denmark,2020-01-24,0.0,0.0
@@ -9799,6 +10297,10 @@ Zhejiang,China,2020-04-28,1268.0,1.0
 ,Denmark,2020-04-26,8575.0,422.0
 ,Denmark,2020-04-27,8698.0,427.0
 ,Denmark,2020-04-28,8851.0,434.0
+,Denmark,2020-04-29,9008.0,443.0
+,Denmark,2020-04-30,9158.0,452.0
+,Denmark,2020-05-01,9311.0,460.0
+,Denmark,2020-05-02,9407.0,475.0
 Faroe Islands,Denmark,2020-01-22,0.0,0.0
 Faroe Islands,Denmark,2020-01-23,0.0,0.0
 Faroe Islands,Denmark,2020-01-24,0.0,0.0
@@ -9897,6 +10399,10 @@ Faroe Islands,Denmark,2020-04-25,187.0,0.0
 Faroe Islands,Denmark,2020-04-26,187.0,0.0
 Faroe Islands,Denmark,2020-04-27,187.0,0.0
 Faroe Islands,Denmark,2020-04-28,187.0,0.0
+Faroe Islands,Denmark,2020-04-29,187.0,0.0
+Faroe Islands,Denmark,2020-04-30,187.0,0.0
+Faroe Islands,Denmark,2020-05-01,187.0,0.0
+Faroe Islands,Denmark,2020-05-02,187.0,0.0
 Greenland,Denmark,2020-01-22,0.0,0.0
 Greenland,Denmark,2020-01-23,0.0,0.0
 Greenland,Denmark,2020-01-24,0.0,0.0
@@ -9995,6 +10501,10 @@ Greenland,Denmark,2020-04-25,11.0,0.0
 Greenland,Denmark,2020-04-26,11.0,0.0
 Greenland,Denmark,2020-04-27,11.0,0.0
 Greenland,Denmark,2020-04-28,11.0,0.0
+Greenland,Denmark,2020-04-29,11.0,0.0
+Greenland,Denmark,2020-04-30,11.0,0.0
+Greenland,Denmark,2020-05-01,11.0,0.0
+Greenland,Denmark,2020-05-02,11.0,0.0
 ,Diamond Princess,2020-01-22,0.0,0.0
 ,Diamond Princess,2020-01-23,0.0,0.0
 ,Diamond Princess,2020-01-24,0.0,0.0
@@ -10093,6 +10603,10 @@ Greenland,Denmark,2020-04-28,11.0,0.0
 ,Diamond Princess,2020-04-26,712.0,13.0
 ,Diamond Princess,2020-04-27,712.0,13.0
 ,Diamond Princess,2020-04-28,712.0,13.0
+,Diamond Princess,2020-04-29,712.0,13.0
+,Diamond Princess,2020-04-30,712.0,13.0
+,Diamond Princess,2020-05-01,712.0,13.0
+,Diamond Princess,2020-05-02,712.0,13.0
 ,Djibouti,2020-01-22,0.0,0.0
 ,Djibouti,2020-01-23,0.0,0.0
 ,Djibouti,2020-01-24,0.0,0.0
@@ -10191,6 +10705,10 @@ Greenland,Denmark,2020-04-28,11.0,0.0
 ,Djibouti,2020-04-26,1023.0,2.0
 ,Djibouti,2020-04-27,1035.0,2.0
 ,Djibouti,2020-04-28,1072.0,2.0
+,Djibouti,2020-04-29,1077.0,2.0
+,Djibouti,2020-04-30,1089.0,2.0
+,Djibouti,2020-05-01,1097.0,2.0
+,Djibouti,2020-05-02,1112.0,2.0
 ,Dominica,2020-01-22,0.0,0.0
 ,Dominica,2020-01-23,0.0,0.0
 ,Dominica,2020-01-24,0.0,0.0
@@ -10289,6 +10807,10 @@ Greenland,Denmark,2020-04-28,11.0,0.0
 ,Dominica,2020-04-26,16.0,0.0
 ,Dominica,2020-04-27,16.0,0.0
 ,Dominica,2020-04-28,16.0,0.0
+,Dominica,2020-04-29,16.0,0.0
+,Dominica,2020-04-30,16.0,0.0
+,Dominica,2020-05-01,16.0,0.0
+,Dominica,2020-05-02,16.0,0.0
 ,Dominican Republic,2020-01-22,0.0,0.0
 ,Dominican Republic,2020-01-23,0.0,0.0
 ,Dominican Republic,2020-01-24,0.0,0.0
@@ -10387,6 +10909,10 @@ Greenland,Denmark,2020-04-28,11.0,0.0
 ,Dominican Republic,2020-04-26,6135.0,278.0
 ,Dominican Republic,2020-04-27,6293.0,282.0
 ,Dominican Republic,2020-04-28,6416.0,286.0
+,Dominican Republic,2020-04-29,6652.0,293.0
+,Dominican Republic,2020-04-30,6972.0,301.0
+,Dominican Republic,2020-05-01,7288.0,313.0
+,Dominican Republic,2020-05-02,7578.0,326.0
 ,Ecuador,2020-01-22,0.0,0.0
 ,Ecuador,2020-01-23,0.0,0.0
 ,Ecuador,2020-01-24,0.0,0.0
@@ -10485,6 +11011,10 @@ Greenland,Denmark,2020-04-28,11.0,0.0
 ,Ecuador,2020-04-26,22719.0,576.0
 ,Ecuador,2020-04-27,23240.0,663.0
 ,Ecuador,2020-04-28,24258.0,871.0
+,Ecuador,2020-04-29,24675.0,883.0
+,Ecuador,2020-04-30,24934.0,900.0
+,Ecuador,2020-05-01,26336.0,1063.0
+,Ecuador,2020-05-02,27464.0,1371.0
 ,Egypt,2020-01-22,0.0,0.0
 ,Egypt,2020-01-23,0.0,0.0
 ,Egypt,2020-01-24,0.0,0.0
@@ -10583,6 +11113,10 @@ Greenland,Denmark,2020-04-28,11.0,0.0
 ,Egypt,2020-04-26,4534.0,317.0
 ,Egypt,2020-04-27,4782.0,337.0
 ,Egypt,2020-04-28,5042.0,359.0
+,Egypt,2020-04-29,5268.0,380.0
+,Egypt,2020-04-30,5537.0,392.0
+,Egypt,2020-05-01,5895.0,406.0
+,Egypt,2020-05-02,6193.0,415.0
 ,El Salvador,2020-01-22,0.0,0.0
 ,El Salvador,2020-01-23,0.0,0.0
 ,El Salvador,2020-01-24,0.0,0.0
@@ -10681,6 +11215,10 @@ Greenland,Denmark,2020-04-28,11.0,0.0
 ,El Salvador,2020-04-26,298.0,8.0
 ,El Salvador,2020-04-27,323.0,8.0
 ,El Salvador,2020-04-28,345.0,8.0
+,El Salvador,2020-04-29,377.0,9.0
+,El Salvador,2020-04-30,395.0,10.0
+,El Salvador,2020-05-01,424.0,10.0
+,El Salvador,2020-05-02,446.0,11.0
 ,Equatorial Guinea,2020-01-22,0.0,0.0
 ,Equatorial Guinea,2020-01-23,0.0,0.0
 ,Equatorial Guinea,2020-01-24,0.0,0.0
@@ -10779,6 +11317,10 @@ Greenland,Denmark,2020-04-28,11.0,0.0
 ,Equatorial Guinea,2020-04-26,258.0,1.0
 ,Equatorial Guinea,2020-04-27,258.0,1.0
 ,Equatorial Guinea,2020-04-28,315.0,1.0
+,Equatorial Guinea,2020-04-29,315.0,1.0
+,Equatorial Guinea,2020-04-30,315.0,1.0
+,Equatorial Guinea,2020-05-01,315.0,1.0
+,Equatorial Guinea,2020-05-02,315.0,1.0
 ,Eritrea,2020-01-22,0.0,0.0
 ,Eritrea,2020-01-23,0.0,0.0
 ,Eritrea,2020-01-24,0.0,0.0
@@ -10877,6 +11419,10 @@ Greenland,Denmark,2020-04-28,11.0,0.0
 ,Eritrea,2020-04-26,39.0,0.0
 ,Eritrea,2020-04-27,39.0,0.0
 ,Eritrea,2020-04-28,39.0,0.0
+,Eritrea,2020-04-29,39.0,0.0
+,Eritrea,2020-04-30,39.0,0.0
+,Eritrea,2020-05-01,39.0,0.0
+,Eritrea,2020-05-02,39.0,0.0
 ,Estonia,2020-01-22,0.0,0.0
 ,Estonia,2020-01-23,0.0,0.0
 ,Estonia,2020-01-24,0.0,0.0
@@ -10975,6 +11521,10 @@ Greenland,Denmark,2020-04-28,11.0,0.0
 ,Estonia,2020-04-26,1643.0,49.0
 ,Estonia,2020-04-27,1647.0,50.0
 ,Estonia,2020-04-28,1660.0,50.0
+,Estonia,2020-04-29,1666.0,50.0
+,Estonia,2020-04-30,1689.0,52.0
+,Estonia,2020-05-01,1694.0,52.0
+,Estonia,2020-05-02,1699.0,53.0
 ,Eswatini,2020-01-22,0.0,0.0
 ,Eswatini,2020-01-23,0.0,0.0
 ,Eswatini,2020-01-24,0.0,0.0
@@ -11073,6 +11623,10 @@ Greenland,Denmark,2020-04-28,11.0,0.0
 ,Eswatini,2020-04-26,59.0,1.0
 ,Eswatini,2020-04-27,65.0,1.0
 ,Eswatini,2020-04-28,71.0,1.0
+,Eswatini,2020-04-29,91.0,1.0
+,Eswatini,2020-04-30,100.0,1.0
+,Eswatini,2020-05-01,106.0,1.0
+,Eswatini,2020-05-02,108.0,1.0
 ,Ethiopia,2020-01-22,0.0,0.0
 ,Ethiopia,2020-01-23,0.0,0.0
 ,Ethiopia,2020-01-24,0.0,0.0
@@ -11171,6 +11725,10 @@ Greenland,Denmark,2020-04-28,11.0,0.0
 ,Ethiopia,2020-04-26,123.0,3.0
 ,Ethiopia,2020-04-27,124.0,3.0
 ,Ethiopia,2020-04-28,126.0,3.0
+,Ethiopia,2020-04-29,130.0,3.0
+,Ethiopia,2020-04-30,131.0,3.0
+,Ethiopia,2020-05-01,133.0,3.0
+,Ethiopia,2020-05-02,133.0,3.0
 ,Fiji,2020-01-22,0.0,0.0
 ,Fiji,2020-01-23,0.0,0.0
 ,Fiji,2020-01-24,0.0,0.0
@@ -11269,6 +11827,10 @@ Greenland,Denmark,2020-04-28,11.0,0.0
 ,Fiji,2020-04-26,18.0,0.0
 ,Fiji,2020-04-27,18.0,0.0
 ,Fiji,2020-04-28,18.0,0.0
+,Fiji,2020-04-29,18.0,0.0
+,Fiji,2020-04-30,18.0,0.0
+,Fiji,2020-05-01,18.0,0.0
+,Fiji,2020-05-02,18.0,0.0
 ,Finland,2020-01-22,0.0,0.0
 ,Finland,2020-01-23,0.0,0.0
 ,Finland,2020-01-24,0.0,0.0
@@ -11367,6 +11929,10 @@ Greenland,Denmark,2020-04-28,11.0,0.0
 ,Finland,2020-04-26,4576.0,190.0
 ,Finland,2020-04-27,4695.0,193.0
 ,Finland,2020-04-28,4740.0,199.0
+,Finland,2020-04-29,4906.0,206.0
+,Finland,2020-04-30,4995.0,211.0
+,Finland,2020-05-01,5051.0,218.0
+,Finland,2020-05-02,5176.0,220.0
 ,France,2020-01-22,0.0,0.0
 ,France,2020-01-23,0.0,0.0
 ,France,2020-01-24,2.0,0.0
@@ -11450,21 +12016,25 @@ Greenland,Denmark,2020-04-28,11.0,0.0
 ,France,2020-04-11,93790.0,13832.0
 ,France,2020-04-12,120633.0,14393.0
 ,France,2020-04-13,124298.0,14967.0
-,France,2020-04-14,129257.0,15729.0
-,France,2020-04-15,132473.0,17167.0
-,France,2020-04-16,144944.0,17920.0
-,France,2020-04-17,146923.0,18681.0
-,France,2020-04-18,146906.0,19323.0
-,France,2020-04-19,151808.0,19718.0
-,France,2020-04-20,154188.0,20265.0
-,France,2020-04-21,156921.0,20796.0
-,France,2020-04-22,154715.0,21340.0
-,France,2020-04-23,157026.0,21856.0
-,France,2020-04-24,158636.0,22245.0
-,France,2020-04-25,160292.0,22614.0
-,France,2020-04-26,160847.0,22856.0
-,France,2020-04-27,164589.0,23293.0
-,France,2020-04-28,167605.0,23660.0
+,France,2020-04-14,129257.0,15712.0
+,France,2020-04-15,132473.0,17148.0
+,France,2020-04-16,144944.0,17901.0
+,France,2020-04-17,146923.0,18661.0
+,France,2020-04-18,146906.0,19303.0
+,France,2020-04-19,151808.0,19694.0
+,France,2020-04-20,154188.0,20240.0
+,France,2020-04-21,156921.0,20765.0
+,France,2020-04-22,154715.0,21309.0
+,France,2020-04-23,157026.0,21825.0
+,France,2020-04-24,158636.0,22214.0
+,France,2020-04-25,160292.0,22583.0
+,France,2020-04-26,160847.0,22825.0
+,France,2020-04-27,164589.0,23262.0
+,France,2020-04-28,167605.0,23629.0
+,France,2020-04-29,165093.0,24056.0
+,France,2020-04-30,165764.0,24345.0
+,France,2020-05-01,165764.0,24563.0
+,France,2020-05-02,166976.0,24729.0
 French Guiana,France,2020-01-22,0.0,0.0
 French Guiana,France,2020-01-23,0.0,0.0
 French Guiana,France,2020-01-24,0.0,0.0
@@ -11563,6 +12133,10 @@ French Guiana,France,2020-04-25,111.0,1.0
 French Guiana,France,2020-04-26,111.0,1.0
 French Guiana,France,2020-04-27,111.0,1.0
 French Guiana,France,2020-04-28,125.0,1.0
+French Guiana,France,2020-04-29,125.0,1.0
+French Guiana,France,2020-04-30,126.0,1.0
+French Guiana,France,2020-05-01,128.0,1.0
+French Guiana,France,2020-05-02,128.0,1.0
 French Polynesia,France,2020-01-22,0.0,0.0
 French Polynesia,France,2020-01-23,0.0,0.0
 French Polynesia,France,2020-01-24,0.0,0.0
@@ -11661,6 +12235,10 @@ French Polynesia,France,2020-04-25,57.0,0.0
 French Polynesia,France,2020-04-26,57.0,0.0
 French Polynesia,France,2020-04-27,57.0,0.0
 French Polynesia,France,2020-04-28,58.0,0.0
+French Polynesia,France,2020-04-29,58.0,0.0
+French Polynesia,France,2020-04-30,58.0,0.0
+French Polynesia,France,2020-05-01,58.0,0.0
+French Polynesia,France,2020-05-02,58.0,0.0
 Guadeloupe,France,2020-01-22,0.0,0.0
 Guadeloupe,France,2020-01-23,0.0,0.0
 Guadeloupe,France,2020-01-24,0.0,0.0
@@ -11759,6 +12337,10 @@ Guadeloupe,France,2020-04-25,149.0,12.0
 Guadeloupe,France,2020-04-26,149.0,12.0
 Guadeloupe,France,2020-04-27,149.0,12.0
 Guadeloupe,France,2020-04-28,149.0,12.0
+Guadeloupe,France,2020-04-29,149.0,12.0
+Guadeloupe,France,2020-04-30,151.0,12.0
+Guadeloupe,France,2020-05-01,152.0,12.0
+Guadeloupe,France,2020-05-02,152.0,12.0
 Martinique,France,2020-01-22,0.0,0.0
 Martinique,France,2020-01-23,0.0,0.0
 Martinique,France,2020-01-24,0.0,0.0
@@ -11857,6 +12439,10 @@ Martinique,France,2020-04-25,175.0,14.0
 Martinique,France,2020-04-26,175.0,14.0
 Martinique,France,2020-04-27,175.0,14.0
 Martinique,France,2020-04-28,175.0,14.0
+Martinique,France,2020-04-29,175.0,14.0
+Martinique,France,2020-04-30,178.0,14.0
+Martinique,France,2020-05-01,179.0,14.0
+Martinique,France,2020-05-02,179.0,14.0
 Mayotte,France,2020-01-22,0.0,0.0
 Mayotte,France,2020-01-23,0.0,0.0
 Mayotte,France,2020-01-24,0.0,0.0
@@ -11955,6 +12541,10 @@ Mayotte,France,2020-04-25,380.0,4.0
 Mayotte,France,2020-04-26,401.0,4.0
 Mayotte,France,2020-04-27,401.0,4.0
 Mayotte,France,2020-04-28,460.0,4.0
+Mayotte,France,2020-04-29,460.0,4.0
+Mayotte,France,2020-04-30,539.0,4.0
+Mayotte,France,2020-05-01,539.0,4.0
+Mayotte,France,2020-05-02,539.0,4.0
 New Caledonia,France,2020-01-22,0.0,0.0
 New Caledonia,France,2020-01-23,0.0,0.0
 New Caledonia,France,2020-01-24,0.0,0.0
@@ -12053,6 +12643,10 @@ New Caledonia,France,2020-04-25,18.0,0.0
 New Caledonia,France,2020-04-26,18.0,0.0
 New Caledonia,France,2020-04-27,18.0,0.0
 New Caledonia,France,2020-04-28,18.0,0.0
+New Caledonia,France,2020-04-29,18.0,0.0
+New Caledonia,France,2020-04-30,18.0,0.0
+New Caledonia,France,2020-05-01,18.0,0.0
+New Caledonia,France,2020-05-02,18.0,0.0
 Reunion,France,2020-01-22,0.0,0.0
 Reunion,France,2020-01-23,0.0,0.0
 Reunion,France,2020-01-24,0.0,0.0
@@ -12151,6 +12745,10 @@ Reunion,France,2020-04-25,417.0,0.0
 Reunion,France,2020-04-26,417.0,0.0
 Reunion,France,2020-04-27,418.0,0.0
 Reunion,France,2020-04-28,418.0,0.0
+Reunion,France,2020-04-29,420.0,0.0
+Reunion,France,2020-04-30,420.0,0.0
+Reunion,France,2020-05-01,422.0,0.0
+Reunion,France,2020-05-02,423.0,0.0
 Saint Barthelemy,France,2020-01-22,0.0,0.0
 Saint Barthelemy,France,2020-01-23,0.0,0.0
 Saint Barthelemy,France,2020-01-24,0.0,0.0
@@ -12249,6 +12847,10 @@ Saint Barthelemy,France,2020-04-25,6.0,0.0
 Saint Barthelemy,France,2020-04-26,6.0,0.0
 Saint Barthelemy,France,2020-04-27,6.0,0.0
 Saint Barthelemy,France,2020-04-28,6.0,0.0
+Saint Barthelemy,France,2020-04-29,6.0,0.0
+Saint Barthelemy,France,2020-04-30,6.0,0.0
+Saint Barthelemy,France,2020-05-01,6.0,0.0
+Saint Barthelemy,France,2020-05-02,6.0,0.0
 Saint Pierre and Miquelon,France,2020-01-22,0.0,0.0
 Saint Pierre and Miquelon,France,2020-01-23,0.0,0.0
 Saint Pierre and Miquelon,France,2020-01-24,0.0,0.0
@@ -12347,6 +12949,10 @@ Saint Pierre and Miquelon,France,2020-04-25,1.0,0.0
 Saint Pierre and Miquelon,France,2020-04-26,1.0,0.0
 Saint Pierre and Miquelon,France,2020-04-27,1.0,0.0
 Saint Pierre and Miquelon,France,2020-04-28,1.0,0.0
+Saint Pierre and Miquelon,France,2020-04-29,1.0,0.0
+Saint Pierre and Miquelon,France,2020-04-30,1.0,0.0
+Saint Pierre and Miquelon,France,2020-05-01,1.0,0.0
+Saint Pierre and Miquelon,France,2020-05-02,1.0,0.0
 St Martin,France,2020-01-22,0.0,0.0
 St Martin,France,2020-01-23,0.0,0.0
 St Martin,France,2020-01-24,0.0,0.0
@@ -12445,6 +13051,10 @@ St Martin,France,2020-04-25,38.0,3.0
 St Martin,France,2020-04-26,38.0,3.0
 St Martin,France,2020-04-27,38.0,3.0
 St Martin,France,2020-04-28,38.0,3.0
+St Martin,France,2020-04-29,38.0,3.0
+St Martin,France,2020-04-30,38.0,3.0
+St Martin,France,2020-05-01,38.0,3.0
+St Martin,France,2020-05-02,38.0,3.0
 ,Gabon,2020-01-22,0.0,0.0
 ,Gabon,2020-01-23,0.0,0.0
 ,Gabon,2020-01-24,0.0,0.0
@@ -12543,6 +13153,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Gabon,2020-04-26,176.0,3.0
 ,Gabon,2020-04-27,211.0,3.0
 ,Gabon,2020-04-28,238.0,3.0
+,Gabon,2020-04-29,276.0,3.0
+,Gabon,2020-04-30,276.0,3.0
+,Gabon,2020-05-01,276.0,3.0
+,Gabon,2020-05-02,335.0,5.0
 ,Gambia,2020-01-22,0.0,0.0
 ,Gambia,2020-01-23,0.0,0.0
 ,Gambia,2020-01-24,0.0,0.0
@@ -12641,6 +13255,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Gambia,2020-04-26,10.0,1.0
 ,Gambia,2020-04-27,10.0,1.0
 ,Gambia,2020-04-28,10.0,1.0
+,Gambia,2020-04-29,10.0,1.0
+,Gambia,2020-04-30,11.0,1.0
+,Gambia,2020-05-01,12.0,1.0
+,Gambia,2020-05-02,17.0,1.0
 ,Georgia,2020-01-22,0.0,0.0
 ,Georgia,2020-01-23,0.0,0.0
 ,Georgia,2020-01-24,0.0,0.0
@@ -12739,6 +13357,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Georgia,2020-04-26,486.0,6.0
 ,Georgia,2020-04-27,497.0,6.0
 ,Georgia,2020-04-28,511.0,6.0
+,Georgia,2020-04-29,517.0,6.0
+,Georgia,2020-04-30,539.0,6.0
+,Georgia,2020-05-01,566.0,7.0
+,Georgia,2020-05-02,582.0,8.0
 ,Germany,2020-01-22,0.0,0.0
 ,Germany,2020-01-23,0.0,0.0
 ,Germany,2020-01-24,0.0,0.0
@@ -12837,6 +13459,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Germany,2020-04-26,157770.0,5976.0
 ,Germany,2020-04-27,158758.0,6126.0
 ,Germany,2020-04-28,159912.0,6314.0
+,Germany,2020-04-29,161539.0,6467.0
+,Germany,2020-04-30,163009.0,6623.0
+,Germany,2020-05-01,164077.0,6736.0
+,Germany,2020-05-02,164967.0,6812.0
 ,Ghana,2020-01-22,0.0,0.0
 ,Ghana,2020-01-23,0.0,0.0
 ,Ghana,2020-01-24,0.0,0.0
@@ -12935,6 +13561,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Ghana,2020-04-26,1550.0,11.0
 ,Ghana,2020-04-27,1550.0,11.0
 ,Ghana,2020-04-28,1671.0,16.0
+,Ghana,2020-04-29,1671.0,16.0
+,Ghana,2020-04-30,2074.0,17.0
+,Ghana,2020-05-01,2074.0,17.0
+,Ghana,2020-05-02,2169.0,18.0
 ,Greece,2020-01-22,0.0,0.0
 ,Greece,2020-01-23,0.0,0.0
 ,Greece,2020-01-24,0.0,0.0
@@ -13033,6 +13663,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Greece,2020-04-26,2517.0,134.0
 ,Greece,2020-04-27,2534.0,136.0
 ,Greece,2020-04-28,2566.0,138.0
+,Greece,2020-04-29,2576.0,139.0
+,Greece,2020-04-30,2591.0,140.0
+,Greece,2020-05-01,2612.0,140.0
+,Greece,2020-05-02,2620.0,143.0
 ,Grenada,2020-01-22,0.0,0.0
 ,Grenada,2020-01-23,0.0,0.0
 ,Grenada,2020-01-24,0.0,0.0
@@ -13131,6 +13765,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Grenada,2020-04-26,18.0,0.0
 ,Grenada,2020-04-27,18.0,0.0
 ,Grenada,2020-04-28,19.0,0.0
+,Grenada,2020-04-29,20.0,0.0
+,Grenada,2020-04-30,20.0,0.0
+,Grenada,2020-05-01,20.0,0.0
+,Grenada,2020-05-02,21.0,0.0
 ,Guatemala,2020-01-22,0.0,0.0
 ,Guatemala,2020-01-23,0.0,0.0
 ,Guatemala,2020-01-24,0.0,0.0
@@ -13229,6 +13867,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Guatemala,2020-04-26,500.0,15.0
 ,Guatemala,2020-04-27,530.0,15.0
 ,Guatemala,2020-04-28,530.0,15.0
+,Guatemala,2020-04-29,557.0,16.0
+,Guatemala,2020-04-30,599.0,16.0
+,Guatemala,2020-05-01,644.0,16.0
+,Guatemala,2020-05-02,688.0,17.0
 ,Guinea,2020-01-22,0.0,0.0
 ,Guinea,2020-01-23,0.0,0.0
 ,Guinea,2020-01-24,0.0,0.0
@@ -13327,6 +13969,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Guinea,2020-04-26,996.0,7.0
 ,Guinea,2020-04-27,1163.0,7.0
 ,Guinea,2020-04-28,1240.0,7.0
+,Guinea,2020-04-29,1351.0,7.0
+,Guinea,2020-04-30,1495.0,7.0
+,Guinea,2020-05-01,1537.0,7.0
+,Guinea,2020-05-02,1586.0,7.0
 ,Guinea-Bissau,2020-01-22,0.0,0.0
 ,Guinea-Bissau,2020-01-23,0.0,0.0
 ,Guinea-Bissau,2020-01-24,0.0,0.0
@@ -13425,6 +14071,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Guinea-Bissau,2020-04-26,53.0,1.0
 ,Guinea-Bissau,2020-04-27,73.0,1.0
 ,Guinea-Bissau,2020-04-28,73.0,1.0
+,Guinea-Bissau,2020-04-29,205.0,1.0
+,Guinea-Bissau,2020-04-30,205.0,1.0
+,Guinea-Bissau,2020-05-01,257.0,1.0
+,Guinea-Bissau,2020-05-02,257.0,1.0
 ,Guyana,2020-01-22,0.0,0.0
 ,Guyana,2020-01-23,0.0,0.0
 ,Guyana,2020-01-24,0.0,0.0
@@ -13523,6 +14173,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Guyana,2020-04-26,74.0,8.0
 ,Guyana,2020-04-27,74.0,8.0
 ,Guyana,2020-04-28,74.0,8.0
+,Guyana,2020-04-29,78.0,8.0
+,Guyana,2020-04-30,82.0,9.0
+,Guyana,2020-05-01,82.0,9.0
+,Guyana,2020-05-02,82.0,9.0
 ,Haiti,2020-01-22,0.0,0.0
 ,Haiti,2020-01-23,0.0,0.0
 ,Haiti,2020-01-24,0.0,0.0
@@ -13621,6 +14275,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Haiti,2020-04-26,74.0,6.0
 ,Haiti,2020-04-27,76.0,6.0
 ,Haiti,2020-04-28,76.0,6.0
+,Haiti,2020-04-29,76.0,6.0
+,Haiti,2020-04-30,81.0,8.0
+,Haiti,2020-05-01,85.0,8.0
+,Haiti,2020-05-02,85.0,8.0
 ,Holy See,2020-01-22,0.0,0.0
 ,Holy See,2020-01-23,0.0,0.0
 ,Holy See,2020-01-24,0.0,0.0
@@ -13719,6 +14377,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Holy See,2020-04-26,9.0,0.0
 ,Holy See,2020-04-27,9.0,0.0
 ,Holy See,2020-04-28,10.0,0.0
+,Holy See,2020-04-29,10.0,0.0
+,Holy See,2020-04-30,11.0,0.0
+,Holy See,2020-05-01,11.0,0.0
+,Holy See,2020-05-02,11.0,0.0
 ,Honduras,2020-01-22,0.0,0.0
 ,Honduras,2020-01-23,0.0,0.0
 ,Honduras,2020-01-24,0.0,0.0
@@ -13817,6 +14479,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Honduras,2020-04-26,627.0,59.0
 ,Honduras,2020-04-27,661.0,61.0
 ,Honduras,2020-04-28,702.0,64.0
+,Honduras,2020-04-29,738.0,66.0
+,Honduras,2020-04-30,771.0,71.0
+,Honduras,2020-05-01,804.0,75.0
+,Honduras,2020-05-02,1010.0,76.0
 ,Hungary,2020-01-22,0.0,0.0
 ,Hungary,2020-01-23,0.0,0.0
 ,Hungary,2020-01-24,0.0,0.0
@@ -13915,6 +14581,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Hungary,2020-04-26,2500.0,272.0
 ,Hungary,2020-04-27,2583.0,280.0
 ,Hungary,2020-04-28,2649.0,291.0
+,Hungary,2020-04-29,2727.0,300.0
+,Hungary,2020-04-30,2775.0,312.0
+,Hungary,2020-05-01,2863.0,323.0
+,Hungary,2020-05-02,2942.0,335.0
 ,Iceland,2020-01-22,0.0,0.0
 ,Iceland,2020-01-23,0.0,0.0
 ,Iceland,2020-01-24,0.0,0.0
@@ -14013,6 +14683,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Iceland,2020-04-26,1792.0,10.0
 ,Iceland,2020-04-27,1792.0,10.0
 ,Iceland,2020-04-28,1795.0,10.0
+,Iceland,2020-04-29,1797.0,10.0
+,Iceland,2020-04-30,1797.0,10.0
+,Iceland,2020-05-01,1798.0,10.0
+,Iceland,2020-05-02,1798.0,10.0
 ,India,2020-01-22,0.0,0.0
 ,India,2020-01-23,0.0,0.0
 ,India,2020-01-24,0.0,0.0
@@ -14111,6 +14785,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,India,2020-04-26,27890.0,881.0
 ,India,2020-04-27,29451.0,939.0
 ,India,2020-04-28,31324.0,1008.0
+,India,2020-04-29,33062.0,1079.0
+,India,2020-04-30,34863.0,1154.0
+,India,2020-05-01,37257.0,1223.0
+,India,2020-05-02,39699.0,1323.0
 ,Indonesia,2020-01-22,0.0,0.0
 ,Indonesia,2020-01-23,0.0,0.0
 ,Indonesia,2020-01-24,0.0,0.0
@@ -14209,6 +14887,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Indonesia,2020-04-26,8882.0,743.0
 ,Indonesia,2020-04-27,9096.0,765.0
 ,Indonesia,2020-04-28,9511.0,773.0
+,Indonesia,2020-04-29,9771.0,784.0
+,Indonesia,2020-04-30,10118.0,792.0
+,Indonesia,2020-05-01,10551.0,800.0
+,Indonesia,2020-05-02,10843.0,831.0
 ,Iran,2020-01-22,0.0,0.0
 ,Iran,2020-01-23,0.0,0.0
 ,Iran,2020-01-24,0.0,0.0
@@ -14307,6 +14989,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Iran,2020-04-26,90481.0,5710.0
 ,Iran,2020-04-27,91472.0,5806.0
 ,Iran,2020-04-28,92584.0,5877.0
+,Iran,2020-04-29,93657.0,5957.0
+,Iran,2020-04-30,94640.0,6028.0
+,Iran,2020-05-01,95646.0,6091.0
+,Iran,2020-05-02,96448.0,6156.0
 ,Iraq,2020-01-22,0.0,0.0
 ,Iraq,2020-01-23,0.0,0.0
 ,Iraq,2020-01-24,0.0,0.0
@@ -14405,6 +15091,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Iraq,2020-04-26,1820.0,87.0
 ,Iraq,2020-04-27,1847.0,88.0
 ,Iraq,2020-04-28,1928.0,90.0
+,Iraq,2020-04-29,2003.0,92.0
+,Iraq,2020-04-30,2085.0,93.0
+,Iraq,2020-05-01,2153.0,94.0
+,Iraq,2020-05-02,2219.0,95.0
 ,Ireland,2020-01-22,0.0,0.0
 ,Ireland,2020-01-23,0.0,0.0
 ,Ireland,2020-01-24,0.0,0.0
@@ -14503,6 +15193,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Ireland,2020-04-26,19262.0,1087.0
 ,Ireland,2020-04-27,19648.0,1102.0
 ,Ireland,2020-04-28,19877.0,1159.0
+,Ireland,2020-04-29,20253.0,1190.0
+,Ireland,2020-04-30,20612.0,1232.0
+,Ireland,2020-05-01,20833.0,1265.0
+,Ireland,2020-05-02,21176.0,1286.0
 ,Israel,2020-01-22,0.0,0.0
 ,Israel,2020-01-23,0.0,0.0
 ,Israel,2020-01-24,0.0,0.0
@@ -14601,6 +15295,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Israel,2020-04-26,15443.0,201.0
 ,Israel,2020-04-27,15555.0,204.0
 ,Israel,2020-04-28,15728.0,210.0
+,Israel,2020-04-29,15834.0,215.0
+,Israel,2020-04-30,15946.0,222.0
+,Israel,2020-05-01,16101.0,225.0
+,Israel,2020-05-02,16185.0,229.0
 ,Italy,2020-01-22,0.0,0.0
 ,Italy,2020-01-23,0.0,0.0
 ,Italy,2020-01-24,0.0,0.0
@@ -14699,6 +15397,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Italy,2020-04-26,197675.0,26644.0
 ,Italy,2020-04-27,199414.0,26977.0
 ,Italy,2020-04-28,201505.0,27359.0
+,Italy,2020-04-29,203591.0,27682.0
+,Italy,2020-04-30,205463.0,27967.0
+,Italy,2020-05-01,207428.0,28236.0
+,Italy,2020-05-02,209328.0,28710.0
 ,Jamaica,2020-01-22,0.0,0.0
 ,Jamaica,2020-01-23,0.0,0.0
 ,Jamaica,2020-01-24,0.0,0.0
@@ -14797,6 +15499,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Jamaica,2020-04-26,350.0,7.0
 ,Jamaica,2020-04-27,364.0,7.0
 ,Jamaica,2020-04-28,364.0,7.0
+,Jamaica,2020-04-29,396.0,7.0
+,Jamaica,2020-04-30,422.0,8.0
+,Jamaica,2020-05-01,432.0,8.0
+,Jamaica,2020-05-02,463.0,8.0
 ,Japan,2020-01-22,2.0,0.0
 ,Japan,2020-01-23,2.0,0.0
 ,Japan,2020-01-24,2.0,0.0
@@ -14895,6 +15601,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Japan,2020-04-26,13441.0,372.0
 ,Japan,2020-04-27,14153.0,385.0
 ,Japan,2020-04-28,13736.0,394.0
+,Japan,2020-04-29,13895.0,413.0
+,Japan,2020-04-30,14088.0,430.0
+,Japan,2020-05-01,14305.0,455.0
+,Japan,2020-05-02,14571.0,474.0
 ,Jordan,2020-01-22,0.0,0.0
 ,Jordan,2020-01-23,0.0,0.0
 ,Jordan,2020-01-24,0.0,0.0
@@ -14993,6 +15703,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Jordan,2020-04-26,447.0,7.0
 ,Jordan,2020-04-27,449.0,7.0
 ,Jordan,2020-04-28,449.0,8.0
+,Jordan,2020-04-29,451.0,8.0
+,Jordan,2020-04-30,453.0,8.0
+,Jordan,2020-05-01,459.0,8.0
+,Jordan,2020-05-02,460.0,9.0
 ,Kazakhstan,2020-01-22,0.0,0.0
 ,Kazakhstan,2020-01-23,0.0,0.0
 ,Kazakhstan,2020-01-24,0.0,0.0
@@ -15091,6 +15805,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Kazakhstan,2020-04-26,2717.0,25.0
 ,Kazakhstan,2020-04-27,2835.0,25.0
 ,Kazakhstan,2020-04-28,3027.0,25.0
+,Kazakhstan,2020-04-29,3138.0,25.0
+,Kazakhstan,2020-04-30,3402.0,25.0
+,Kazakhstan,2020-05-01,3597.0,25.0
+,Kazakhstan,2020-05-02,3857.0,25.0
 ,Kenya,2020-01-22,0.0,0.0
 ,Kenya,2020-01-23,0.0,0.0
 ,Kenya,2020-01-24,0.0,0.0
@@ -15189,6 +15907,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Kenya,2020-04-26,355.0,14.0
 ,Kenya,2020-04-27,363.0,14.0
 ,Kenya,2020-04-28,374.0,14.0
+,Kenya,2020-04-29,384.0,15.0
+,Kenya,2020-04-30,396.0,17.0
+,Kenya,2020-05-01,411.0,21.0
+,Kenya,2020-05-02,435.0,22.0
 ,"Korea, South",2020-01-22,1.0,0.0
 ,"Korea, South",2020-01-23,1.0,0.0
 ,"Korea, South",2020-01-24,2.0,0.0
@@ -15287,6 +16009,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,"Korea, South",2020-04-26,10738.0,243.0
 ,"Korea, South",2020-04-27,10752.0,244.0
 ,"Korea, South",2020-04-28,10761.0,246.0
+,"Korea, South",2020-04-29,10765.0,247.0
+,"Korea, South",2020-04-30,10774.0,248.0
+,"Korea, South",2020-05-01,10780.0,250.0
+,"Korea, South",2020-05-02,10793.0,250.0
 ,Kosovo,2020-01-22,0.0,0.0
 ,Kosovo,2020-01-23,0.0,0.0
 ,Kosovo,2020-01-24,0.0,0.0
@@ -15375,16 +16101,20 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Kosovo,2020-04-16,449.0,11.0
 ,Kosovo,2020-04-17,480.0,12.0
 ,Kosovo,2020-04-18,510.0,12.0
-,Kosovo,2020-04-19,510.0,12.0
-,Kosovo,2020-04-20,510.0,12.0
-,Kosovo,2020-04-21,510.0,12.0
-,Kosovo,2020-04-22,510.0,12.0
-,Kosovo,2020-04-23,510.0,12.0
-,Kosovo,2020-04-24,510.0,12.0
-,Kosovo,2020-04-25,510.0,12.0
-,Kosovo,2020-04-26,510.0,12.0
-,Kosovo,2020-04-27,510.0,12.0
-,Kosovo,2020-04-28,510.0,12.0
+,Kosovo,2020-04-19,561.0,12.0
+,Kosovo,2020-04-20,598.0,15.0
+,Kosovo,2020-04-21,604.0,18.0
+,Kosovo,2020-04-22,630.0,18.0
+,Kosovo,2020-04-23,669.0,19.0
+,Kosovo,2020-04-24,703.0,19.0
+,Kosovo,2020-04-25,731.0,20.0
+,Kosovo,2020-04-26,763.0,21.0
+,Kosovo,2020-04-27,780.0,22.0
+,Kosovo,2020-04-28,790.0,22.0
+,Kosovo,2020-04-29,799.0,22.0
+,Kosovo,2020-04-30,806.0,22.0
+,Kosovo,2020-05-01,806.0,22.0
+,Kosovo,2020-05-02,823.0,22.0
 ,Kuwait,2020-01-22,0.0,0.0
 ,Kuwait,2020-01-23,0.0,0.0
 ,Kuwait,2020-01-24,0.0,0.0
@@ -15483,6 +16213,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Kuwait,2020-04-26,3075.0,20.0
 ,Kuwait,2020-04-27,3288.0,22.0
 ,Kuwait,2020-04-28,3440.0,23.0
+,Kuwait,2020-04-29,3740.0,24.0
+,Kuwait,2020-04-30,4024.0,26.0
+,Kuwait,2020-05-01,4377.0,30.0
+,Kuwait,2020-05-02,4619.0,33.0
 ,Kyrgyzstan,2020-01-22,0.0,0.0
 ,Kyrgyzstan,2020-01-23,0.0,0.0
 ,Kyrgyzstan,2020-01-24,0.0,0.0
@@ -15581,6 +16315,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Kyrgyzstan,2020-04-26,682.0,8.0
 ,Kyrgyzstan,2020-04-27,695.0,8.0
 ,Kyrgyzstan,2020-04-28,708.0,8.0
+,Kyrgyzstan,2020-04-29,729.0,8.0
+,Kyrgyzstan,2020-04-30,746.0,8.0
+,Kyrgyzstan,2020-05-01,756.0,8.0
+,Kyrgyzstan,2020-05-02,769.0,8.0
 ,Laos,2020-01-22,0.0,0.0
 ,Laos,2020-01-23,0.0,0.0
 ,Laos,2020-01-24,0.0,0.0
@@ -15679,6 +16417,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Laos,2020-04-26,19.0,0.0
 ,Laos,2020-04-27,19.0,0.0
 ,Laos,2020-04-28,19.0,0.0
+,Laos,2020-04-29,19.0,0.0
+,Laos,2020-04-30,19.0,0.0
+,Laos,2020-05-01,19.0,0.0
+,Laos,2020-05-02,19.0,0.0
 ,Latvia,2020-01-22,0.0,0.0
 ,Latvia,2020-01-23,0.0,0.0
 ,Latvia,2020-01-24,0.0,0.0
@@ -15777,6 +16519,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Latvia,2020-04-26,812.0,12.0
 ,Latvia,2020-04-27,818.0,13.0
 ,Latvia,2020-04-28,836.0,13.0
+,Latvia,2020-04-29,849.0,15.0
+,Latvia,2020-04-30,858.0,15.0
+,Latvia,2020-05-01,870.0,16.0
+,Latvia,2020-05-02,871.0,16.0
 ,Lebanon,2020-01-22,0.0,0.0
 ,Lebanon,2020-01-23,0.0,0.0
 ,Lebanon,2020-01-24,0.0,0.0
@@ -15875,6 +16621,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Lebanon,2020-04-26,707.0,24.0
 ,Lebanon,2020-04-27,710.0,24.0
 ,Lebanon,2020-04-28,717.0,24.0
+,Lebanon,2020-04-29,721.0,24.0
+,Lebanon,2020-04-30,725.0,24.0
+,Lebanon,2020-05-01,729.0,24.0
+,Lebanon,2020-05-02,733.0,25.0
 ,Liberia,2020-01-22,0.0,0.0
 ,Liberia,2020-01-23,0.0,0.0
 ,Liberia,2020-01-24,0.0,0.0
@@ -15973,6 +16723,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Liberia,2020-04-26,124.0,12.0
 ,Liberia,2020-04-27,124.0,12.0
 ,Liberia,2020-04-28,141.0,16.0
+,Liberia,2020-04-29,141.0,16.0
+,Liberia,2020-04-30,141.0,16.0
+,Liberia,2020-05-01,152.0,18.0
+,Liberia,2020-05-02,154.0,18.0
 ,Libya,2020-01-22,0.0,0.0
 ,Libya,2020-01-23,0.0,0.0
 ,Libya,2020-01-24,0.0,0.0
@@ -16071,6 +16825,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Libya,2020-04-26,61.0,2.0
 ,Libya,2020-04-27,61.0,2.0
 ,Libya,2020-04-28,61.0,2.0
+,Libya,2020-04-29,61.0,2.0
+,Libya,2020-04-30,61.0,3.0
+,Libya,2020-05-01,63.0,3.0
+,Libya,2020-05-02,63.0,3.0
 ,Liechtenstein,2020-01-22,0.0,0.0
 ,Liechtenstein,2020-01-23,0.0,0.0
 ,Liechtenstein,2020-01-24,0.0,0.0
@@ -16169,6 +16927,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Liechtenstein,2020-04-26,82.0,1.0
 ,Liechtenstein,2020-04-27,82.0,1.0
 ,Liechtenstein,2020-04-28,82.0,1.0
+,Liechtenstein,2020-04-29,82.0,1.0
+,Liechtenstein,2020-04-30,82.0,1.0
+,Liechtenstein,2020-05-01,82.0,1.0
+,Liechtenstein,2020-05-02,82.0,1.0
 ,Lithuania,2020-01-22,0.0,0.0
 ,Lithuania,2020-01-23,0.0,0.0
 ,Lithuania,2020-01-24,0.0,0.0
@@ -16267,6 +17029,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Lithuania,2020-04-26,1438.0,41.0
 ,Lithuania,2020-04-27,1449.0,41.0
 ,Lithuania,2020-04-28,1344.0,44.0
+,Lithuania,2020-04-29,1375.0,45.0
+,Lithuania,2020-04-30,1385.0,45.0
+,Lithuania,2020-05-01,1399.0,45.0
+,Lithuania,2020-05-02,1406.0,46.0
 ,Luxembourg,2020-01-22,0.0,0.0
 ,Luxembourg,2020-01-23,0.0,0.0
 ,Luxembourg,2020-01-24,0.0,0.0
@@ -16365,6 +17131,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Luxembourg,2020-04-26,3723.0,88.0
 ,Luxembourg,2020-04-27,3729.0,88.0
 ,Luxembourg,2020-04-28,3741.0,89.0
+,Luxembourg,2020-04-29,3769.0,89.0
+,Luxembourg,2020-04-30,3784.0,90.0
+,Luxembourg,2020-05-01,3802.0,92.0
+,Luxembourg,2020-05-02,3812.0,92.0
 ,MS Zaandam,2020-01-22,0.0,0.0
 ,MS Zaandam,2020-01-23,0.0,0.0
 ,MS Zaandam,2020-01-24,0.0,0.0
@@ -16463,6 +17233,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,MS Zaandam,2020-04-26,9.0,2.0
 ,MS Zaandam,2020-04-27,9.0,2.0
 ,MS Zaandam,2020-04-28,9.0,2.0
+,MS Zaandam,2020-04-29,9.0,2.0
+,MS Zaandam,2020-04-30,9.0,2.0
+,MS Zaandam,2020-05-01,9.0,2.0
+,MS Zaandam,2020-05-02,9.0,2.0
 ,Madagascar,2020-01-22,0.0,0.0
 ,Madagascar,2020-01-23,0.0,0.0
 ,Madagascar,2020-01-24,0.0,0.0
@@ -16561,6 +17335,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Madagascar,2020-04-26,124.0,0.0
 ,Madagascar,2020-04-27,128.0,0.0
 ,Madagascar,2020-04-28,128.0,0.0
+,Madagascar,2020-04-29,128.0,0.0
+,Madagascar,2020-04-30,128.0,0.0
+,Madagascar,2020-05-01,132.0,0.0
+,Madagascar,2020-05-02,135.0,0.0
 ,Malawi,2020-01-22,0.0,0.0
 ,Malawi,2020-01-23,0.0,0.0
 ,Malawi,2020-01-24,0.0,0.0
@@ -16659,6 +17437,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Malawi,2020-04-26,34.0,3.0
 ,Malawi,2020-04-27,36.0,3.0
 ,Malawi,2020-04-28,36.0,3.0
+,Malawi,2020-04-29,36.0,3.0
+,Malawi,2020-04-30,37.0,3.0
+,Malawi,2020-05-01,37.0,3.0
+,Malawi,2020-05-02,38.0,3.0
 ,Malaysia,2020-01-22,0.0,0.0
 ,Malaysia,2020-01-23,0.0,0.0
 ,Malaysia,2020-01-24,0.0,0.0
@@ -16757,6 +17539,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Malaysia,2020-04-26,5780.0,98.0
 ,Malaysia,2020-04-27,5820.0,99.0
 ,Malaysia,2020-04-28,5851.0,100.0
+,Malaysia,2020-04-29,5945.0,100.0
+,Malaysia,2020-04-30,6002.0,102.0
+,Malaysia,2020-05-01,6071.0,103.0
+,Malaysia,2020-05-02,6176.0,103.0
 ,Maldives,2020-01-22,0.0,0.0
 ,Maldives,2020-01-23,0.0,0.0
 ,Maldives,2020-01-24,0.0,0.0
@@ -16855,6 +17641,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Maldives,2020-04-26,214.0,0.0
 ,Maldives,2020-04-27,226.0,0.0
 ,Maldives,2020-04-28,250.0,0.0
+,Maldives,2020-04-29,278.0,1.0
+,Maldives,2020-04-30,468.0,1.0
+,Maldives,2020-05-01,491.0,1.0
+,Maldives,2020-05-02,519.0,1.0
 ,Mali,2020-01-22,0.0,0.0
 ,Mali,2020-01-23,0.0,0.0
 ,Mali,2020-01-24,0.0,0.0
@@ -16953,6 +17743,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Mali,2020-04-26,389.0,23.0
 ,Mali,2020-04-27,408.0,23.0
 ,Mali,2020-04-28,424.0,24.0
+,Mali,2020-04-29,482.0,25.0
+,Mali,2020-04-30,490.0,26.0
+,Mali,2020-05-01,508.0,26.0
+,Mali,2020-05-02,544.0,26.0
 ,Malta,2020-01-22,0.0,0.0
 ,Malta,2020-01-23,0.0,0.0
 ,Malta,2020-01-24,0.0,0.0
@@ -17051,6 +17845,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Malta,2020-04-26,448.0,4.0
 ,Malta,2020-04-27,450.0,4.0
 ,Malta,2020-04-28,458.0,4.0
+,Malta,2020-04-29,463.0,4.0
+,Malta,2020-04-30,465.0,4.0
+,Malta,2020-05-01,467.0,4.0
+,Malta,2020-05-02,468.0,4.0
 ,Mauritania,2020-01-22,0.0,0.0
 ,Mauritania,2020-01-23,0.0,0.0
 ,Mauritania,2020-01-24,0.0,0.0
@@ -17149,6 +17947,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Mauritania,2020-04-26,7.0,1.0
 ,Mauritania,2020-04-27,7.0,1.0
 ,Mauritania,2020-04-28,7.0,1.0
+,Mauritania,2020-04-29,8.0,1.0
+,Mauritania,2020-04-30,8.0,1.0
+,Mauritania,2020-05-01,8.0,1.0
+,Mauritania,2020-05-02,8.0,1.0
 ,Mauritius,2020-01-22,0.0,0.0
 ,Mauritius,2020-01-23,0.0,0.0
 ,Mauritius,2020-01-24,0.0,0.0
@@ -17247,6 +18049,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Mauritius,2020-04-26,332.0,9.0
 ,Mauritius,2020-04-27,334.0,10.0
 ,Mauritius,2020-04-28,334.0,10.0
+,Mauritius,2020-04-29,332.0,10.0
+,Mauritius,2020-04-30,332.0,10.0
+,Mauritius,2020-05-01,332.0,10.0
+,Mauritius,2020-05-02,332.0,10.0
 ,Mexico,2020-01-22,0.0,0.0
 ,Mexico,2020-01-23,0.0,0.0
 ,Mexico,2020-01-24,0.0,0.0
@@ -17345,6 +18151,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Mexico,2020-04-26,14677.0,1351.0
 ,Mexico,2020-04-27,15529.0,1434.0
 ,Mexico,2020-04-28,16752.0,1569.0
+,Mexico,2020-04-29,17799.0,1732.0
+,Mexico,2020-04-30,19224.0,1859.0
+,Mexico,2020-05-01,20739.0,1972.0
+,Mexico,2020-05-02,22088.0,2061.0
 ,Moldova,2020-01-22,0.0,0.0
 ,Moldova,2020-01-23,0.0,0.0
 ,Moldova,2020-01-24,0.0,0.0
@@ -17443,6 +18253,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Moldova,2020-04-26,3408.0,96.0
 ,Moldova,2020-04-27,3481.0,102.0
 ,Moldova,2020-04-28,3638.0,103.0
+,Moldova,2020-04-29,3771.0,111.0
+,Moldova,2020-04-30,3897.0,116.0
+,Moldova,2020-05-01,3980.0,122.0
+,Moldova,2020-05-02,4052.0,124.0
 ,Monaco,2020-01-22,0.0,0.0
 ,Monaco,2020-01-23,0.0,0.0
 ,Monaco,2020-01-24,0.0,0.0
@@ -17541,6 +18355,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Monaco,2020-04-26,94.0,4.0
 ,Monaco,2020-04-27,95.0,4.0
 ,Monaco,2020-04-28,95.0,4.0
+,Monaco,2020-04-29,95.0,4.0
+,Monaco,2020-04-30,95.0,4.0
+,Monaco,2020-05-01,95.0,4.0
+,Monaco,2020-05-02,95.0,4.0
 ,Mongolia,2020-01-22,0.0,0.0
 ,Mongolia,2020-01-23,0.0,0.0
 ,Mongolia,2020-01-24,0.0,0.0
@@ -17639,6 +18457,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Mongolia,2020-04-26,38.0,0.0
 ,Mongolia,2020-04-27,38.0,0.0
 ,Mongolia,2020-04-28,38.0,0.0
+,Mongolia,2020-04-29,38.0,0.0
+,Mongolia,2020-04-30,38.0,0.0
+,Mongolia,2020-05-01,38.0,0.0
+,Mongolia,2020-05-02,39.0,0.0
 ,Montenegro,2020-01-22,0.0,0.0
 ,Montenegro,2020-01-23,0.0,0.0
 ,Montenegro,2020-01-24,0.0,0.0
@@ -17737,6 +18559,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Montenegro,2020-04-26,321.0,7.0
 ,Montenegro,2020-04-27,321.0,7.0
 ,Montenegro,2020-04-28,321.0,7.0
+,Montenegro,2020-04-29,322.0,7.0
+,Montenegro,2020-04-30,322.0,7.0
+,Montenegro,2020-05-01,322.0,7.0
+,Montenegro,2020-05-02,322.0,8.0
 ,Morocco,2020-01-22,0.0,0.0
 ,Morocco,2020-01-23,0.0,0.0
 ,Morocco,2020-01-24,0.0,0.0
@@ -17835,6 +18661,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Morocco,2020-04-26,4065.0,161.0
 ,Morocco,2020-04-27,4120.0,162.0
 ,Morocco,2020-04-28,4252.0,165.0
+,Morocco,2020-04-29,4321.0,168.0
+,Morocco,2020-04-30,4423.0,170.0
+,Morocco,2020-05-01,4569.0,171.0
+,Morocco,2020-05-02,4729.0,173.0
 ,Mozambique,2020-01-22,0.0,0.0
 ,Mozambique,2020-01-23,0.0,0.0
 ,Mozambique,2020-01-24,0.0,0.0
@@ -17933,6 +18763,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Mozambique,2020-04-26,76.0,0.0
 ,Mozambique,2020-04-27,76.0,0.0
 ,Mozambique,2020-04-28,76.0,0.0
+,Mozambique,2020-04-29,76.0,0.0
+,Mozambique,2020-04-30,76.0,0.0
+,Mozambique,2020-05-01,79.0,0.0
+,Mozambique,2020-05-02,79.0,0.0
 ,Namibia,2020-01-22,0.0,0.0
 ,Namibia,2020-01-23,0.0,0.0
 ,Namibia,2020-01-24,0.0,0.0
@@ -18031,6 +18865,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Namibia,2020-04-26,16.0,0.0
 ,Namibia,2020-04-27,16.0,0.0
 ,Namibia,2020-04-28,16.0,0.0
+,Namibia,2020-04-29,16.0,0.0
+,Namibia,2020-04-30,16.0,0.0
+,Namibia,2020-05-01,16.0,0.0
+,Namibia,2020-05-02,16.0,0.0
 ,Nepal,2020-01-22,0.0,0.0
 ,Nepal,2020-01-23,0.0,0.0
 ,Nepal,2020-01-24,0.0,0.0
@@ -18129,6 +18967,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Nepal,2020-04-26,52.0,0.0
 ,Nepal,2020-04-27,52.0,0.0
 ,Nepal,2020-04-28,54.0,0.0
+,Nepal,2020-04-29,57.0,0.0
+,Nepal,2020-04-30,57.0,0.0
+,Nepal,2020-05-01,59.0,0.0
+,Nepal,2020-05-02,59.0,0.0
 ,Netherlands,2020-01-22,0.0,0.0
 ,Netherlands,2020-01-23,0.0,0.0
 ,Netherlands,2020-01-24,0.0,0.0
@@ -18227,6 +19069,10 @@ St Martin,France,2020-04-28,38.0,3.0
 ,Netherlands,2020-04-26,37845.0,4475.0
 ,Netherlands,2020-04-27,38245.0,4518.0
 ,Netherlands,2020-04-28,38416.0,4566.0
+,Netherlands,2020-04-29,38802.0,4711.0
+,Netherlands,2020-04-30,39316.0,4795.0
+,Netherlands,2020-05-01,39791.0,4893.0
+,Netherlands,2020-05-02,40236.0,4987.0
 Aruba,Netherlands,2020-01-22,0.0,0.0
 Aruba,Netherlands,2020-01-23,0.0,0.0
 Aruba,Netherlands,2020-01-24,0.0,0.0
@@ -18325,6 +19171,10 @@ Aruba,Netherlands,2020-04-25,100.0,2.0
 Aruba,Netherlands,2020-04-26,100.0,2.0
 Aruba,Netherlands,2020-04-27,100.0,2.0
 Aruba,Netherlands,2020-04-28,100.0,2.0
+Aruba,Netherlands,2020-04-29,100.0,2.0
+Aruba,Netherlands,2020-04-30,100.0,2.0
+Aruba,Netherlands,2020-05-01,100.0,2.0
+Aruba,Netherlands,2020-05-02,100.0,2.0
 "Bonaire, Sint Eustatius and Saba",Netherlands,2020-01-22,0.0,0.0
 "Bonaire, Sint Eustatius and Saba",Netherlands,2020-01-23,0.0,0.0
 "Bonaire, Sint Eustatius and Saba",Netherlands,2020-01-24,0.0,0.0
@@ -18423,6 +19273,10 @@ Aruba,Netherlands,2020-04-28,100.0,2.0
 "Bonaire, Sint Eustatius and Saba",Netherlands,2020-04-26,5.0,0.0
 "Bonaire, Sint Eustatius and Saba",Netherlands,2020-04-27,5.0,0.0
 "Bonaire, Sint Eustatius and Saba",Netherlands,2020-04-28,5.0,0.0
+"Bonaire, Sint Eustatius and Saba",Netherlands,2020-04-29,5.0,0.0
+"Bonaire, Sint Eustatius and Saba",Netherlands,2020-04-30,5.0,0.0
+"Bonaire, Sint Eustatius and Saba",Netherlands,2020-05-01,6.0,0.0
+"Bonaire, Sint Eustatius and Saba",Netherlands,2020-05-02,6.0,0.0
 Curacao,Netherlands,2020-01-22,0.0,0.0
 Curacao,Netherlands,2020-01-23,0.0,0.0
 Curacao,Netherlands,2020-01-24,0.0,0.0
@@ -18521,6 +19375,10 @@ Curacao,Netherlands,2020-04-25,16.0,1.0
 Curacao,Netherlands,2020-04-26,16.0,1.0
 Curacao,Netherlands,2020-04-27,16.0,1.0
 Curacao,Netherlands,2020-04-28,16.0,1.0
+Curacao,Netherlands,2020-04-29,16.0,1.0
+Curacao,Netherlands,2020-04-30,16.0,1.0
+Curacao,Netherlands,2020-05-01,16.0,1.0
+Curacao,Netherlands,2020-05-02,16.0,1.0
 Sint Maarten,Netherlands,2020-01-22,0.0,0.0
 Sint Maarten,Netherlands,2020-01-23,0.0,0.0
 Sint Maarten,Netherlands,2020-01-24,0.0,0.0
@@ -18619,6 +19477,10 @@ Sint Maarten,Netherlands,2020-04-25,73.0,12.0
 Sint Maarten,Netherlands,2020-04-26,74.0,13.0
 Sint Maarten,Netherlands,2020-04-27,74.0,13.0
 Sint Maarten,Netherlands,2020-04-28,75.0,13.0
+Sint Maarten,Netherlands,2020-04-29,75.0,13.0
+Sint Maarten,Netherlands,2020-04-30,75.0,13.0
+Sint Maarten,Netherlands,2020-05-01,76.0,13.0
+Sint Maarten,Netherlands,2020-05-02,76.0,13.0
 ,New Zealand,2020-01-22,0.0,0.0
 ,New Zealand,2020-01-23,0.0,0.0
 ,New Zealand,2020-01-24,0.0,0.0
@@ -18717,6 +19579,10 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,New Zealand,2020-04-26,1469.0,19.0
 ,New Zealand,2020-04-27,1472.0,19.0
 ,New Zealand,2020-04-28,1474.0,19.0
+,New Zealand,2020-04-29,1476.0,19.0
+,New Zealand,2020-04-30,1479.0,19.0
+,New Zealand,2020-05-01,1485.0,20.0
+,New Zealand,2020-05-02,1487.0,20.0
 ,Nicaragua,2020-01-22,0.0,0.0
 ,Nicaragua,2020-01-23,0.0,0.0
 ,Nicaragua,2020-01-24,0.0,0.0
@@ -18815,6 +19681,10 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,Nicaragua,2020-04-26,13.0,3.0
 ,Nicaragua,2020-04-27,13.0,3.0
 ,Nicaragua,2020-04-28,13.0,3.0
+,Nicaragua,2020-04-29,13.0,3.0
+,Nicaragua,2020-04-30,14.0,3.0
+,Nicaragua,2020-05-01,14.0,3.0
+,Nicaragua,2020-05-02,14.0,3.0
 ,Niger,2020-01-22,0.0,0.0
 ,Niger,2020-01-23,0.0,0.0
 ,Niger,2020-01-24,0.0,0.0
@@ -18913,6 +19783,10 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,Niger,2020-04-26,696.0,29.0
 ,Niger,2020-04-27,701.0,29.0
 ,Niger,2020-04-28,709.0,31.0
+,Niger,2020-04-29,713.0,32.0
+,Niger,2020-04-30,719.0,32.0
+,Niger,2020-05-01,728.0,33.0
+,Niger,2020-05-02,736.0,35.0
 ,Nigeria,2020-01-22,0.0,0.0
 ,Nigeria,2020-01-23,0.0,0.0
 ,Nigeria,2020-01-24,0.0,0.0
@@ -19011,6 +19885,10 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,Nigeria,2020-04-26,1273.0,40.0
 ,Nigeria,2020-04-27,1337.0,40.0
 ,Nigeria,2020-04-28,1532.0,44.0
+,Nigeria,2020-04-29,1728.0,51.0
+,Nigeria,2020-04-30,1932.0,58.0
+,Nigeria,2020-05-01,2170.0,68.0
+,Nigeria,2020-05-02,2388.0,85.0
 ,North Macedonia,2020-01-22,0.0,0.0
 ,North Macedonia,2020-01-23,0.0,0.0
 ,North Macedonia,2020-01-24,0.0,0.0
@@ -19109,6 +19987,10 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,North Macedonia,2020-04-26,1386.0,61.0
 ,North Macedonia,2020-04-27,1399.0,65.0
 ,North Macedonia,2020-04-28,1421.0,71.0
+,North Macedonia,2020-04-29,1442.0,73.0
+,North Macedonia,2020-04-30,1465.0,77.0
+,North Macedonia,2020-05-01,1494.0,81.0
+,North Macedonia,2020-05-02,1506.0,82.0
 ,Norway,2020-01-22,0.0,0.0
 ,Norway,2020-01-23,0.0,0.0
 ,Norway,2020-01-24,0.0,0.0
@@ -19207,6 +20089,10 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,Norway,2020-04-26,7527.0,201.0
 ,Norway,2020-04-27,7599.0,205.0
 ,Norway,2020-04-28,7660.0,206.0
+,Norway,2020-04-29,7710.0,207.0
+,Norway,2020-04-30,7738.0,210.0
+,Norway,2020-05-01,7783.0,210.0
+,Norway,2020-05-02,7809.0,211.0
 ,Oman,2020-01-22,0.0,0.0
 ,Oman,2020-01-23,0.0,0.0
 ,Oman,2020-01-24,0.0,0.0
@@ -19305,6 +20191,10 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,Oman,2020-04-26,1998.0,10.0
 ,Oman,2020-04-27,2049.0,10.0
 ,Oman,2020-04-28,2131.0,10.0
+,Oman,2020-04-29,2274.0,10.0
+,Oman,2020-04-30,2348.0,11.0
+,Oman,2020-05-01,2447.0,11.0
+,Oman,2020-05-02,2483.0,12.0
 ,Pakistan,2020-01-22,0.0,0.0
 ,Pakistan,2020-01-23,0.0,0.0
 ,Pakistan,2020-01-24,0.0,0.0
@@ -19403,6 +20293,10 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,Pakistan,2020-04-26,13328.0,281.0
 ,Pakistan,2020-04-27,13915.0,292.0
 ,Pakistan,2020-04-28,14612.0,312.0
+,Pakistan,2020-04-29,15525.0,343.0
+,Pakistan,2020-04-30,16817.0,385.0
+,Pakistan,2020-05-01,18114.0,417.0
+,Pakistan,2020-05-02,19103.0,440.0
 ,Panama,2020-01-22,0.0,0.0
 ,Panama,2020-01-23,0.0,0.0
 ,Panama,2020-01-24,0.0,0.0
@@ -19501,6 +20395,10 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,Panama,2020-04-26,5779.0,165.0
 ,Panama,2020-04-27,6021.0,167.0
 ,Panama,2020-04-28,6021.0,167.0
+,Panama,2020-04-29,6378.0,178.0
+,Panama,2020-04-30,6532.0,188.0
+,Panama,2020-05-01,6720.0,192.0
+,Panama,2020-05-02,7090.0,197.0
 ,Papua New Guinea,2020-01-22,0.0,0.0
 ,Papua New Guinea,2020-01-23,0.0,0.0
 ,Papua New Guinea,2020-01-24,0.0,0.0
@@ -19599,6 +20497,10 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,Papua New Guinea,2020-04-26,8.0,0.0
 ,Papua New Guinea,2020-04-27,8.0,0.0
 ,Papua New Guinea,2020-04-28,8.0,0.0
+,Papua New Guinea,2020-04-29,8.0,0.0
+,Papua New Guinea,2020-04-30,8.0,0.0
+,Papua New Guinea,2020-05-01,8.0,0.0
+,Papua New Guinea,2020-05-02,8.0,0.0
 ,Paraguay,2020-01-22,0.0,0.0
 ,Paraguay,2020-01-23,0.0,0.0
 ,Paraguay,2020-01-24,0.0,0.0
@@ -19697,6 +20599,10 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,Paraguay,2020-04-26,228.0,9.0
 ,Paraguay,2020-04-27,228.0,9.0
 ,Paraguay,2020-04-28,239.0,9.0
+,Paraguay,2020-04-29,239.0,9.0
+,Paraguay,2020-04-30,266.0,10.0
+,Paraguay,2020-05-01,333.0,10.0
+,Paraguay,2020-05-02,370.0,10.0
 ,Peru,2020-01-22,0.0,0.0
 ,Peru,2020-01-23,0.0,0.0
 ,Peru,2020-01-24,0.0,0.0
@@ -19795,6 +20701,10 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,Peru,2020-04-26,27517.0,728.0
 ,Peru,2020-04-27,28699.0,782.0
 ,Peru,2020-04-28,31190.0,854.0
+,Peru,2020-04-29,33931.0,943.0
+,Peru,2020-04-30,36976.0,1051.0
+,Peru,2020-05-01,40459.0,1124.0
+,Peru,2020-05-02,42534.0,1200.0
 ,Philippines,2020-01-22,0.0,0.0
 ,Philippines,2020-01-23,0.0,0.0
 ,Philippines,2020-01-24,0.0,0.0
@@ -19893,6 +20803,10 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,Philippines,2020-04-26,7579.0,501.0
 ,Philippines,2020-04-27,7777.0,511.0
 ,Philippines,2020-04-28,7958.0,530.0
+,Philippines,2020-04-29,8212.0,558.0
+,Philippines,2020-04-30,8488.0,568.0
+,Philippines,2020-05-01,8772.0,579.0
+,Philippines,2020-05-02,8928.0,603.0
 ,Poland,2020-01-22,0.0,0.0
 ,Poland,2020-01-23,0.0,0.0
 ,Poland,2020-01-24,0.0,0.0
@@ -19991,6 +20905,10 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,Poland,2020-04-26,11617.0,535.0
 ,Poland,2020-04-27,11902.0,562.0
 ,Poland,2020-04-28,12218.0,596.0
+,Poland,2020-04-29,12640.0,624.0
+,Poland,2020-04-30,12877.0,644.0
+,Poland,2020-05-01,13105.0,651.0
+,Poland,2020-05-02,13375.0,664.0
 ,Portugal,2020-01-22,0.0,0.0
 ,Portugal,2020-01-23,0.0,0.0
 ,Portugal,2020-01-24,0.0,0.0
@@ -20089,6 +21007,10 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,Portugal,2020-04-26,23864.0,903.0
 ,Portugal,2020-04-27,24027.0,928.0
 ,Portugal,2020-04-28,24322.0,948.0
+,Portugal,2020-04-29,24505.0,973.0
+,Portugal,2020-04-30,25045.0,989.0
+,Portugal,2020-05-01,25351.0,1007.0
+,Portugal,2020-05-02,25190.0,1023.0
 ,Qatar,2020-01-22,0.0,0.0
 ,Qatar,2020-01-23,0.0,0.0
 ,Qatar,2020-01-24,0.0,0.0
@@ -20187,6 +21109,10 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,Qatar,2020-04-26,10287.0,10.0
 ,Qatar,2020-04-27,11244.0,10.0
 ,Qatar,2020-04-28,11921.0,10.0
+,Qatar,2020-04-29,12564.0,10.0
+,Qatar,2020-04-30,13409.0,10.0
+,Qatar,2020-05-01,14096.0,12.0
+,Qatar,2020-05-02,14872.0,12.0
 ,Romania,2020-01-22,0.0,0.0
 ,Romania,2020-01-23,0.0,0.0
 ,Romania,2020-01-24,0.0,0.0
@@ -20285,6 +21211,10 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,Romania,2020-04-26,11036.0,619.0
 ,Romania,2020-04-27,11339.0,641.0
 ,Romania,2020-04-28,11616.0,663.0
+,Romania,2020-04-29,11978.0,693.0
+,Romania,2020-04-30,12240.0,717.0
+,Romania,2020-05-01,12567.0,744.0
+,Romania,2020-05-02,12732.0,771.0
 ,Russia,2020-01-22,0.0,0.0
 ,Russia,2020-01-23,0.0,0.0
 ,Russia,2020-01-24,0.0,0.0
@@ -20383,6 +21313,10 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,Russia,2020-04-26,80949.0,747.0
 ,Russia,2020-04-27,87147.0,794.0
 ,Russia,2020-04-28,93558.0,867.0
+,Russia,2020-04-29,99399.0,972.0
+,Russia,2020-04-30,106498.0,1073.0
+,Russia,2020-05-01,114431.0,1169.0
+,Russia,2020-05-02,124054.0,1222.0
 ,Rwanda,2020-01-22,0.0,0.0
 ,Rwanda,2020-01-23,0.0,0.0
 ,Rwanda,2020-01-24,0.0,0.0
@@ -20481,6 +21415,10 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,Rwanda,2020-04-26,191.0,0.0
 ,Rwanda,2020-04-27,207.0,0.0
 ,Rwanda,2020-04-28,212.0,0.0
+,Rwanda,2020-04-29,225.0,0.0
+,Rwanda,2020-04-30,243.0,0.0
+,Rwanda,2020-05-01,249.0,0.0
+,Rwanda,2020-05-02,255.0,0.0
 ,Saint Kitts and Nevis,2020-01-22,0.0,0.0
 ,Saint Kitts and Nevis,2020-01-23,0.0,0.0
 ,Saint Kitts and Nevis,2020-01-24,0.0,0.0
@@ -20579,6 +21517,10 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,Saint Kitts and Nevis,2020-04-26,15.0,0.0
 ,Saint Kitts and Nevis,2020-04-27,15.0,0.0
 ,Saint Kitts and Nevis,2020-04-28,15.0,0.0
+,Saint Kitts and Nevis,2020-04-29,15.0,0.0
+,Saint Kitts and Nevis,2020-04-30,15.0,0.0
+,Saint Kitts and Nevis,2020-05-01,15.0,0.0
+,Saint Kitts and Nevis,2020-05-02,15.0,0.0
 ,Saint Lucia,2020-01-22,0.0,0.0
 ,Saint Lucia,2020-01-23,0.0,0.0
 ,Saint Lucia,2020-01-24,0.0,0.0
@@ -20677,6 +21619,10 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,Saint Lucia,2020-04-26,15.0,0.0
 ,Saint Lucia,2020-04-27,15.0,0.0
 ,Saint Lucia,2020-04-28,15.0,0.0
+,Saint Lucia,2020-04-29,17.0,0.0
+,Saint Lucia,2020-04-30,17.0,0.0
+,Saint Lucia,2020-05-01,17.0,0.0
+,Saint Lucia,2020-05-02,17.0,0.0
 ,Saint Vincent and the Grenadines,2020-01-22,0.0,0.0
 ,Saint Vincent and the Grenadines,2020-01-23,0.0,0.0
 ,Saint Vincent and the Grenadines,2020-01-24,0.0,0.0
@@ -20775,6 +21721,10 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,Saint Vincent and the Grenadines,2020-04-26,14.0,0.0
 ,Saint Vincent and the Grenadines,2020-04-27,15.0,0.0
 ,Saint Vincent and the Grenadines,2020-04-28,15.0,0.0
+,Saint Vincent and the Grenadines,2020-04-29,16.0,0.0
+,Saint Vincent and the Grenadines,2020-04-30,16.0,0.0
+,Saint Vincent and the Grenadines,2020-05-01,16.0,0.0
+,Saint Vincent and the Grenadines,2020-05-02,16.0,0.0
 ,San Marino,2020-01-22,0.0,0.0
 ,San Marino,2020-01-23,0.0,0.0
 ,San Marino,2020-01-24,0.0,0.0
@@ -20873,6 +21823,10 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,San Marino,2020-04-26,538.0,41.0
 ,San Marino,2020-04-27,538.0,41.0
 ,San Marino,2020-04-28,553.0,41.0
+,San Marino,2020-04-29,563.0,41.0
+,San Marino,2020-04-30,569.0,41.0
+,San Marino,2020-05-01,580.0,41.0
+,San Marino,2020-05-02,580.0,41.0
 ,Sao Tome and Principe,2020-01-22,0.0,0.0
 ,Sao Tome and Principe,2020-01-23,0.0,0.0
 ,Sao Tome and Principe,2020-01-24,0.0,0.0
@@ -20971,6 +21925,10 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,Sao Tome and Principe,2020-04-26,4.0,0.0
 ,Sao Tome and Principe,2020-04-27,4.0,0.0
 ,Sao Tome and Principe,2020-04-28,8.0,0.0
+,Sao Tome and Principe,2020-04-29,8.0,0.0
+,Sao Tome and Principe,2020-04-30,14.0,0.0
+,Sao Tome and Principe,2020-05-01,16.0,1.0
+,Sao Tome and Principe,2020-05-02,16.0,1.0
 ,Saudi Arabia,2020-01-22,0.0,0.0
 ,Saudi Arabia,2020-01-23,0.0,0.0
 ,Saudi Arabia,2020-01-24,0.0,0.0
@@ -21069,6 +22027,10 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,Saudi Arabia,2020-04-26,17522.0,139.0
 ,Saudi Arabia,2020-04-27,18811.0,144.0
 ,Saudi Arabia,2020-04-28,20077.0,152.0
+,Saudi Arabia,2020-04-29,21402.0,157.0
+,Saudi Arabia,2020-04-30,22753.0,162.0
+,Saudi Arabia,2020-05-01,24097.0,169.0
+,Saudi Arabia,2020-05-02,25459.0,176.0
 ,Senegal,2020-01-22,0.0,0.0
 ,Senegal,2020-01-23,0.0,0.0
 ,Senegal,2020-01-24,0.0,0.0
@@ -21167,6 +22129,10 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,Senegal,2020-04-26,671.0,9.0
 ,Senegal,2020-04-27,736.0,9.0
 ,Senegal,2020-04-28,823.0,9.0
+,Senegal,2020-04-29,882.0,9.0
+,Senegal,2020-04-30,933.0,9.0
+,Senegal,2020-05-01,1024.0,9.0
+,Senegal,2020-05-02,1115.0,9.0
 ,Serbia,2020-01-22,0.0,0.0
 ,Serbia,2020-01-23,0.0,0.0
 ,Serbia,2020-01-24,0.0,0.0
@@ -21257,14 +22223,18 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,Serbia,2020-04-18,5994.0,117.0
 ,Serbia,2020-04-19,6318.0,122.0
 ,Serbia,2020-04-20,6630.0,125.0
-,Serbia,2020-04-21,6630.0,125.0
-,Serbia,2020-04-22,6630.0,125.0
-,Serbia,2020-04-23,6630.0,125.0
-,Serbia,2020-04-24,6630.0,125.0
-,Serbia,2020-04-25,6630.0,125.0
-,Serbia,2020-04-26,6630.0,125.0
-,Serbia,2020-04-27,6630.0,125.0
-,Serbia,2020-04-28,6630.0,125.0
+,Serbia,2020-04-21,6890.0,130.0
+,Serbia,2020-04-22,7144.0,134.0
+,Serbia,2020-04-23,7276.0,139.0
+,Serbia,2020-04-24,7483.0,144.0
+,Serbia,2020-04-25,7779.0,151.0
+,Serbia,2020-04-26,8042.0,156.0
+,Serbia,2020-04-27,8275.0,162.0
+,Serbia,2020-04-28,8497.0,168.0
+,Serbia,2020-04-29,8724.0,173.0
+,Serbia,2020-04-30,9009.0,179.0
+,Serbia,2020-05-01,9009.0,179.0
+,Serbia,2020-05-02,9362.0,189.0
 ,Seychelles,2020-01-22,0.0,0.0
 ,Seychelles,2020-01-23,0.0,0.0
 ,Seychelles,2020-01-24,0.0,0.0
@@ -21363,6 +22333,10 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,Seychelles,2020-04-26,11.0,0.0
 ,Seychelles,2020-04-27,11.0,0.0
 ,Seychelles,2020-04-28,11.0,0.0
+,Seychelles,2020-04-29,11.0,0.0
+,Seychelles,2020-04-30,11.0,0.0
+,Seychelles,2020-05-01,11.0,0.0
+,Seychelles,2020-05-02,11.0,0.0
 ,Sierra Leone,2020-01-22,0.0,0.0
 ,Sierra Leone,2020-01-23,0.0,0.0
 ,Sierra Leone,2020-01-24,0.0,0.0
@@ -21461,6 +22435,10 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,Sierra Leone,2020-04-26,93.0,4.0
 ,Sierra Leone,2020-04-27,93.0,4.0
 ,Sierra Leone,2020-04-28,104.0,4.0
+,Sierra Leone,2020-04-29,104.0,4.0
+,Sierra Leone,2020-04-30,124.0,7.0
+,Sierra Leone,2020-05-01,136.0,7.0
+,Sierra Leone,2020-05-02,155.0,8.0
 ,Singapore,2020-01-22,0.0,0.0
 ,Singapore,2020-01-23,1.0,0.0
 ,Singapore,2020-01-24,3.0,0.0
@@ -21559,6 +22537,10 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,Singapore,2020-04-26,13624.0,12.0
 ,Singapore,2020-04-27,14423.0,14.0
 ,Singapore,2020-04-28,14951.0,14.0
+,Singapore,2020-04-29,15641.0,14.0
+,Singapore,2020-04-30,16169.0,15.0
+,Singapore,2020-05-01,17101.0,16.0
+,Singapore,2020-05-02,17548.0,17.0
 ,Slovakia,2020-01-22,0.0,0.0
 ,Slovakia,2020-01-23,0.0,0.0
 ,Slovakia,2020-01-24,0.0,0.0
@@ -21657,6 +22639,10 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,Slovakia,2020-04-26,1379.0,18.0
 ,Slovakia,2020-04-27,1381.0,18.0
 ,Slovakia,2020-04-28,1384.0,20.0
+,Slovakia,2020-04-29,1391.0,22.0
+,Slovakia,2020-04-30,1396.0,23.0
+,Slovakia,2020-05-01,1403.0,23.0
+,Slovakia,2020-05-02,1407.0,24.0
 ,Slovenia,2020-01-22,0.0,0.0
 ,Slovenia,2020-01-23,0.0,0.0
 ,Slovenia,2020-01-24,0.0,0.0
@@ -21755,6 +22741,10 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,Slovenia,2020-04-26,1396.0,82.0
 ,Slovenia,2020-04-27,1402.0,83.0
 ,Slovenia,2020-04-28,1408.0,86.0
+,Slovenia,2020-04-29,1418.0,89.0
+,Slovenia,2020-04-30,1429.0,91.0
+,Slovenia,2020-05-01,1434.0,92.0
+,Slovenia,2020-05-02,1439.0,94.0
 ,Somalia,2020-01-22,0.0,0.0
 ,Somalia,2020-01-23,0.0,0.0
 ,Somalia,2020-01-24,0.0,0.0
@@ -21853,6 +22843,10 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,Somalia,2020-04-26,436.0,23.0
 ,Somalia,2020-04-27,480.0,26.0
 ,Somalia,2020-04-28,528.0,28.0
+,Somalia,2020-04-29,582.0,28.0
+,Somalia,2020-04-30,601.0,28.0
+,Somalia,2020-05-01,601.0,28.0
+,Somalia,2020-05-02,671.0,31.0
 ,South Africa,2020-01-22,0.0,0.0
 ,South Africa,2020-01-23,0.0,0.0
 ,South Africa,2020-01-24,0.0,0.0
@@ -21951,6 +22945,10 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,South Africa,2020-04-26,4546.0,87.0
 ,South Africa,2020-04-27,4793.0,90.0
 ,South Africa,2020-04-28,4996.0,93.0
+,South Africa,2020-04-29,5350.0,103.0
+,South Africa,2020-04-30,5647.0,103.0
+,South Africa,2020-05-01,5951.0,116.0
+,South Africa,2020-05-02,6336.0,123.0
 ,South Sudan,2020-01-22,0.0,0.0
 ,South Sudan,2020-01-23,0.0,0.0
 ,South Sudan,2020-01-24,0.0,0.0
@@ -22049,6 +23047,10 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,South Sudan,2020-04-26,6.0,0.0
 ,South Sudan,2020-04-27,6.0,0.0
 ,South Sudan,2020-04-28,34.0,0.0
+,South Sudan,2020-04-29,34.0,0.0
+,South Sudan,2020-04-30,35.0,0.0
+,South Sudan,2020-05-01,45.0,0.0
+,South Sudan,2020-05-02,45.0,0.0
 ,Spain,2020-01-22,0.0,0.0
 ,Spain,2020-01-23,0.0,0.0
 ,Spain,2020-01-24,0.0,0.0
@@ -22142,11 +23144,15 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,Spain,2020-04-21,204178.0,21282.0
 ,Spain,2020-04-22,208389.0,21717.0
 ,Spain,2020-04-23,213024.0,22157.0
-,Spain,2020-04-24,219764.0,22524.0
-,Spain,2020-04-25,223759.0,22902.0
-,Spain,2020-04-26,226629.0,23190.0
-,Spain,2020-04-27,229422.0,23521.0
-,Spain,2020-04-28,232128.0,23822.0
+,Spain,2020-04-24,202990.0,22524.0
+,Spain,2020-04-25,205905.0,22902.0
+,Spain,2020-04-26,207634.0,23190.0
+,Spain,2020-04-27,209465.0,23521.0
+,Spain,2020-04-28,210773.0,23822.0
+,Spain,2020-04-29,212917.0,24275.0
+,Spain,2020-04-30,213435.0,24543.0
+,Spain,2020-05-01,213435.0,24543.0
+,Spain,2020-05-02,216582.0,25100.0
 ,Sri Lanka,2020-01-22,0.0,0.0
 ,Sri Lanka,2020-01-23,0.0,0.0
 ,Sri Lanka,2020-01-24,0.0,0.0
@@ -22245,6 +23251,10 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,Sri Lanka,2020-04-26,523.0,7.0
 ,Sri Lanka,2020-04-27,588.0,7.0
 ,Sri Lanka,2020-04-28,619.0,7.0
+,Sri Lanka,2020-04-29,649.0,7.0
+,Sri Lanka,2020-04-30,663.0,7.0
+,Sri Lanka,2020-05-01,690.0,7.0
+,Sri Lanka,2020-05-02,705.0,7.0
 ,Sudan,2020-01-22,0.0,0.0
 ,Sudan,2020-01-23,0.0,0.0
 ,Sudan,2020-01-24,0.0,0.0
@@ -22343,6 +23353,10 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,Sudan,2020-04-26,237.0,21.0
 ,Sudan,2020-04-27,275.0,22.0
 ,Sudan,2020-04-28,318.0,25.0
+,Sudan,2020-04-29,375.0,28.0
+,Sudan,2020-04-30,442.0,31.0
+,Sudan,2020-05-01,533.0,36.0
+,Sudan,2020-05-02,592.0,41.0
 ,Suriname,2020-01-22,0.0,0.0
 ,Suriname,2020-01-23,0.0,0.0
 ,Suriname,2020-01-24,0.0,0.0
@@ -22441,6 +23455,10 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,Suriname,2020-04-26,10.0,1.0
 ,Suriname,2020-04-27,10.0,1.0
 ,Suriname,2020-04-28,10.0,1.0
+,Suriname,2020-04-29,10.0,1.0
+,Suriname,2020-04-30,10.0,1.0
+,Suriname,2020-05-01,10.0,1.0
+,Suriname,2020-05-02,10.0,1.0
 ,Sweden,2020-01-22,0.0,0.0
 ,Sweden,2020-01-23,0.0,0.0
 ,Sweden,2020-01-24,0.0,0.0
@@ -22539,6 +23557,10 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,Sweden,2020-04-26,18640.0,2194.0
 ,Sweden,2020-04-27,18926.0,2274.0
 ,Sweden,2020-04-28,19621.0,2355.0
+,Sweden,2020-04-29,20302.0,2462.0
+,Sweden,2020-04-30,21092.0,2586.0
+,Sweden,2020-05-01,21520.0,2653.0
+,Sweden,2020-05-02,22082.0,2669.0
 ,Switzerland,2020-01-22,0.0,0.0
 ,Switzerland,2020-01-23,0.0,0.0
 ,Switzerland,2020-01-24,0.0,0.0
@@ -22637,6 +23659,10 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,Switzerland,2020-04-26,29061.0,1610.0
 ,Switzerland,2020-04-27,29164.0,1665.0
 ,Switzerland,2020-04-28,29264.0,1699.0
+,Switzerland,2020-04-29,29407.0,1716.0
+,Switzerland,2020-04-30,29586.0,1737.0
+,Switzerland,2020-05-01,29705.0,1754.0
+,Switzerland,2020-05-02,29817.0,1762.0
 ,Syria,2020-01-22,0.0,0.0
 ,Syria,2020-01-23,0.0,0.0
 ,Syria,2020-01-24,0.0,0.0
@@ -22735,6 +23761,10 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,Syria,2020-04-26,43.0,3.0
 ,Syria,2020-04-27,43.0,3.0
 ,Syria,2020-04-28,43.0,3.0
+,Syria,2020-04-29,43.0,3.0
+,Syria,2020-04-30,43.0,3.0
+,Syria,2020-05-01,44.0,3.0
+,Syria,2020-05-02,44.0,3.0
 ,Taiwan*,2020-01-22,1.0,0.0
 ,Taiwan*,2020-01-23,1.0,0.0
 ,Taiwan*,2020-01-24,3.0,0.0
@@ -22833,6 +23863,112 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,Taiwan*,2020-04-26,429.0,6.0
 ,Taiwan*,2020-04-27,429.0,6.0
 ,Taiwan*,2020-04-28,429.0,6.0
+,Taiwan*,2020-04-29,429.0,6.0
+,Taiwan*,2020-04-30,429.0,6.0
+,Taiwan*,2020-05-01,429.0,6.0
+,Taiwan*,2020-05-02,432.0,6.0
+,Tajikistan,2020-01-22,0.0,0.0
+,Tajikistan,2020-01-23,0.0,0.0
+,Tajikistan,2020-01-24,0.0,0.0
+,Tajikistan,2020-01-25,0.0,0.0
+,Tajikistan,2020-01-26,0.0,0.0
+,Tajikistan,2020-01-27,0.0,0.0
+,Tajikistan,2020-01-28,0.0,0.0
+,Tajikistan,2020-01-29,0.0,0.0
+,Tajikistan,2020-01-30,0.0,0.0
+,Tajikistan,2020-01-31,0.0,0.0
+,Tajikistan,2020-02-01,0.0,0.0
+,Tajikistan,2020-02-02,0.0,0.0
+,Tajikistan,2020-02-03,0.0,0.0
+,Tajikistan,2020-02-04,0.0,0.0
+,Tajikistan,2020-02-05,0.0,0.0
+,Tajikistan,2020-02-06,0.0,0.0
+,Tajikistan,2020-02-07,0.0,0.0
+,Tajikistan,2020-02-08,0.0,0.0
+,Tajikistan,2020-02-09,0.0,0.0
+,Tajikistan,2020-02-10,0.0,0.0
+,Tajikistan,2020-02-11,0.0,0.0
+,Tajikistan,2020-02-12,0.0,0.0
+,Tajikistan,2020-02-13,0.0,0.0
+,Tajikistan,2020-02-14,0.0,0.0
+,Tajikistan,2020-02-15,0.0,0.0
+,Tajikistan,2020-02-16,0.0,0.0
+,Tajikistan,2020-02-17,0.0,0.0
+,Tajikistan,2020-02-18,0.0,0.0
+,Tajikistan,2020-02-19,0.0,0.0
+,Tajikistan,2020-02-20,0.0,0.0
+,Tajikistan,2020-02-21,0.0,0.0
+,Tajikistan,2020-02-22,0.0,0.0
+,Tajikistan,2020-02-23,0.0,0.0
+,Tajikistan,2020-02-24,0.0,0.0
+,Tajikistan,2020-02-25,0.0,0.0
+,Tajikistan,2020-02-26,0.0,0.0
+,Tajikistan,2020-02-27,0.0,0.0
+,Tajikistan,2020-02-28,0.0,0.0
+,Tajikistan,2020-02-29,0.0,0.0
+,Tajikistan,2020-03-01,0.0,0.0
+,Tajikistan,2020-03-02,0.0,0.0
+,Tajikistan,2020-03-03,0.0,0.0
+,Tajikistan,2020-03-04,0.0,0.0
+,Tajikistan,2020-03-05,0.0,0.0
+,Tajikistan,2020-03-06,0.0,0.0
+,Tajikistan,2020-03-07,0.0,0.0
+,Tajikistan,2020-03-08,0.0,0.0
+,Tajikistan,2020-03-09,0.0,0.0
+,Tajikistan,2020-03-10,0.0,0.0
+,Tajikistan,2020-03-11,0.0,0.0
+,Tajikistan,2020-03-12,0.0,0.0
+,Tajikistan,2020-03-13,0.0,0.0
+,Tajikistan,2020-03-14,0.0,0.0
+,Tajikistan,2020-03-15,0.0,0.0
+,Tajikistan,2020-03-16,0.0,0.0
+,Tajikistan,2020-03-17,0.0,0.0
+,Tajikistan,2020-03-18,0.0,0.0
+,Tajikistan,2020-03-19,0.0,0.0
+,Tajikistan,2020-03-20,0.0,0.0
+,Tajikistan,2020-03-21,0.0,0.0
+,Tajikistan,2020-03-22,0.0,0.0
+,Tajikistan,2020-03-23,0.0,0.0
+,Tajikistan,2020-03-24,0.0,0.0
+,Tajikistan,2020-03-25,0.0,0.0
+,Tajikistan,2020-03-26,0.0,0.0
+,Tajikistan,2020-03-27,0.0,0.0
+,Tajikistan,2020-03-28,0.0,0.0
+,Tajikistan,2020-03-29,0.0,0.0
+,Tajikistan,2020-03-30,0.0,0.0
+,Tajikistan,2020-03-31,0.0,0.0
+,Tajikistan,2020-04-01,0.0,0.0
+,Tajikistan,2020-04-02,0.0,0.0
+,Tajikistan,2020-04-03,0.0,0.0
+,Tajikistan,2020-04-04,0.0,0.0
+,Tajikistan,2020-04-05,0.0,0.0
+,Tajikistan,2020-04-06,0.0,0.0
+,Tajikistan,2020-04-07,0.0,0.0
+,Tajikistan,2020-04-08,0.0,0.0
+,Tajikistan,2020-04-09,0.0,0.0
+,Tajikistan,2020-04-10,0.0,0.0
+,Tajikistan,2020-04-11,0.0,0.0
+,Tajikistan,2020-04-12,0.0,0.0
+,Tajikistan,2020-04-13,0.0,0.0
+,Tajikistan,2020-04-14,0.0,0.0
+,Tajikistan,2020-04-15,0.0,0.0
+,Tajikistan,2020-04-16,0.0,0.0
+,Tajikistan,2020-04-17,0.0,0.0
+,Tajikistan,2020-04-18,0.0,0.0
+,Tajikistan,2020-04-19,0.0,0.0
+,Tajikistan,2020-04-20,0.0,0.0
+,Tajikistan,2020-04-21,0.0,0.0
+,Tajikistan,2020-04-22,0.0,0.0
+,Tajikistan,2020-04-23,0.0,0.0
+,Tajikistan,2020-04-24,0.0,0.0
+,Tajikistan,2020-04-25,0.0,0.0
+,Tajikistan,2020-04-26,0.0,0.0
+,Tajikistan,2020-04-27,0.0,0.0
+,Tajikistan,2020-04-28,0.0,0.0
+,Tajikistan,2020-04-29,0.0,0.0
+,Tajikistan,2020-04-30,15.0,0.0
+,Tajikistan,2020-05-01,15.0,0.0
+,Tajikistan,2020-05-02,76.0,2.0
 ,Tanzania,2020-01-22,0.0,0.0
 ,Tanzania,2020-01-23,0.0,0.0
 ,Tanzania,2020-01-24,0.0,0.0
@@ -22931,6 +24067,10 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,Tanzania,2020-04-26,299.0,10.0
 ,Tanzania,2020-04-27,299.0,10.0
 ,Tanzania,2020-04-28,299.0,10.0
+,Tanzania,2020-04-29,480.0,16.0
+,Tanzania,2020-04-30,480.0,16.0
+,Tanzania,2020-05-01,480.0,16.0
+,Tanzania,2020-05-02,480.0,16.0
 ,Thailand,2020-01-22,2.0,0.0
 ,Thailand,2020-01-23,3.0,0.0
 ,Thailand,2020-01-24,5.0,0.0
@@ -23029,6 +24169,10 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,Thailand,2020-04-26,2922.0,51.0
 ,Thailand,2020-04-27,2931.0,52.0
 ,Thailand,2020-04-28,2938.0,54.0
+,Thailand,2020-04-29,2947.0,54.0
+,Thailand,2020-04-30,2954.0,54.0
+,Thailand,2020-05-01,2960.0,54.0
+,Thailand,2020-05-02,2966.0,54.0
 ,Timor-Leste,2020-01-22,0.0,0.0
 ,Timor-Leste,2020-01-23,0.0,0.0
 ,Timor-Leste,2020-01-24,0.0,0.0
@@ -23127,6 +24271,10 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,Timor-Leste,2020-04-26,24.0,0.0
 ,Timor-Leste,2020-04-27,24.0,0.0
 ,Timor-Leste,2020-04-28,24.0,0.0
+,Timor-Leste,2020-04-29,24.0,0.0
+,Timor-Leste,2020-04-30,24.0,0.0
+,Timor-Leste,2020-05-01,24.0,0.0
+,Timor-Leste,2020-05-02,24.0,0.0
 ,Togo,2020-01-22,0.0,0.0
 ,Togo,2020-01-23,0.0,0.0
 ,Togo,2020-01-24,0.0,0.0
@@ -23225,6 +24373,10 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,Togo,2020-04-26,98.0,6.0
 ,Togo,2020-04-27,98.0,6.0
 ,Togo,2020-04-28,99.0,6.0
+,Togo,2020-04-29,109.0,7.0
+,Togo,2020-04-30,116.0,9.0
+,Togo,2020-05-01,123.0,9.0
+,Togo,2020-05-02,123.0,9.0
 ,Trinidad and Tobago,2020-01-22,0.0,0.0
 ,Trinidad and Tobago,2020-01-23,0.0,0.0
 ,Trinidad and Tobago,2020-01-24,0.0,0.0
@@ -23323,6 +24475,10 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,Trinidad and Tobago,2020-04-26,115.0,8.0
 ,Trinidad and Tobago,2020-04-27,116.0,8.0
 ,Trinidad and Tobago,2020-04-28,116.0,8.0
+,Trinidad and Tobago,2020-04-29,116.0,8.0
+,Trinidad and Tobago,2020-04-30,116.0,8.0
+,Trinidad and Tobago,2020-05-01,116.0,8.0
+,Trinidad and Tobago,2020-05-02,116.0,8.0
 ,Tunisia,2020-01-22,0.0,0.0
 ,Tunisia,2020-01-23,0.0,0.0
 ,Tunisia,2020-01-24,0.0,0.0
@@ -23421,6 +24577,10 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,Tunisia,2020-04-26,949.0,38.0
 ,Tunisia,2020-04-27,967.0,39.0
 ,Tunisia,2020-04-28,975.0,40.0
+,Tunisia,2020-04-29,980.0,40.0
+,Tunisia,2020-04-30,994.0,41.0
+,Tunisia,2020-05-01,998.0,41.0
+,Tunisia,2020-05-02,1009.0,42.0
 ,Turkey,2020-01-22,0.0,0.0
 ,Turkey,2020-01-23,0.0,0.0
 ,Turkey,2020-01-24,0.0,0.0
@@ -23519,6 +24679,10 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,Turkey,2020-04-26,110130.0,2805.0
 ,Turkey,2020-04-27,112261.0,2900.0
 ,Turkey,2020-04-28,114653.0,2992.0
+,Turkey,2020-04-29,117589.0,3081.0
+,Turkey,2020-04-30,120204.0,3174.0
+,Turkey,2020-05-01,122392.0,3258.0
+,Turkey,2020-05-02,124375.0,3336.0
 ,US,2020-01-22,1.0,0.0
 ,US,2020-01-23,1.0,0.0
 ,US,2020-01-24,2.0,0.0
@@ -23617,6 +24781,10 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,US,2020-04-26,965785.0,54881.0
 ,US,2020-04-27,988197.0,56259.0
 ,US,2020-04-28,1012582.0,58355.0
+,US,2020-04-29,1039909.0,60967.0
+,US,2020-04-30,1069424.0,62996.0
+,US,2020-05-01,1103461.0,64943.0
+,US,2020-05-02,1132539.0,66369.0
 ,Uganda,2020-01-22,0.0,0.0
 ,Uganda,2020-01-23,0.0,0.0
 ,Uganda,2020-01-24,0.0,0.0
@@ -23715,6 +24883,10 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,Uganda,2020-04-26,79.0,0.0
 ,Uganda,2020-04-27,79.0,0.0
 ,Uganda,2020-04-28,79.0,0.0
+,Uganda,2020-04-29,81.0,0.0
+,Uganda,2020-04-30,83.0,0.0
+,Uganda,2020-05-01,85.0,0.0
+,Uganda,2020-05-02,88.0,0.0
 ,Ukraine,2020-01-22,0.0,0.0
 ,Ukraine,2020-01-23,0.0,0.0
 ,Ukraine,2020-01-24,0.0,0.0
@@ -23813,6 +24985,10 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,Ukraine,2020-04-26,8617.0,209.0
 ,Ukraine,2020-04-27,9009.0,220.0
 ,Ukraine,2020-04-28,9410.0,239.0
+,Ukraine,2020-04-29,9866.0,250.0
+,Ukraine,2020-04-30,10406.0,261.0
+,Ukraine,2020-05-01,10861.0,272.0
+,Ukraine,2020-05-02,11411.0,279.0
 ,United Arab Emirates,2020-01-22,0.0,0.0
 ,United Arab Emirates,2020-01-23,0.0,0.0
 ,United Arab Emirates,2020-01-24,0.0,0.0
@@ -23911,6 +25087,10 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,United Arab Emirates,2020-04-26,10349.0,76.0
 ,United Arab Emirates,2020-04-27,10839.0,82.0
 ,United Arab Emirates,2020-04-28,11380.0,89.0
+,United Arab Emirates,2020-04-29,11929.0,98.0
+,United Arab Emirates,2020-04-30,12481.0,105.0
+,United Arab Emirates,2020-05-01,13038.0,111.0
+,United Arab Emirates,2020-05-02,13599.0,119.0
 ,United Kingdom,2020-01-22,0.0,0.0
 ,United Kingdom,2020-01-23,0.0,0.0
 ,United Kingdom,2020-01-24,0.0,0.0
@@ -23954,61 +25134,65 @@ Sint Maarten,Netherlands,2020-04-28,75.0,13.0
 ,United Kingdom,2020-03-02,40.0,0.0
 ,United Kingdom,2020-03-03,51.0,0.0
 ,United Kingdom,2020-03-04,85.0,0.0
-,United Kingdom,2020-03-05,115.0,1.0
-,United Kingdom,2020-03-06,163.0,2.0
+,United Kingdom,2020-03-05,115.0,0.0
+,United Kingdom,2020-03-06,163.0,1.0
 ,United Kingdom,2020-03-07,206.0,2.0
-,United Kingdom,2020-03-08,273.0,3.0
-,United Kingdom,2020-03-09,321.0,4.0
-,United Kingdom,2020-03-10,382.0,6.0
-,United Kingdom,2020-03-11,456.0,8.0
-,United Kingdom,2020-03-12,456.0,8.0
-,United Kingdom,2020-03-13,798.0,8.0
-,United Kingdom,2020-03-14,1140.0,21.0
-,United Kingdom,2020-03-15,1140.0,21.0
-,United Kingdom,2020-03-16,1543.0,55.0
-,United Kingdom,2020-03-17,1950.0,55.0
-,United Kingdom,2020-03-18,2626.0,71.0
-,United Kingdom,2020-03-19,2689.0,137.0
-,United Kingdom,2020-03-20,3983.0,177.0
-,United Kingdom,2020-03-21,5018.0,233.0
-,United Kingdom,2020-03-22,5683.0,281.0
-,United Kingdom,2020-03-23,6650.0,335.0
-,United Kingdom,2020-03-24,8077.0,422.0
-,United Kingdom,2020-03-25,9529.0,465.0
-,United Kingdom,2020-03-26,11658.0,578.0
-,United Kingdom,2020-03-27,14543.0,759.0
-,United Kingdom,2020-03-28,17089.0,1019.0
-,United Kingdom,2020-03-29,19522.0,1228.0
-,United Kingdom,2020-03-30,22141.0,1408.0
-,United Kingdom,2020-03-31,25150.0,1789.0
-,United Kingdom,2020-04-01,29474.0,2352.0
-,United Kingdom,2020-04-02,33718.0,2921.0
-,United Kingdom,2020-04-03,38168.0,3605.0
-,United Kingdom,2020-04-04,41903.0,4313.0
-,United Kingdom,2020-04-05,47806.0,4934.0
-,United Kingdom,2020-04-06,51608.0,5373.0
-,United Kingdom,2020-04-07,55242.0,6159.0
-,United Kingdom,2020-04-08,60733.0,7097.0
-,United Kingdom,2020-04-09,65077.0,7978.0
-,United Kingdom,2020-04-10,73758.0,8958.0
-,United Kingdom,2020-04-11,78991.0,9875.0
-,United Kingdom,2020-04-12,84279.0,10612.0
-,United Kingdom,2020-04-13,88621.0,11329.0
-,United Kingdom,2020-04-14,93873.0,12107.0
-,United Kingdom,2020-04-15,98476.0,12868.0
-,United Kingdom,2020-04-16,103093.0,13729.0
-,United Kingdom,2020-04-17,108692.0,14576.0
-,United Kingdom,2020-04-18,114217.0,15464.0
-,United Kingdom,2020-04-19,120067.0,16060.0
-,United Kingdom,2020-04-20,124743.0,16509.0
-,United Kingdom,2020-04-21,129044.0,17337.0
-,United Kingdom,2020-04-22,133495.0,18100.0
-,United Kingdom,2020-04-23,138078.0,18738.0
-,United Kingdom,2020-04-24,143464.0,19506.0
-,United Kingdom,2020-04-25,148377.0,20319.0
-,United Kingdom,2020-04-26,152840.0,20732.0
-,United Kingdom,2020-04-27,157149.0,21092.0
-,United Kingdom,2020-04-28,161145.0,21678.0
+,United Kingdom,2020-03-08,273.0,2.0
+,United Kingdom,2020-03-09,321.0,3.0
+,United Kingdom,2020-03-10,382.0,7.0
+,United Kingdom,2020-03-11,456.0,7.0
+,United Kingdom,2020-03-12,456.0,9.0
+,United Kingdom,2020-03-13,798.0,10.0
+,United Kingdom,2020-03-14,1140.0,28.0
+,United Kingdom,2020-03-15,1140.0,43.0
+,United Kingdom,2020-03-16,1543.0,65.0
+,United Kingdom,2020-03-17,1950.0,81.0
+,United Kingdom,2020-03-18,2626.0,115.0
+,United Kingdom,2020-03-19,2689.0,158.0
+,United Kingdom,2020-03-20,3983.0,194.0
+,United Kingdom,2020-03-21,5018.0,250.0
+,United Kingdom,2020-03-22,5683.0,285.0
+,United Kingdom,2020-03-23,6650.0,359.0
+,United Kingdom,2020-03-24,8077.0,508.0
+,United Kingdom,2020-03-25,9529.0,694.0
+,United Kingdom,2020-03-26,11658.0,877.0
+,United Kingdom,2020-03-27,14543.0,1161.0
+,United Kingdom,2020-03-28,17089.0,1455.0
+,United Kingdom,2020-03-29,19522.0,1669.0
+,United Kingdom,2020-03-30,22141.0,2043.0
+,United Kingdom,2020-03-31,25150.0,2425.0
+,United Kingdom,2020-04-01,29474.0,3095.0
+,United Kingdom,2020-04-02,33718.0,3747.0
+,United Kingdom,2020-04-03,38168.0,4461.0
+,United Kingdom,2020-04-04,41903.0,5221.0
+,United Kingdom,2020-04-05,47806.0,5865.0
+,United Kingdom,2020-04-06,51608.0,6433.0
+,United Kingdom,2020-04-07,55242.0,7471.0
+,United Kingdom,2020-04-08,60733.0,8505.0
+,United Kingdom,2020-04-09,65077.0,9608.0
+,United Kingdom,2020-04-10,73758.0,10760.0
+,United Kingdom,2020-04-11,78991.0,11599.0
+,United Kingdom,2020-04-12,84279.0,12285.0
+,United Kingdom,2020-04-13,88621.0,13029.0
+,United Kingdom,2020-04-14,93873.0,14073.0
+,United Kingdom,2020-04-15,98476.0,14915.0
+,United Kingdom,2020-04-16,103093.0,15944.0
+,United Kingdom,2020-04-17,108692.0,16879.0
+,United Kingdom,2020-04-18,114217.0,17994.0
+,United Kingdom,2020-04-19,120067.0,18492.0
+,United Kingdom,2020-04-20,124743.0,19051.0
+,United Kingdom,2020-04-21,129044.0,20223.0
+,United Kingdom,2020-04-22,133495.0,21060.0
+,United Kingdom,2020-04-23,138078.0,21787.0
+,United Kingdom,2020-04-24,143464.0,22792.0
+,United Kingdom,2020-04-25,148377.0,23635.0
+,United Kingdom,2020-04-26,152840.0,24055.0
+,United Kingdom,2020-04-27,157149.0,24393.0
+,United Kingdom,2020-04-28,161145.0,25302.0
+,United Kingdom,2020-04-29,165221.0,26097.0
+,United Kingdom,2020-04-30,171253.0,26771.0
+,United Kingdom,2020-05-01,177454.0,27510.0
+,United Kingdom,2020-05-02,182260.0,28131.0
 Anguilla,United Kingdom,2020-01-22,0.0,0.0
 Anguilla,United Kingdom,2020-01-23,0.0,0.0
 Anguilla,United Kingdom,2020-01-24,0.0,0.0
@@ -24107,6 +25291,10 @@ Anguilla,United Kingdom,2020-04-25,3.0,0.0
 Anguilla,United Kingdom,2020-04-26,3.0,0.0
 Anguilla,United Kingdom,2020-04-27,3.0,0.0
 Anguilla,United Kingdom,2020-04-28,3.0,0.0
+Anguilla,United Kingdom,2020-04-29,3.0,0.0
+Anguilla,United Kingdom,2020-04-30,3.0,0.0
+Anguilla,United Kingdom,2020-05-01,3.0,0.0
+Anguilla,United Kingdom,2020-05-02,3.0,0.0
 Bermuda,United Kingdom,2020-01-22,0.0,0.0
 Bermuda,United Kingdom,2020-01-23,0.0,0.0
 Bermuda,United Kingdom,2020-01-24,0.0,0.0
@@ -24205,6 +25393,10 @@ Bermuda,United Kingdom,2020-04-25,109.0,5.0
 Bermuda,United Kingdom,2020-04-26,109.0,5.0
 Bermuda,United Kingdom,2020-04-27,110.0,6.0
 Bermuda,United Kingdom,2020-04-28,110.0,6.0
+Bermuda,United Kingdom,2020-04-29,111.0,6.0
+Bermuda,United Kingdom,2020-04-30,114.0,6.0
+Bermuda,United Kingdom,2020-05-01,114.0,6.0
+Bermuda,United Kingdom,2020-05-02,114.0,7.0
 British Virgin Islands,United Kingdom,2020-01-22,0.0,0.0
 British Virgin Islands,United Kingdom,2020-01-23,0.0,0.0
 British Virgin Islands,United Kingdom,2020-01-24,0.0,0.0
@@ -24303,6 +25495,10 @@ British Virgin Islands,United Kingdom,2020-04-25,6.0,1.0
 British Virgin Islands,United Kingdom,2020-04-26,6.0,1.0
 British Virgin Islands,United Kingdom,2020-04-27,6.0,1.0
 British Virgin Islands,United Kingdom,2020-04-28,6.0,1.0
+British Virgin Islands,United Kingdom,2020-04-29,6.0,1.0
+British Virgin Islands,United Kingdom,2020-04-30,6.0,1.0
+British Virgin Islands,United Kingdom,2020-05-01,6.0,1.0
+British Virgin Islands,United Kingdom,2020-05-02,6.0,1.0
 Cayman Islands,United Kingdom,2020-01-22,0.0,0.0
 Cayman Islands,United Kingdom,2020-01-23,0.0,0.0
 Cayman Islands,United Kingdom,2020-01-24,0.0,0.0
@@ -24401,6 +25597,10 @@ Cayman Islands,United Kingdom,2020-04-25,70.0,1.0
 Cayman Islands,United Kingdom,2020-04-26,70.0,1.0
 Cayman Islands,United Kingdom,2020-04-27,70.0,1.0
 Cayman Islands,United Kingdom,2020-04-28,70.0,1.0
+Cayman Islands,United Kingdom,2020-04-29,73.0,1.0
+Cayman Islands,United Kingdom,2020-04-30,73.0,1.0
+Cayman Islands,United Kingdom,2020-05-01,74.0,1.0
+Cayman Islands,United Kingdom,2020-05-02,74.0,1.0
 Channel Islands,United Kingdom,2020-01-22,0.0,0.0
 Channel Islands,United Kingdom,2020-01-23,0.0,0.0
 Channel Islands,United Kingdom,2020-01-24,0.0,0.0
@@ -24499,6 +25699,10 @@ Channel Islands,United Kingdom,2020-04-25,525.0,35.0
 Channel Islands,United Kingdom,2020-04-26,525.0,35.0
 Channel Islands,United Kingdom,2020-04-27,525.0,35.0
 Channel Islands,United Kingdom,2020-04-28,530.0,36.0
+Channel Islands,United Kingdom,2020-04-29,537.0,38.0
+Channel Islands,United Kingdom,2020-04-30,537.0,40.0
+Channel Islands,United Kingdom,2020-05-01,538.0,41.0
+Channel Islands,United Kingdom,2020-05-02,543.0,41.0
 Falkland Islands (Malvinas),United Kingdom,2020-01-22,0.0,0.0
 Falkland Islands (Malvinas),United Kingdom,2020-01-23,0.0,0.0
 Falkland Islands (Malvinas),United Kingdom,2020-01-24,0.0,0.0
@@ -24597,6 +25801,10 @@ Falkland Islands (Malvinas),United Kingdom,2020-04-25,13.0,0.0
 Falkland Islands (Malvinas),United Kingdom,2020-04-26,13.0,0.0
 Falkland Islands (Malvinas),United Kingdom,2020-04-27,13.0,0.0
 Falkland Islands (Malvinas),United Kingdom,2020-04-28,13.0,0.0
+Falkland Islands (Malvinas),United Kingdom,2020-04-29,13.0,0.0
+Falkland Islands (Malvinas),United Kingdom,2020-04-30,13.0,0.0
+Falkland Islands (Malvinas),United Kingdom,2020-05-01,13.0,0.0
+Falkland Islands (Malvinas),United Kingdom,2020-05-02,13.0,0.0
 Gibraltar,United Kingdom,2020-01-22,0.0,0.0
 Gibraltar,United Kingdom,2020-01-23,0.0,0.0
 Gibraltar,United Kingdom,2020-01-24,0.0,0.0
@@ -24695,6 +25903,10 @@ Gibraltar,United Kingdom,2020-04-25,136.0,0.0
 Gibraltar,United Kingdom,2020-04-26,141.0,0.0
 Gibraltar,United Kingdom,2020-04-27,141.0,0.0
 Gibraltar,United Kingdom,2020-04-28,141.0,0.0
+Gibraltar,United Kingdom,2020-04-29,141.0,0.0
+Gibraltar,United Kingdom,2020-04-30,144.0,0.0
+Gibraltar,United Kingdom,2020-05-01,144.0,0.0
+Gibraltar,United Kingdom,2020-05-02,144.0,0.0
 Isle of Man,United Kingdom,2020-01-22,0.0,0.0
 Isle of Man,United Kingdom,2020-01-23,0.0,0.0
 Isle of Man,United Kingdom,2020-01-24,0.0,0.0
@@ -24793,6 +26005,10 @@ Isle of Man,United Kingdom,2020-04-25,308.0,18.0
 Isle of Man,United Kingdom,2020-04-26,308.0,18.0
 Isle of Man,United Kingdom,2020-04-27,308.0,20.0
 Isle of Man,United Kingdom,2020-04-28,309.0,21.0
+Isle of Man,United Kingdom,2020-04-29,313.0,21.0
+Isle of Man,United Kingdom,2020-04-30,315.0,21.0
+Isle of Man,United Kingdom,2020-05-01,316.0,22.0
+Isle of Man,United Kingdom,2020-05-02,320.0,22.0
 Montserrat,United Kingdom,2020-01-22,0.0,0.0
 Montserrat,United Kingdom,2020-01-23,0.0,0.0
 Montserrat,United Kingdom,2020-01-24,0.0,0.0
@@ -24891,6 +26107,10 @@ Montserrat,United Kingdom,2020-04-25,11.0,1.0
 Montserrat,United Kingdom,2020-04-26,11.0,1.0
 Montserrat,United Kingdom,2020-04-27,11.0,1.0
 Montserrat,United Kingdom,2020-04-28,11.0,1.0
+Montserrat,United Kingdom,2020-04-29,11.0,1.0
+Montserrat,United Kingdom,2020-04-30,11.0,1.0
+Montserrat,United Kingdom,2020-05-01,11.0,1.0
+Montserrat,United Kingdom,2020-05-02,11.0,1.0
 Turks and Caicos Islands,United Kingdom,2020-01-22,0.0,0.0
 Turks and Caicos Islands,United Kingdom,2020-01-23,0.0,0.0
 Turks and Caicos Islands,United Kingdom,2020-01-24,0.0,0.0
@@ -24989,6 +26209,10 @@ Turks and Caicos Islands,United Kingdom,2020-04-25,11.0,1.0
 Turks and Caicos Islands,United Kingdom,2020-04-26,11.0,1.0
 Turks and Caicos Islands,United Kingdom,2020-04-27,12.0,1.0
 Turks and Caicos Islands,United Kingdom,2020-04-28,12.0,1.0
+Turks and Caicos Islands,United Kingdom,2020-04-29,12.0,1.0
+Turks and Caicos Islands,United Kingdom,2020-04-30,12.0,1.0
+Turks and Caicos Islands,United Kingdom,2020-05-01,12.0,1.0
+Turks and Caicos Islands,United Kingdom,2020-05-02,12.0,1.0
 ,Uruguay,2020-01-22,0.0,0.0
 ,Uruguay,2020-01-23,0.0,0.0
 ,Uruguay,2020-01-24,0.0,0.0
@@ -25087,6 +26311,10 @@ Turks and Caicos Islands,United Kingdom,2020-04-28,12.0,1.0
 ,Uruguay,2020-04-26,606.0,15.0
 ,Uruguay,2020-04-27,620.0,15.0
 ,Uruguay,2020-04-28,625.0,15.0
+,Uruguay,2020-04-29,630.0,15.0
+,Uruguay,2020-04-30,643.0,17.0
+,Uruguay,2020-05-01,648.0,17.0
+,Uruguay,2020-05-02,652.0,17.0
 ,Uzbekistan,2020-01-22,0.0,0.0
 ,Uzbekistan,2020-01-23,0.0,0.0
 ,Uzbekistan,2020-01-24,0.0,0.0
@@ -25185,6 +26413,10 @@ Turks and Caicos Islands,United Kingdom,2020-04-28,12.0,1.0
 ,Uzbekistan,2020-04-26,1869.0,8.0
 ,Uzbekistan,2020-04-27,1904.0,8.0
 ,Uzbekistan,2020-04-28,1939.0,8.0
+,Uzbekistan,2020-04-29,2002.0,9.0
+,Uzbekistan,2020-04-30,2039.0,9.0
+,Uzbekistan,2020-05-01,2086.0,9.0
+,Uzbekistan,2020-05-02,2118.0,9.0
 ,Venezuela,2020-01-22,0.0,0.0
 ,Venezuela,2020-01-23,0.0,0.0
 ,Venezuela,2020-01-24,0.0,0.0
@@ -25283,6 +26515,10 @@ Turks and Caicos Islands,United Kingdom,2020-04-28,12.0,1.0
 ,Venezuela,2020-04-26,325.0,10.0
 ,Venezuela,2020-04-27,329.0,10.0
 ,Venezuela,2020-04-28,329.0,10.0
+,Venezuela,2020-04-29,331.0,10.0
+,Venezuela,2020-04-30,333.0,16.0
+,Venezuela,2020-05-01,335.0,10.0
+,Venezuela,2020-05-02,345.0,10.0
 ,Vietnam,2020-01-22,0.0,0.0
 ,Vietnam,2020-01-23,2.0,0.0
 ,Vietnam,2020-01-24,2.0,0.0
@@ -25381,6 +26617,10 @@ Turks and Caicos Islands,United Kingdom,2020-04-28,12.0,1.0
 ,Vietnam,2020-04-26,270.0,0.0
 ,Vietnam,2020-04-27,270.0,0.0
 ,Vietnam,2020-04-28,270.0,0.0
+,Vietnam,2020-04-29,270.0,0.0
+,Vietnam,2020-04-30,270.0,0.0
+,Vietnam,2020-05-01,270.0,0.0
+,Vietnam,2020-05-02,270.0,0.0
 ,West Bank and Gaza,2020-01-22,0.0,0.0
 ,West Bank and Gaza,2020-01-23,0.0,0.0
 ,West Bank and Gaza,2020-01-24,0.0,0.0
@@ -25479,6 +26719,10 @@ Turks and Caicos Islands,United Kingdom,2020-04-28,12.0,1.0
 ,West Bank and Gaza,2020-04-26,342.0,2.0
 ,West Bank and Gaza,2020-04-27,342.0,2.0
 ,West Bank and Gaza,2020-04-28,343.0,2.0
+,West Bank and Gaza,2020-04-29,344.0,2.0
+,West Bank and Gaza,2020-04-30,344.0,2.0
+,West Bank and Gaza,2020-05-01,353.0,2.0
+,West Bank and Gaza,2020-05-02,353.0,2.0
 ,Western Sahara,2020-01-22,0.0,0.0
 ,Western Sahara,2020-01-23,0.0,0.0
 ,Western Sahara,2020-01-24,0.0,0.0
@@ -25577,6 +26821,10 @@ Turks and Caicos Islands,United Kingdom,2020-04-28,12.0,1.0
 ,Western Sahara,2020-04-26,6.0,0.0
 ,Western Sahara,2020-04-27,6.0,0.0
 ,Western Sahara,2020-04-28,6.0,0.0
+,Western Sahara,2020-04-29,6.0,0.0
+,Western Sahara,2020-04-30,6.0,0.0
+,Western Sahara,2020-05-01,6.0,0.0
+,Western Sahara,2020-05-02,6.0,0.0
 ,Yemen,2020-01-22,0.0,0.0
 ,Yemen,2020-01-23,0.0,0.0
 ,Yemen,2020-01-24,0.0,0.0
@@ -25675,6 +26923,10 @@ Turks and Caicos Islands,United Kingdom,2020-04-28,12.0,1.0
 ,Yemen,2020-04-26,1.0,0.0
 ,Yemen,2020-04-27,1.0,0.0
 ,Yemen,2020-04-28,1.0,0.0
+,Yemen,2020-04-29,6.0,0.0
+,Yemen,2020-04-30,6.0,2.0
+,Yemen,2020-05-01,7.0,2.0
+,Yemen,2020-05-02,10.0,2.0
 ,Zambia,2020-01-22,0.0,0.0
 ,Zambia,2020-01-23,0.0,0.0
 ,Zambia,2020-01-24,0.0,0.0
@@ -25773,6 +27025,10 @@ Turks and Caicos Islands,United Kingdom,2020-04-28,12.0,1.0
 ,Zambia,2020-04-26,88.0,3.0
 ,Zambia,2020-04-27,88.0,3.0
 ,Zambia,2020-04-28,95.0,3.0
+,Zambia,2020-04-29,97.0,3.0
+,Zambia,2020-04-30,106.0,3.0
+,Zambia,2020-05-01,109.0,3.0
+,Zambia,2020-05-02,119.0,3.0
 ,Zimbabwe,2020-01-22,0.0,0.0
 ,Zimbabwe,2020-01-23,0.0,0.0
 ,Zimbabwe,2020-01-24,0.0,0.0
@@ -25871,3 +27127,7 @@ Turks and Caicos Islands,United Kingdom,2020-04-28,12.0,1.0
 ,Zimbabwe,2020-04-26,31.0,4.0
 ,Zimbabwe,2020-04-27,32.0,4.0
 ,Zimbabwe,2020-04-28,32.0,4.0
+,Zimbabwe,2020-04-29,32.0,4.0
+,Zimbabwe,2020-04-30,40.0,4.0
+,Zimbabwe,2020-05-01,40.0,4.0
+,Zimbabwe,2020-05-02,34.0,4.0
