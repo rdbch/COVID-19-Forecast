@@ -1,5 +1,5 @@
 # COVID-19-Playground
-
+This repo implements a reccurent 
 
 ## Table of contents
 1. [Table of contents](#table-of-contents)
@@ -12,7 +12,7 @@
 5. [Disclaimer](#disclaimer)
 
 ## Setup
-To run this project you will hace to install the 
+To run this project you can install all dependencies by clonning this repo and running conda create requierments.txt. Plase note that the development was done using Pytorch with gpu support.  
 ## Approach
 ### Country nearest neighbour
 
