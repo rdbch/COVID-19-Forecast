@@ -57,7 +57,7 @@ class WeightInitializer:
                 torch.nn.init.constant_(module.bias.data, 0.0)
 
         # init batch norm weight
-        # only normal distribution applies.
+        # only normal distribution applies
         elif className.find('BatchNorm') != -1:
             torch.nn.init.constant_(module.weight.data, 1.0)
             torch.nn.init.constant_(module.bias.data, 0.0)
