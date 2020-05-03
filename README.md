@@ -1,4 +1,3 @@
-# ********* WORK IN PROGRESS *****************
 # COVID-19-Playground
 This repository implements a Recurrent Neural Network, which predicts the spread of COVID-19 accross the world. To accomplish this, a model is trained for each country, taking into account its nearest neighbors in terms of growth (later explained).
 
