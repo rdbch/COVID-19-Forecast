@@ -12,7 +12,7 @@ class MLP(nn.Module):
         :param outChNo          : number of output features (if None, use layerCfg[-1])
         :param layerCfg         : a list containing the number of neurons for each layer
         :param kwargs
-        :param activ            : activation used on output of each layer
+        :param activ            : activation used on the output of each layer
         :param activKwargs      : kwargs for activ
         :param activLast        : activation used on the last layer
         :param activLastKwargs  : kwargs for activLast
