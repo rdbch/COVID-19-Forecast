@@ -8,9 +8,9 @@ def compare_sequence(source, candidate, errorFunc):
     '''
     Compare 2 countries growth similarity
     :param source:      data for source country
-    :param candidate:   data for source country
+    :param candidate:   data for candidate country
     :param errorFunc:   callable error
-    :return: the minimum error and the index of where that was computed
+    :return: the minimum error and the index of where it was computed
     '''
 
     minError = np.inf
@@ -24,7 +24,7 @@ def compare_sequence(source, candidate, errorFunc):
         # sliding window over candidate country
         for i in range(0, noWindows):
 
-            # compute loss
+            # compute the loss
             error = errorFunc(source, candidate[i:i + windowSize])
 
             # save the min error
@@ -41,12 +41,12 @@ def get_nearest_sequence(df, state, alignThreshConf=50, alignThreshDead=10, erro
     '''
     :param df:                  df containing all countries and states
     :param state:               target state
-    :param alignThreshConf:     compare only starting from this number of confirmed cases
-    :param alignThreshDead:     compare only starting from this number of fatalities
+    :param alignThreshConf:     minimum number of confirmed cases
+    :param alignThreshDead:     minimum number of fatalities
     :param errorFunc:           error to be applied
-    :return: dataframe containing the the error and the align index for each possible country
+    :return: dataframe containing the the error and the align index for each candidate country
     '''
-    resDf = pd.DataFrame(columns=['Province_State', 'deathError', 'confirmedError', 'deathIdx', 'confirmedIdx'])
+    resDf  = pd.DataFrame(columns=['Province_State', 'deathError', 'confirmedError', 'deathIdx', 'confirmedIdx'])
     confDf = df[df['ConfirmedCases'] > alignThreshConf]
     deadDf = df[df['Fatalities'] > alignThreshDead]
 
@@ -64,14 +64,14 @@ def get_nearest_sequence(df, state, alignThreshConf=50, alignThreshDead=10, erro
         if neighbour == state:
             continue
 
-        # get country candidate
+        # get candidate country
         confNeighDf = confDf[confDf['Province_State'] == neighbour].sort_values(by='Date', ascending=True)
         deadNeighDf = deadDf[deadDf['Province_State'] == neighbour].sort_values(by='Date', ascending=True)
 
         neighConf = confNeighDf['ConfirmedCases'].values
         neighDead = deadNeighDf['Fatalities'].values
 
-        # get error for confirmed and neighbour
+        # get error for confirmed and fatalities
         confErr, confIdx = compare_sequence(regionConf, neighConf, errorFunc)
         deadErr, deadIdx = compare_sequence(regionDead, neighDead, errorFunc)
 
