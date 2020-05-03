@@ -30,7 +30,8 @@ $ pip install -r requirements.txt
 ```
 
 - conda
-Note: development was done using GPU accelerated version of Pytorch, so they have CUDA dependencies included.  
+
+**Note:** development was done using GPU accelerated version of Pytorch, so they have CUDA dependencies included.  
 ``` 
 $ conda create --name COVID-19-Forecast --file req.txt 
 ```
