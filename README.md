@@ -1,10 +1,12 @@
 # ********* WORK IN PROGRESS *****************
 # COVID-19-Playground
-This repo implements a reccurent 
+This repository implements Recurrent Neural Network, which predicts the spread of COVID-19 accross the world. To accomplish this, a model is trained for each country, taking into account its nearest neighbors in terms of growth (later explained).
 
 ## Table of contents
 1. [Table of contents](#table-of-contents)
-2. [Setup](#setup)
+2. [Getting started](#setup)
+    1. [Installation](#installation)
+    
 3. [Approach](#approach)
     1. [Country nearest neighbour](#country-nearest-neighbour)  
     2. [Reccurent predictor](#reccurent-predictor)
@@ -12,8 +14,28 @@ This repo implements a reccurent
 4. [Results](#results)
 5. [Disclaimer](#disclaimer)
 
-## Setup
-To run this project you can install all dependencies by clonning this repo and running conda create requierments.txt. Plase note that the development was done using Pytorch with gpu support.  
+##Getting Started
+
+### Installation
+Clone this repo:
+```
+$ git clone https://github.com/rdbch/COVID-19-Forecast/
+$ cd COVID-19-Forecast 
+```
+
+Install PyTorch and 1.0+ and other dependencies (pandas, numpy, seaborn, jupyter, etc).
+- pip
+```
+$ pip install -r requirements.txt 
+```
+
+- conda
+Note: development was done using GPU accelerated version of Pytorch, so they have CUDA dependencies included.  
+``` 
+$ conda create --name COVID-19-Forecast --file req.txt 
+```
+
+
 ## Approach
 ### Country nearest neighbour
 
