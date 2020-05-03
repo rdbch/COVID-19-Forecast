@@ -67,8 +67,8 @@ def get_scaler(allData, target):
 def get_train_data(allData, target, trainLimit, winSize, step, scaler = None, shuffle = True):
     '''
 
-    :param allData:
-    :param target:      confirmed or fatalities
+    :param allData:     df containing the desired target
+    :param target:      can be confirmed or fatalities
     :param trainLimit:  only parse data till this date
     :param winSize:     total window size(observation time + prediction)
     :param step:        step between considering 2 consecutive batches
@@ -107,7 +107,7 @@ def get_train_data(allData, target, trainLimit, winSize, step, scaler = None, sh
 def get_val_data(allData, target, country, startFrom, obsSize, scaler = None):
     '''
     :param allData:     df containing the desired target
-    :param target:      can be fatalities or confirmed
+    :param target:      can be confirmed or fatalities
     :param country:     target country
     :param startFrom:   the first prediction will start from this data
     :param obsSize:     last days until startFrom to be returned for prediction
