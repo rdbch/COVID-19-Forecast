@@ -18,9 +18,10 @@ To run this project you will hace to install the
 ![RNN_predictor](assets/images/rnn.gif)
 ### Country nearest neighbour
 
-Rather than training a model for every country, it is more suited to train a model for each individual one, using only the nearest neighbours countries in terms of growth. Please check the [this](notebooks/Covid_19_Country_growth_similarity.ipynb) notebook for more details.
+Rather than training a model for every country, it is more suited to train a model for each individual one, using only the nearest neighbours countries in terms of growth. Please check the [this](notebooks/Covid_19_Country_growth_similarity.ipynb) notebook for more details. By doing this, we improve the predictions for the majority of countries. 
 
-
+Romania - average disease spread
+![romania](assets/images/romania_growth.png)
 ## Results
 ## Disclaimer
 
