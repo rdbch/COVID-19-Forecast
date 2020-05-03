@@ -42,6 +42,14 @@ $ conda create --name COVID-19-Forecast --file req.txt
 
 Rather than training a model for every country, it is more suited to train a model for each individual one, using only the nearest neighbours countries in terms of growth. Please check the [this](notebooks/Covid_19_Country_growth_similarity.ipynb) notebook for more details. By doing this, we improve the predictions for the majority of countries. 
 
+Below it is explained how the nearest neighbors of a source country **S** are obtained:
+First, we discard the entries(days) which are below a specified threshold (have less than a specified number of cases), for every country(**S** included).
+Then, we take a candidate country **C<sub>n</sub>**. A candidate must be more evolved than Romania, meaning it reached the treshold earlier.
+We then create a sliding window. Its size is equal to the number of days which are above the treshold in Romania. The window starts sliding over the data from the candidate country, 
+beginning with the first day it reached the treshold. For each such iteration, an error is computed. The smallest error will be the error associated with the candidate country.
+Next, we choose another country as candidate and repeat the above steps.
+After computing the error for each country, the nearest neighbors of Romania will be those countries which have the smallest associated error.
+
 #### Romania - average disease spread
 ![romania](assets/images/romania_growth.png)
 
