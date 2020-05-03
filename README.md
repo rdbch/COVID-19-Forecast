@@ -33,12 +33,12 @@ The predictor was only trained on the neareast neighbours. To limit the growth, 
 
 ## Results
 ### Italy 
-On the tight 
+ 
+<img src="assets/images/italy_deaths.png"></img> <img src="assets/images/italy_confirmed.png" ></img>
 
-<img src="assets/images/italy_deaths.png" width=400 height=250></img> <img src="assets/images/italy_confirmed.png" width=400 height=250></img>
+### Romania
 
+<img src="assets/images/romania_deaths.png"></img> <img src="assets/images/romania_confirmed.png" ></img>
 
 ## Disclaimer
-
-
 
