@@ -42,17 +42,14 @@ $ conda create --name COVID-19-Forecast --file req.txt
 
 Rather than training a model for every country, it is more suited to train a model for each individual one, using only the nearest neighbours countries in terms of growth. Please check the [this](notebooks/Covid_19_Country_growth_similarity.ipynb) notebook for more details. By doing this, we improve the predictions for the majority of countries. 
 
-Below it is explained how the nearest neighbors of a source country **S** are obtained:
+Below it is explained how the nearest neighbors of a source country **S**, are obtained:
 
-First, we discard the entries(days) which are below a specified alignment threshold **T<sub>a</sub>**(have less than a specified number of cases), for every country(**S** included). Then, we take a candidate country **C<sub>n</sub>**. **C<sub>n</sub>** must be more evolved than **S** (this means it reached **T<sub>a</sub>** earlier). We start sliding **S** over **C<sub>n</sub>**, beginning with the first they reached the treshold, until **C<sub>n</sub>** end. For each such step, an error is computed. The smallest error will be the error associated with **C<sub>n</sub>**.We do this for all countries that are available in the dataset.
+First, we discard the entries(days) which are below a specified alignment threshold **T<sub>a</sub>**(have less than a specified number of cases), for every country(**S** included). Then, we take a candidate country **C<sub>n</sub>**. **C<sub>n</sub>** must be more evolved than **S** (this means it reached **T<sub>a</sub>** earlier). We start sliding **S** over **C<sub>n</sub>**, beginning with the first they reached the treshold, until **C<sub>n</sub>** end. For each such step, an error is computed. The smallest error will be the error associated with **C<sub>n</sub>**.We do this for all countries that are available in the dataset taking one feature f, f $\in$ {confirmedCases, fatalities} at a time.
 
-During training, the neighbours will be filter by applying an error threshold **T<sub>error</sub>**.
+During training, the neighbours will be filter by applying an error threshold **T<sub>error(f)</sub>**.
 
-#### Romania - average disease spread
+Below is provided an sample of the first 3 neaighbours for Romania. The data used for this was last updated on ```03 may 2020```.
 ![romania](assets/images/romania_growth.png)
-
-#### Germany - evolved disease spread
-![germany](assets/images/germany_growth.png)
 
 ### Reccurent predictor
 
