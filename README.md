@@ -44,9 +44,7 @@ Rather than training a model for every country, it is more suited to train a mod
 
 Below it is explained how the nearest neighbors of a source country **S**, are obtained:
 
-First, we discard the entries(days) which are below a specified alignment threshold **T<sub>a</sub>**(have less than a specified number of cases), for every country(**S** included). Then, we take a candidate country **C<sub>n</sub>**. **C<sub>n</sub>** must be more evolved than **S** (this means it reached **T<sub>a</sub>** earlier). We start sliding **S** over **C<sub>n</sub>**, beginning with the first they reached the treshold, until **C<sub>n</sub>** end. For each such step, an error is computed. The smallest error will be the error associated with **C<sub>n</sub>**.We do this for all countries that are available in the dataset taking one feature f, f $\in$ {confirmedCases, fatalities} at a time.
-
-During training, the neighbours will be filter by applying an error threshold **T<sub>error(f)</sub>**.
+First, we discard the entries(days) which are below a specified alignment threshold **T<sub>a</sub>**(have less than a specified number of cases), for every country(**S** included). Then, we take a candidate country **C<sub>n</sub>**. **C<sub>n</sub>** must be more evolved than **S** (this means it reached **T<sub>a</sub>** earlier). We start sliding **S** over **C<sub>n</sub>**, beginning with the first they reached the treshold, until **C<sub>n</sub>** end. For each such step, an error is computed. The smallest error will be the error associated with **C<sub>n</sub>**.We do this for all countries that are available in the dataset taking one feature f, f $\in$ {confirmedCases, fatalities} at a time. During training, the neighbours will be filter by applying an error threshold **T<sub>error(f)</sub>**.
 
 Below is provided an sample of the first 3 neaighbours for Romania. The data used for this was last updated on ```03 may 2020```.
 ![romania](assets/images/romania_growth.png)
