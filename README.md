@@ -36,6 +36,10 @@ $ python scripts/fetch_new_data.py
 This will download the new global data from [Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19) github repo and convert it to a more convenient format (the used in [Kaggles COVID-19 spread](https://www.kaggle.com/c/covid19-global-forecasting-week-4)). They update the data on daily basis.
 
 ### Running the notebooks
+ To run the notebooks please run the jupyter server in the root directory (parent of ./notebooks):
+ ```
+ $ jupyter notebook
+ ```
  
 ## Approach
 ### Country nearest neighbour
