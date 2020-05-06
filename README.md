@@ -11,7 +11,7 @@ This repository implements a Recurrent Neural Network, which predicts the spread
     2. [Reccurent predictor](#reccurent-predictor)
  
 4. [Results](#results)
-5. [Disclaimer](#disclaimer)
+5. [References](#references)
 
 ## Getting Started
 
