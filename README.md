@@ -34,7 +34,7 @@ To have access to the latest data, please run
 ```
 $ python scripts/fetch_new_data.py 
 ```
-This will download the new global data from [Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19) github repo and convert it to a more convenient format (the used in [Kaggles COVID-19 spread](https://www.kaggle.com/c/covid19-global-forecasting-week-4)). They update the data on daily basis.
+This will download the new global data from [Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19) github repo and convert it to a more convenient format (the one used in [Kaggles COVID-19 spread](https://www.kaggle.com/c/covid19-global-forecasting-week-4)). They update the data on a daily basis.
 
 ### Running the notebooks
  To run the notebooks please start the jupyter server in ```./COVID-19-Forecast``` (parent of ./notebooks):
