@@ -56,9 +56,7 @@ Below is provided a sample of the first 3 neaighbours for Romania. The data used
 ### Reccurent predictor
 
 ![RNN_predictor](assets/images/rnn.gif)
-A naive model based of reccurent cells us implied. For the exact implementation of the model, please consider taking a look at [basic_recurrent_predictor.py](core/networks/basic_recurrent_predictor.py). 
-
-The predictor was only trained on the neareast neighbours. To limit the growth, an unsupervised loss is used for smoothing out the long term prediction.
+A naive model based of reccurent cells us implied. The predictor was only trained on the neareast neighbours. To limit the growth, an unsupervised loss is used for smoothing out the long term prediction. Please check [this (notebooks/Covid_19_Country_growth_similarity.ipynb) notebook for more details.
 
 ## Results
 Below are the graphs for the results obtained for confirmed cases (left) and fatalities (right) of an country with and advanced disease spread and another with an average one. The predicted output represents a period of 60 days. 
