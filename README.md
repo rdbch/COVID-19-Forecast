@@ -68,11 +68,11 @@ The used data was last updated on ```26.04.2020``` .
 
 ### Italy 
  
-<img src="assets/images/italy_deaths.png"></img> <img src="assets/images/italy_confirmed.png" ></img>
+<img src="assets/images/italy_deaths.png"  width = 350 ></img> <img src="assets/images/italy_confirmed.png"  width = 350 ></img>
 
 ### Romania
 
-<img src="assets/images/romania_deaths.png" ></img> <img src="assets/images/romania_confirmed.png" ></img>
+<img src="assets/images/romania_deaths.png"  width = 350></img> <img src="assets/images/romania_confirmed.png"  width = 350></img>
 
 ## References
 1. [Pytorch example - Time Sequence Prediction](https://github.com/pytorch/examples/tree/master/time_sequence_prediction)
