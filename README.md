@@ -56,11 +56,14 @@ Below is provided a sample of the first 3 neaighbours for Romania. The data used
 ### Reccurent predictor
 
 ![RNN_predictor](assets/images/rnn.gif)
-A naive model based of reccurent cells us implied. For the exact implementation of the model, please consider taking a look at [basic_recurrent_predictor.py](core/networks/basic_recurrent_predictor.py).
+A naive model based of reccurent cells us implied. For the exact implementation of the model, please consider taking a look at [basic_recurrent_predictor.py](core/networks/basic_recurrent_predictor.py). 
 
 The predictor was only trained on the neareast neighbours. To limit the growth, an unsupervised loss is used for smoothing out the long term prediction.
 
 ## Results
+Below are the graphs for the results obtained for confirmed cases (left) and fatalities (right) of an country with and advanced disease spread and another with an average one. The predicted output represents a period of 60 days. 
+The used data was last updated on ```26.04.2020``` .
+
 ### Italy 
  
 <img src="assets/images/italy_deaths.png"></img> <img src="assets/images/italy_confirmed.png" ></img>
@@ -69,5 +72,6 @@ The predictor was only trained on the neareast neighbours. To limit the growth, 
 
 <img src="assets/images/romania_deaths.png"></img> <img src="assets/images/romania_confirmed.png" ></img>
 
-## Disclaimer
+## References
+1. [Pytorch example - Time Sequence Prediction](https://github.com/pytorch/examples/tree/master/time_sequence_prediction)
 
