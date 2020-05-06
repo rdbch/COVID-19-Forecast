@@ -1,10 +1,9 @@
 import numpy as np
 
-# =============================================== L1 NORM =====================================================
 import torch
 from torch import nn
 
-
+# =============================================== L1 NORM =====================================================
 def l1_norm_error(source, candidate):
 
     error = np.abs(source - candidate)
