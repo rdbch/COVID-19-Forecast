@@ -43,6 +43,7 @@ This will download the new global data from [Johns Hopkins University](https://g
  
 ## Approach
 ### Country nearest neighbour
+**Notebook:** [link](notebooks/Covid_19_Country_growth_similarity.ipynb)
 
 Rather than training a model for every country, it is more suited to train a model for each individual one, using only the nearest neighbours countries in terms of growth. Please check the [this](notebooks/Covid_19_Country_growth_similarity.ipynb) notebook for more details. By doing this, we improve the predictions for the majority of countries. 
 
@@ -54,9 +55,11 @@ Below is provided a sample of the first 3 neaighbours for Romania. The data used
 ![romania](assets/images/romania_growth.png)
 
 ### Reccurent predictor
+**Notebook**:[link](notebooks/Covid_19_Country_growth_similarity.ipynb)
+
+A naive model based of reccurent cells us implied. The predictor was only trained on the neareast neighbours. To limit the growth, an unsupervised loss is used for smoothing out the long term prediction. Please check [this](notebooks/Covid_19_Country_growth_similarity.ipynb) notebook for more details.
 
 ![RNN_predictor](assets/images/rnn.gif)
-A naive model based of reccurent cells us implied. The predictor was only trained on the neareast neighbours. To limit the growth, an unsupervised loss is used for smoothing out the long term prediction. Please check [this (notebooks/Covid_19_Country_growth_similarity.ipynb) notebook for more details.
 
 ## Results
 Below are the graphs for the results obtained for confirmed cases (left) and fatalities (right) of an country with and advanced disease spread and another with an average one. The predicted output represents a period of 60 days. 
