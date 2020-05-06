@@ -23,7 +23,7 @@ $ git clone https://github.com/rdbch/COVID-19-Forecast/
 $ cd COVID-19-Forecast 
 ```
 
-Install PyTorch and 1.0+ and other dependencies (pandas, numpy, seaborn, jupyter, etc).
+Install PyTorch 1.0+ and other dependencies (pandas, numpy, seaborn, jupyter, etc).
 - pip ``` $ pip install -r requirements.txt ```
 - conda ```  $ conda create --name COVID-19-Forecast --file req.txt ```
 
