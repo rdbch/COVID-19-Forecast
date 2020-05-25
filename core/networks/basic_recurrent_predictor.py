@@ -119,7 +119,7 @@ class BasicRecurrentPredictor(nn.Module):
                 else: # GRU cell has not cell state
                     hidState[i] = r(inp,hidState[i])
 
-            output   = self.mlpModel(hidState[-i])
+            output   = self.mlpModel(hidState[-1])
             if self.returnFullSeq:
                 outputs += [output]
 
@@ -138,7 +138,7 @@ class BasicRecurrentPredictor(nn.Module):
                 else: # GRU cell has not cell state
                     hidState[i] = r(inp, hidState[i])
 
-            output   = self.mlpModel(hidState[i])
+            output   = self.mlpModel(hidState[-1])
             outputs += [output]
 
         outputs = torch.stack(outputs, 1).squeeze(2)
