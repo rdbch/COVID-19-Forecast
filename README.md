@@ -1,7 +1,6 @@
 # COVID-19 Disease spread forecast
 This repository implements a Recurrent Neural Network, which predicts the spread of COVID-19 accross the world. To accomplish this, a model is trained for each country, taking into account its nearest neighbors in terms of growth (later explained).
 
-<img src="assets/images/romania_deaths.png" width = 350 ></img> <img src="assets/images/romania_confirmed.png" width = 350  ></img>
 ## Table of contents
 1. [Table of contents](#table-of-contents)
 2. [Getting started](#setup)
@@ -66,13 +65,6 @@ A naive model based of reccurent cells is implied. The predictor was only traine
 Below are the graphs for the results obtained for confirmed cases (left) and fatalities (right) of a country with an advanced disease spread and another with an average one. The predicted output represents a period of 60 days. 
 The data used for this task was last updated on ```26.04.2020``` .
 
-### Italy 
- 
-<img src="assets/images/italy_deaths.png"  width = 350 ></img> <img src="assets/images/italy_confirmed.png"  width = 350 ></img>
-
-### Romania
-
-<img src="assets/images/romania_deaths.png"  width = 350></img> <img src="assets/images/romania_confirmed.png"  width = 350></img>
 
 ## References
 1. [Pytorch example - Time Sequence Prediction](https://github.com/pytorch/examples/tree/master/time_sequence_prediction)
